@@ -1,0 +1,4021 @@
+Reading file: /home/mapred/graphmat/webuk/0
+Reading file: /home/mapred/graphmat/webuk/2
+Reading file: /home/mapred/graphmat/webuk/11
+Reading file: /home/mapred/graphmat/webuk/4
+Reading file: /home/mapred/graphmat/webuk/20
+Reading file: /home/mapred/graphmat/webuk/5
+Reading file: /home/mapred/graphmat/webuk/9
+Reading file: /home/mapred/graphmat/webuk/29
+Reading file: /home/mapred/graphmat/webuk/13
+Reading file: /home/mapred/graphmat/webuk/1
+Reading file: /home/mapred/graphmat/webuk/6
+Reading file: /home/mapred/graphmat/webuk/18
+Reading file: /home/mapred/graphmat/webuk/14
+Could not open file: /home/mapred/graphmat/webuk/38
+Reading file: /home/mapred/graphmat/webuk/22
+Reading file: /home/mapred/graphmat/webuk/8
+Reading file: /home/mapred/graphmat/webuk/3
+Reading file: /home/mapred/graphmat/webuk/31
+Reading file: /home/mapred/graphmat/webuk/23
+Reading file: /home/mapred/graphmat/webuk/27
+Reading file: /home/mapred/graphmat/webuk/17
+Could not open file: /home/mapred/graphmat/webuk/40
+Reading file: /home/mapred/graphmat/webuk/15
+Reading file: /home/mapred/graphmat/webuk/10
+Reading file: /home/mapred/graphmat/webuk/32
+Could not open file: /home/mapred/graphmat/webuk/36
+Reading file: /home/mapred/graphmat/webuk/7
+Reading file: /home/mapred/graphmat/webuk/26
+Reading file: /home/mapred/graphmat/webuk/19
+Reading file: /home/mapred/graphmat/webuk/35
+Reading file: /home/mapred/graphmat/webuk/12
+Could not open file: /home/mapred/graphmat/webuk/41
+Reading file: /home/mapred/graphmat/webuk/16
+Could not open file: /home/mapred/graphmat/webuk/44
+Reading file: /home/mapred/graphmat/webuk/21
+Reading file: /home/mapred/graphmat/webuk/28
+Reading file: /home/mapred/graphmat/webuk/25
+Reading file: /home/mapred/graphmat/webuk/30
+Could not open file: /home/mapred/graphmat/webuk/37
+Could not open file: /home/mapred/graphmat/webuk/39
+Reading file: /home/mapred/graphmat/webuk/34
+Could not open file: /home/mapred/graphmat/webuk/43
+Reading file: /home/mapred/graphmat/webuk/24
+Reading file: /home/mapred/graphmat/webuk/33
+Could not open file: /home/mapred/graphmat/webuk/42
+Got: 133633040 by 133633040  vertices
+Got: 608565228 edges
+Got: 133633040 by 133633040  verticesGot: 133633040Got: 133633040 by 133633040  vertices
+Got: 608275822 edges
+Got: 133633040Got: 133633040 by 133633040  verticesGot: 133633040 by Got: 133633040 by 133633040  vertices
+Got: 133633040 by 133633040  vertices
+Got: 608361219 edges
+
+Got: 608556838 edges
+ by 133633040  vertices
+Got: 608245836 edges
+ by 133633040  vertices
+Got: 608353397 edges
+
+Got: 608285199 edges
+133633040  vertices
+Got: 608261045 edges
+Got: 608205340 edges
+Rank 6: Before shuffle 608261045 edges
+Rank 5: Before shuffle 608285199 edges
+Rank 1: Before shuffle 608245836 edges
+Rank 3: Before shuffle 608353397 edges
+Rank 4: Before shuffle 608275822 edges
+Rank 0: Before shuffle 608361219 edges
+Rank 2: Before shuffle 608205340 edges
+Rank 7: Before shuffle 608556838 edges
+Rank 8: Before shuffle 608565228 edges
+Rank 8: After shuffle 728854396 edges
+Rank 6: After shuffle 544769807 edges
+Rank 7: After shuffle 542973071 edges
+Rank 1: After shuffle 549890874 edges
+Rank 4: After shuffle 732139974 edges
+Rank 3: After shuffle 547658472 edges
+Rank 5: After shuffle 548195693 edges
+Rank 2: After shuffle 547061105 edges
+Rank 0: After shuffle 733566532 edges
+Rank 8: After shuffle 728854396 edges
+Rank 7: After shuffle 542973071 edges
+Rank 3: After shuffle 547658472 edges
+Rank 2: After shuffle 547061105 edges
+Rank 1: After shuffle 549890874 edges
+Rank 4: After shuffle 732139974 edges
+Rank 5: After shuffle 548195693 edges
+Rank 6: After shuffle 544769807 edges
+Rank 0: After shuffle 733566532 edges
+num partitions: 336
+num partitions: 336
+num partitions: 336
+num partitions: 336
+num partitions: 336
+set_edge_pointers time: 0.782731
+set_edge_pointers time: 0.816559
+set_edge_pointers time: 1.11504
+set_edge_pointers time: 0.988047
+set_edge_pointers time: 1.12341
+num partitions: 336
+Allocating nnz vals: 58976713
+fn time: 2.09765
+num partitions: 336
+num partitions: 336
+Allocating nnz vals: 58073052
+fn time: 2.08482
+num partitions: 336
+Allocating nnz vals: 78027041
+set_edge_pointers time: 0.634524
+Allocating nnz vals: 77712502
+fn time: 2.82272
+num partitions: 336
+fn time: 2.70278
+num partitions: 336
+Allocating nnz vals: 77445583
+fn time: 2.83865
+num partitions: 336
+set_edge_pointers time: 1.14708
+set_edge_pointers time: 0.629452
+num partitions: 336
+set_edge_pointers time: 0.827386
+Allocating nnz vals: 45446180
+set_edge_pointers time: 0.642068
+fn time: 1.63345
+num partitions: 336
+set_edge_pointers time: 1.97926
+set_edge_pointers time: 1.97035
+Allocating nnz vals: 45452810
+fn time: 1.61661
+num partitions: 336
+set_edge_pointers time: 0.990234
+Allocating nnz vals: 45236419
+fn time: 1.63681
+num partitions: 336
+set_edge_pointers time: 1.00926
+Allocating nnz vals: 79178537
+fn time: 2.89825
+num partitions: 336
+Allocating nnz vals: 58034421
+fn time: 2.09431
+num partitions: 336
+set_edge_pointers time: 0.774971
+set_edge_pointers time: 0.640797
+set_edge_pointers time: 0.786741
+set_edge_pointers time: 0.654902
+num partitions: 336
+Allocating nnz vals: 77184616
+Allocating nnz vals: 58100707
+fn time: 2.71644
+num partitions: 336
+Allocating nnz vals: 46099271
+fn time: 2.05606
+num partitions: 336
+fn time: 1.66361
+num partitions: 336
+Allocating nnz vals: 77329867
+Allocating nnz vals: 45891614
+fn time: 1.67752
+num partitions: 336
+fn time: 3.19977
+num partitions: 336
+Allocating nnz vals: 59659357
+fn time: 2.08831
+num partitions: 336
+Allocating nnz vals: 145864839
+fn time: 5.22222
+num partitions: 336
+Allocating nnz vals: 145165424
+set_edge_pointers time: 0.624595
+set_edge_pointers time: 0.766937
+set_edge_pointers time: 0.665936
+fn time: 5.26326
+num partitions: 336
+set_edge_pointers time: 1.00608
+set_edge_pointers time: 0.876372
+set_edge_pointers time: 0.812799
+set_edge_pointers time: 0.676956
+set_edge_pointers time: 0.668658
+Allocating nnz vals: 45330890
+fn time: 1.61869
+num partitions: 336
+Allocating nnz vals: 47384737
+fn time: 1.69566
+num partitions: 336
+set_edge_pointers time: 2.007
+Allocating nnz vals: 57483215
+fn time: 2.02418
+num partitions: 336
+Allocating nnz vals: 48139355
+fn time: 1.74342
+num partitions: 336
+Allocating nnz vals: 61414164
+set_edge_pointers time: 0.767687
+fn time: 2.15981
+num partitions: 336
+Allocating nnz vals: 48100305
+fn time: 1.73677
+num partitions: 336
+Allocating nnz vals: 77249974
+Allocating nnz vals: 59814970
+fn time: 2.73054
+num partitions: 336
+fn time: 2.58787
+num partitions: 336
+set_edge_pointers time: 1.03254
+set_edge_pointers time: 0.664072
+set_edge_pointers time: 1.12214
+set_edge_pointers time: 0.657665
+set_edge_pointers time: 0.646334
+set_edge_pointers time: 0.805654
+set_edge_pointers time: 1.15297
+Allocating nnz vals: 58097554
+fn time: 2.0369
+num partitions: 336
+Allocating nnz vals: 49258235
+fn time: 1.73596
+num partitions: 336
+Allocating nnz vals: 49315821
+fn time: 1.7389
+num partitions: 336
+Allocating nnz vals: 79288357
+fn time: 2.79969
+num partitions: 336
+Allocating nnz vals: 46558961
+set_edge_pointers time: 0.637688
+Allocating nnz vals: 55908351
+fn time: 1.93612
+num partitions: 336
+fn time: 2.02433
+num partitions: 336
+Allocating nnz vals: 76431790
+fn time: 2.8007
+num partitions: 336
+set_edge_pointers time: 1.13749
+set_edge_pointers time: 0.670136
+Allocating nnz vals: 78288616
+set_edge_pointers time: 0.600215
+set_edge_pointers time: 0.632672
+fn time: 2.8929
+num partitions: 336
+set_edge_pointers time: 0.606886
+set_edge_pointers time: 0.854935
+Allocating nnz vals: 47805517
+fn time: 1.68083
+num partitions: 336
+Allocating nnz vals: 147128728
+set_edge_pointers time: 0.625463
+Allocating nnz vals: 50612467
+fn time: 1.79079
+num partitions: 336
+fn time: 6.22669
+num partitions: 336
+Allocating nnz vals: 44332346
+fn time: 1.5753
+num partitions: 336
+Allocating nnz vals: 44031025
+fn time: 1.55977
+num partitions: 336
+Allocating nnz vals: 77440550
+fn time: 2.85019
+num partitions: 336
+Allocating nnz vals: 45898424
+fn time: 1.94511
+num partitions: 336
+Allocating nnz vals: 59608626
+fn time: 2.16193
+num partitions: 336
+set_edge_pointers time: 0.719106
+Allocating nnz vals: 46570799
+set_edge_pointers time: 0.671619
+fn time: 1.63217
+num partitions: 336
+set_edge_pointers time: 0.669636
+set_edge_pointers time: 0.811397
+set_edge_pointers time: 0.622932
+set_edge_pointers time: 0.976133
+set_edge_pointers time: 1.93626
+set_edge_pointers time: 1.11757
+Allocating nnz vals: 48544622
+fn time: 1.75135
+num partitions: 336
+Allocating nnz vals: 48285243
+Allocating nnz vals: 48820111
+fn time: 1.72803
+set_edge_pointers time: 2.03322
+num partitions: 336
+fn time: 2.06199
+num partitions: 336
+Allocating nnz vals: 45067703
+fn time: 1.60739
+num partitions: 336
+Allocating nnz vals: 57383208
+set_edge_pointers time: 0.665492
+fn time: 2.05557
+num partitions: 336
+set_edge_pointers time: 0.829705
+set_edge_pointers time: 1.04607
+Allocating nnz vals: 77205837
+fn time: 2.80084
+num partitions: 336
+set_edge_pointers time: 0.771654
+set_edge_pointers time: 0.621437
+Allocating nnz vals: 76418750
+fn time: 3.13345
+num partitions: 336
+set_edge_pointers time: 0.614058
+Allocating nnz vals: 49587491
+Allocating nnz vals: 61126518
+fn time: 2.07233
+num partitions: 336
+fn time: 2.17448
+num partitions: 336
+Allocating nnz vals: 44918048
+fn time: 1.6118
+num partitions: 336
+set_edge_pointers time: 0.829828
+Allocating nnz vals: 57946293
+fn time: 2.0755
+num partitions: 336
+Allocating nnz vals: 144485926
+Allocating nnz vals: 79615641
+Allocating nnz vals: 44168511
+fn time: 2.82097
+num partitions: 336
+fn time: 5.18343
+num partitions: 336
+set_edge_pointers time: 0.671407
+fn time: 1.56588
+num partitions: 336
+Allocating nnz vals: 147959429
+fn time: 5.38081
+num partitions: 336
+set_edge_pointers time: 1.02736
+set_edge_pointers time: 1.19605
+set_edge_pointers time: 0.666337
+set_edge_pointers time: 0.759925
+set_edge_pointers time: 0.862469
+set_edge_pointers time: 1.13882
+set_edge_pointers time: 0.699708
+Allocating nnz vals: 57827684
+Allocating nnz vals: 49428368
+fn time: 2.45864
+num partitions: 336
+fn time: 2.04776
+num partitions: 336
+Allocating nnz vals: 46679582
+fn time: 1.72061
+num partitions: 336
+Allocating nnz vals: 58271944
+fn time: 2.01971
+Allocating nnz vals: 60706323
+fn time: 2.17763
+set_edge_pointers time: 0.840823
+Allocating nnz vals: 77436959
+Allocating nnz vals: 80952525
+Allocating nnz vals: 49530533
+fn time: 1.795
+num partitions: 336
+fn time: 2.82107
+fn time: 2.99746
+set_edge_pointers time: 0.713685
+Allocating nnz vals: 76566759
+fn time: 2.84735
+set_edge_pointers time: 0.659723
+set_edge_pointers time: 2.00245
+Allocating nnz vals: 51029156
+fn time: 1.84685
+num partitions: 336
+Allocating nnz vals: 58305125
+fn time: 2.50311
+num partitions: 336
+Allocating nnz vals: 47852377
+fn time: 1.71125
+num partitions: 336
+set_edge_pointers time: 0.691786
+set_edge_pointers time: 0.618474
+set_edge_pointers time: 0.652279
+Allocating nnz vals: 51494974
+fn time: 1.82503
+num partitions: 336
+Allocating nnz vals: 44774475
+Allocating nnz vals: 48132426
+fn time: 1.89683
+num partitions: 336
+fn time: 1.70511
+num partitions: 336
+set_edge_pointers time: 0.980691
+Allocating nnz vals: 145097108
+set_edge_pointers time: 2.02109
+fn time: 6.25144
+num partitions: 336
+set_edge_pointers time: 1.95025
+set_edge_pointers time: 0.710629
+Allocating nnz vals: 76044815
+fn time: 3.19834
+Allocating nnz vals: 47773198
+fn time: 2.04578
+num partitions: 336
+set_edge_pointers time: 0.67749
+Allocating nnz vals: 148808948
+fn time: 5.38717
+Allocating nnz vals: 145471192
+fn time: 5.26819
+Allocating nnz vals: 47589325
+fn time: 2.03446
+num partitions: 336
+set_edge_pointers time: 0.646775
+Allocating nnz vals: 48059331
+fn time: 2.00288
+num partitions: 336
+set_edge_pointers time: 1.99038
+Allocating nnz vals: 145370736
+fn time: 6.1794
+Rank 3: Before shuffle 547658472 edges
+Rank 5: Before shuffle 548195693 edges
+Rank 7: Before shuffle 542973071 edges
+Rank 2: Before shuffle 547061105 edges
+Rank 1: Before shuffle 549890874 edges
+Rank 6: Before shuffle 544769807 edges
+Rank 0: Before shuffle 733566532 edges
+Rank 4: Before shuffle 732139974 edges
+Rank 8: Before shuffle 728854396 edges
+Rank 4: After shuffle 732139974 edges
+Rank 2: After shuffle 544769807 edges
+Rank 8: After shuffle 728854396 edges
+Rank 1: After shuffle 547658472 edges
+Rank 3: After shuffle 549890874 edges
+Rank 5: After shuffle 542973071 edges
+Rank 0: After shuffle 733566532 edges
+Rank 7: After shuffle 548195693 edges
+Rank 6: After shuffle 547061105 edges
+Rank 8: After shuffle 728854396 edges
+Rank 6: After shuffle 547061105 edges
+Rank 7: After shuffle 548195693 edges
+Rank 1: After shuffle 547658472 edges
+Rank 4: After shuffle 732139974 edges
+Rank 3: After shuffle 549890874 edges
+Rank 5: After shuffle 542973071 edges
+Rank 2: After shuffle 544769807 edges
+Rank 0: After shuffle 733566532 edges
+num partitions: 336
+num partitions: 336
+num partitions: 336
+num partitions: 336
+num partitions: 336
+set_edge_pointers time: 0.748067
+set_edge_pointers time: 0.835304
+set_edge_pointers time: 0.961012
+set_edge_pointers time: 1.10943
+set_edge_pointers time: 1.11116
+Allocating nnz vals: 58073052
+fn time: 1.70208
+num partitions: 336
+Allocating nnz vals: 58976713
+fn time: 1.82742
+num partitions: 336
+num partitions: 336
+Allocating nnz vals: 78027041
+fn time: 2.25419
+num partitions: 336
+num partitions: 336
+Allocating nnz vals: 77329867
+Allocating nnz vals: 77712502
+fn time: 2.38012
+num partitions: 336
+fn time: 2.40715
+num partitions: 336
+set_edge_pointers time: 0.601366
+num partitions: 336
+set_edge_pointers time: 1.13017
+set_edge_pointers time: 0.611678
+set_edge_pointers time: 0.793752
+set_edge_pointers time: 0.715904
+Allocating nnz vals: 45330890
+fn time: 1.35949
+num partitions: 336
+Allocating nnz vals: 45898424
+fn time: 1.35246
+num partitions: 336
+set_edge_pointers time: 0.982547
+Allocating nnz vals: 47384737
+Allocating nnz vals: 57483215
+fn time: 1.52596
+num partitions: 336
+fn time: 1.73362
+num partitions: 336
+Allocating nnz vals: 77249974
+set_edge_pointers time: 2.18941
+fn time: 2.39557
+num partitions: 336
+set_edge_pointers time: 0.974123
+set_edge_pointers time: 2.10204
+set_edge_pointers time: 0.747634
+set_edge_pointers time: 0.653019
+set_edge_pointers time: 0.769558
+set_edge_pointers time: 0.660882
+Allocating nnz vals: 48285243
+Allocating nnz vals: 77205837
+Allocating nnz vals: 58305125
+fn time: 1.45444
+num partitions: 336
+fn time: 2.26625
+num partitions: 336
+fn time: 1.7222
+num partitions: 336
+Allocating nnz vals: 77445583
+Allocating nnz vals: 48544622
+fn time: 1.44789
+num partitions: 336
+fn time: 2.76419
+num partitions: 336
+Allocating nnz vals: 57383208
+fn time: 1.7617
+num partitions: 336
+num partitions: 336
+set_edge_pointers time: 0.611455
+set_edge_pointers time: 0.614543
+set_edge_pointers time: 0.780109
+set_edge_pointers time: 0.745847
+Allocating nnz vals: 145864839
+set_edge_pointers time: 0.86885
+set_edge_pointers time: 1.04976
+fn time: 4.7068
+num partitions: 336
+Allocating nnz vals: 145165424
+Allocating nnz vals: 45452810
+fn time: 4.53711
+num partitions: 336
+fn time: 1.3817
+num partitions: 336
+Allocating nnz vals: 45446180
+fn time: 1.35947
+num partitions: 336
+Allocating nnz vals: 59814970
+fn time: 1.77062
+num partitions: 336
+set_edge_pointers time: 0.663511
+Allocating nnz vals: 58034421
+fn time: 1.73331
+num partitions: 336
+set_edge_pointers time: 0.699759
+set_edge_pointers time: 0.750037
+Allocating nnz vals: 79178537
+set_edge_pointers time: 0.970107
+Allocating nnz vals: 61414164
+fn time: 2.36341
+num partitions: 336
+fn time: 2.29583
+num partitions: 336
+Allocating nnz vals: 47805517
+fn time: 1.53421
+num partitions: 336
+set_edge_pointers time: 2.3549
+Allocating nnz vals: 50612467
+set_edge_pointers time: 1.11113
+fn time: 1.59402
+num partitions: 336
+Allocating nnz vals: 55908351
+set_edge_pointers time: 0.63208
+set_edge_pointers time: 1.15549
+fn time: 1.67106
+num partitions: 336
+set_edge_pointers time: 0.807967
+set_edge_pointers time: 0.69068
+Allocating nnz vals: 76431790
+fn time: 2.24347
+num partitions: 336
+set_edge_pointers time: 0.679246
+Allocating nnz vals: 45067703
+Allocating nnz vals: 76418750
+Allocating nnz vals: 58097554
+fn time: 1.64564
+num partitions: 336
+fn time: 1.75613
+num partitions: 336
+fn time: 2.3626
+num partitions: 336
+Allocating nnz vals: 51029156
+fn time: 1.56029
+num partitions: 336
+Allocating nnz vals: 47852377
+set_edge_pointers time: 1.22168
+Allocating nnz vals: 79288357
+fn time: 1.47313
+num partitions: 336
+set_edge_pointers time: 0.862704
+fn time: 2.48088
+num partitions: 336
+set_edge_pointers time: 0.599591
+set_edge_pointers time: 0.596364
+set_edge_pointers time: 0.595561
+set_edge_pointers time: 0.621892
+set_edge_pointers time: 0.639346
+set_edge_pointers time: 0.695157
+Allocating nnz vals: 61126518
+Allocating nnz vals: 44168511
+Allocating nnz vals: 44774475
+fn time: 1.84926
+num partitions: 336
+fn time: 1.31471
+num partitions: 336
+fn time: 1.33842
+num partitions: 336
+Allocating nnz vals: 79615641
+Allocating nnz vals: 48139355
+Allocating nnz vals: 45236419
+fn time: 2.5252
+fn time: 1.42579
+num partitions: 336
+num partitions: 336
+fn time: 1.62731
+num partitions: 336
+Allocating nnz vals: 48100305
+fn time: 1.44713
+num partitions: 336
+Allocating nnz vals: 44918048
+fn time: 1.45154
+num partitions: 336
+Allocating nnz vals: 147128728
+set_edge_pointers time: 0.63884
+set_edge_pointers time: 0.645405
+set_edge_pointers time: 0.813769
+fn time: 5.87632
+num partitions: 336
+set_edge_pointers time: 0.616712
+set_edge_pointers time: 0.992747
+Allocating nnz vals: 46099271
+set_edge_pointers time: 1.15105
+Allocating nnz vals: 46558961
+fn time: 1.4135
+num partitions: 336
+fn time: 1.41589
+num partitions: 336
+set_edge_pointers time: 0.682535
+Allocating nnz vals: 58100707
+fn time: 1.77194
+num partitions: 336
+Allocating nnz vals: 45891614
+fn time: 1.4043
+num partitions: 336
+set_edge_pointers time: 0.74888
+set_edge_pointers time: 0.587571
+set_edge_pointers time: 0.973199
+set_edge_pointers time: 2.16035
+Allocating nnz vals: 77184616
+Allocating nnz vals: 49428368
+fn time: 2.41151
+num partitions: 336
+set_edge_pointers time: 2.26118
+set_edge_pointers time: 0.783335
+fn time: 1.85502
+num partitions: 336
+Allocating nnz vals: 44031025
+Allocating nnz vals: 78288616
+Allocating nnz vals: 57827684
+fn time: 1.31183
+num partitions: 336
+fn time: 1.67502
+num partitions: 336
+fn time: 2.90198
+num partitions: 336
+set_edge_pointers time: 0.58409
+set_edge_pointers time: 0.634453
+Allocating nnz vals: 59608626
+Allocating nnz vals: 77440550
+fn time: 1.77426
+num partitions: 336
+fn time: 2.26541
+num partitions: 336
+Allocating nnz vals: 44332346
+fn time: 1.29799
+num partitions: 336
+set_edge_pointers time: 0.839806
+set_edge_pointers time: 1.03165
+set_edge_pointers time: 1.10302
+Allocating nnz vals: 47589325
+fn time: 1.72064
+num partitions: 336
+set_edge_pointers time: 0.819835
+Allocating nnz vals: 144485926
+set_edge_pointers time: 0.795299
+set_edge_pointers time: 1.19023
+fn time: 4.62491
+num partitions: 336
+Allocating nnz vals: 147959429
+set_edge_pointers time: 0.674393
+fn time: 4.80479
+num partitions: 336
+Allocating nnz vals: 57946293
+Allocating nnz vals: 80952525
+fn time: 2.19192
+Allocating nnz vals: num partitions: 336
+58271944
+Allocating nnz vals: 76044815
+fn time: 2.36065
+fn time: 1.77122
+fn time: 2.37258
+set_edge_pointers time: 0.721571
+Allocating nnz vals: 60706323
+fn time: 1.77585
+set_edge_pointers time: 0.708054
+Allocating nnz vals: 77436959
+fn time: 2.46972
+Allocating nnz vals: 48820111
+set_edge_pointers time: 0.82899
+fn time: 1.80105
+num partitions: 336
+Allocating nnz vals: 51494974
+fn time: 1.59791
+num partitions: 336
+Allocating nnz vals: 48132426
+fn time: 1.51377
+num partitions: 336
+set_edge_pointers time: 0.677845
+set_edge_pointers time: 0.660727
+Allocating nnz vals: 59659357
+fn time: 2.25015
+num partitions: 336
+Allocating nnz vals: 49258235
+fn time: 1.50369
+num partitions: 336
+Allocating nnz vals: 49315821
+fn time: 1.49858
+num partitions: 336
+set_edge_pointers time: 0.639464
+set_edge_pointers time: 2.19959
+set_edge_pointers time: 0.614669
+set_edge_pointers time: 0.667077
+Allocating nnz vals: 46570799
+Allocating nnz vals: 46679582
+fn time: 1.70892
+num partitions: 336
+fn time: 1.42303
+num partitions: 336
+Allocating nnz vals: 49530533
+fn time: 1.51574
+num partitions: 336
+set_edge_pointers time: 0.99423
+set_edge_pointers time: 2.12722
+Allocating nnz vals: 145097108
+set_edge_pointers time: 2.08582
+fn time: 5.64894
+num partitions: 336
+Allocating nnz vals: 76566759
+fn time: 2.80285
+set_edge_pointers time: 0.667722
+Allocating nnz vals: 48059331
+fn time: 1.75479
+num partitions: 336
+Allocating nnz vals: 148808948
+fn time: 4.68279
+Allocating nnz vals: 145471192
+fn time: 4.54384
+set_edge_pointers time: 0.702818
+Allocating nnz vals: 49587491
+fn time: 1.87574
+num partitions: 336
+set_edge_pointers time: 0.641344
+Allocating nnz vals: 47773198
+fn time: 1.88488
+num partitions: 336
+set_edge_pointers time: 2.1106
+Allocating nnz vals: 145370736
+fn time: 5.59968
+Finished GraphMat read + construction, time: 137.491
+Finished GraphMat read + construction, time: 145.697
+Finished GraphMat read + construction, time: 145.592
+Finished GraphMat read + construction, time: 145.484
+Finished GraphMat read + construction, time: 145.411Finished GraphMat read + construction, time: 
+145.451
+Finished GraphMat read + construction, time: 145.525
+Finished GraphMat read + construction, time: 145.546
+Finished GraphMat read + construction, time: 145.221
+Nvertices = 133633040 
+GraphMat init time = 0.094000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.034000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.101000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.097000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.091000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.161000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.144000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.044000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.127000 ms 
+x.length = 133633040 
+Send message time = 48.371 ms 
+x.length = 133633040 
+Send message time = 24.045 ms 
+x.length = 133633040 
+Send message time = 81.285 ms 
+x.length = 133633040 
+Send message time = 73.790 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 74.984 ms 
+x.length = 133633040 
+Send message time = 77.116 ms 
+Send message time = 81.755 ms 
+x.length = 133633040 
+Send message time = 82.250 ms 
+x.length = 133633040 
+Send message time = 81.121 ms 
+SPMSPV: time = 1482.450 ms 
+SPMV time = 1482.607 ms 
+SPMSPV: time = 1485.961 ms 
+SPMV time = 1486.061 ms 
+SPMSPV: time = 1493.295 ms 
+SPMV time = 1493.331 ms 
+SPMSPV: time = 1496.621 ms 
+SPMV time = 1496.725 ms 
+SPMSPV: time = 1507.146 ms 
+SPMV time = 1507.181 ms 
+SPMSPV: time = 1510.592 ms 
+SPMV time = 1510.630 ms 
+SPMSPV: time = 1660.663 ms 
+SPMV time = 1660.903 ms 
+SPMSPV: time = 1665.824 ms 
+SPMV time = 1665.864 ms 
+SPMSPV: time = 1669.529 ms 
+SPMV time = 1669.640 ms 
+Apply time = 27.484 ms 
+Apply time = 181.173 ms 
+Apply time = 18.775 ms 
+Apply time = 195.039 ms 
+Apply time = 22.524 ms 
+Apply time = 191.692 ms 
+Apply time = 177.823 ms 
+Apply time = 205.842 ms 
+Apply time = 202.348 ms 
+Iteration 0 :: 1769.599000 msec :: updated 121155132 vertices :: changed 0 vertices 
+GraphMat clear time = 0.000000 msec 
+Completed 1 iterations 
+Degree Time = 1779.175 ms 
+Iteration 0 :: 1770.244000 msec :: updated 121155132 vertices :: changed 0 vertices 
+GraphMat clear time = 0.000000 msec 
+Completed 1 iterations 
+Degree Time = 1779.833 ms 
+Iteration 0 :: 1763.407000 msec :: updated 121155132 vertices :: changed 0 vertices 
+GraphMat clear time = 0.000000 msec 
+Completed 1 iterations 
+Degree Time = 1773.397 ms 
+Iteration 0 :: 1770.734000 msec :: updated 121155132 vertices :: changed 0 vertices 
+GraphMat clear time = 0.000000 msec 
+Completed 1 iterations 
+Degree Time = 1780.348 ms 
+Iteration 0 :: 1712.476000 msec :: updated 121155132 vertices :: changed 0 vertices 
+GraphMat clear time = 0.000000 msec 
+Completed 1 iterations 
+Degree Time = 1722.517 ms 
+Iteration 0 :: 1765.615000 msec :: updated 121155132 vertices :: changed 0 vertices 
+GraphMat clear time = 0.000000 msec 
+Completed 1 iterations 
+Degree Time = 1775.167 ms 
+Iteration 0 :: 1769.800000 msec :: updated 121155132 vertices :: changed 0 vertices 
+GraphMat clear time = 0.000000 msec 
+Completed 1 iterations 
+Degree Time = 1779.533 ms 
+Iteration 0 :: 1762.298000 msec :: updated 121155132 vertices :: changed 0 vertices 
+GraphMat clear time = 0.001000 msec 
+Completed 1 iterations 
+Degree Time = 1772.075 ms 
+Iteration 0 :: 1736.853000 msec :: updated 121155132 vertices :: changed 0 vertices 
+GraphMat clear time = 0.000000 msec 
+Completed 1 iterations 
+Degree Time = 1746.815 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.156000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.212000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.214000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.219000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.282000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.251000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.207000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.248000 ms 
+Nvertices = 133633040 
+GraphMat init time = 0.134000 ms 
+x.length = 133633040 
+Send message time = 21.810 ms 
+x.length = 133633040 
+Send message time = 26.470 ms 
+x.length = 133633040 
+Send message time = 32.625 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 27.757 ms 
+x.length = 133633040 
+Send message time = 29.304 ms 
+x.length = 133633040 
+Send message time = 29.554 ms 
+Send message time = 31.274 ms 
+x.length = 133633040 
+Send message time = 30.288 ms 
+x.length = 133633040 
+Send message time = 31.246 ms 
+SPMTSPV: time = 2088.083 ms 
+SPMV time = 2088.197 ms 
+SPMTSPV: time = 2106.962 ms 
+SPMV time = 2107.002 ms 
+SPMTSPV: time = 2109.759 ms 
+SPMV time = 2109.809 ms 
+SPMTSPV: time = 2139.953 ms 
+SPMV time = 2140.061 ms 
+SPMTSPV: time = 2147.086 ms 
+SPMV time = 2147.139 ms 
+SPMTSPV: time = 2155.415 ms 
+SPMV time = 2155.478 ms 
+SPMTSPV: time = 2232.155 ms 
+SPMV time = 2232.196 ms 
+SPMTSPV: time = 2232.823 ms 
+SPMV time = 2232.859 ms 
+SPMTSPV: time = 2246.228 ms 
+SPMV time = 2246.267 ms 
+Apply time = 16.409 ms 
+Apply time = 29.947 ms 
+Apply time = 152.861 ms 
+Apply time = 174.459 ms 
+Apply time = 115.559 ms 
+Apply time = 107.281 ms 
+Apply time = 30.518 ms 
+Apply time = 122.566 ms 
+Apply time = 155.842 ms 
+Iteration 0 :: 2284.669000 msec :: updated 125214648 vertices :: changed 125207923 vertices 
+Iteration 0 :: 2292.450000 msec :: updated 125214648 vertices :: changed 125207923 vertices 
+Iteration 0 :: 2289.198000 msec :: updated 125214648 vertices :: changed 125207923 vertices 
+Iteration 0 :: 2292.013000 msec :: updated 125214648 vertices :: changed 125207923 vertices 
+Iteration 0 :: 2295.364000 msec :: updated 125214648 vertices :: changed 125207923 vertices 
+Iteration 0 :: 2294.037000 msec :: updated 125214648 vertices :: changed 125207923 vertices 
+Iteration 0 :: 2290.566000 msec :: updated 125214648 vertices :: changed 125207923 vertices 
+Iteration 0 :: 2293.062000 msec :: updated 125214648 vertices :: changed 125207923 vertices 
+Iteration 0 :: 2293.944000 msec :: updated 125214648 vertices :: changed 125207923 vertices 
+x.length = 133633040 
+Send message time = 32.324 ms 
+x.length = 133633040 
+Send message time = 34.301 ms 
+x.length = 133633040 
+Send message time = 34.345 ms 
+x.length = 133633040 
+Send message time = 34.563 ms 
+x.length = 133633040 
+Send message time = 34.435 ms 
+x.length = 133633040 
+Send message time = 34.407 ms 
+x.length = 133633040 
+Send message time = 34.261 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 34.444 ms 
+Send message time = 25.762 ms 
+SPMTSPV: time = 1880.258 ms 
+SPMV time = 1880.362 ms 
+SPMTSPV: time = 1889.215 ms 
+SPMV time = 1889.250 ms 
+SPMTSPV: time = 1893.553 ms 
+SPMV time = 1893.604 ms 
+SPMTSPV: time = 1997.262 ms 
+SPMV time = 1997.301 ms 
+SPMTSPV: time = 2009.438 ms 
+SPMV time = 2009.585 ms 
+SPMTSPV: time = 2014.818 ms 
+SPMV time = 2014.957 ms 
+SPMTSPV: time = 2087.359 ms 
+SPMV time = 2087.458 ms 
+SPMTSPV: time = 2090.860 ms 
+SPMV time = 2090.898 ms 
+SPMTSPV: time = 2091.499 ms 
+SPMV time = 2091.616 ms 
+Apply time = 27.670 ms 
+Apply time = 224.967 ms 
+Apply time = 238.287 ms 
+Apply time = 103.736 ms 
+Apply time = 27.151 ms 
+Apply time = 109.020 ms 
+Apply time = 31.288 ms 
+Apply time = 229.671 ms 
+Apply time = 121.577 ms 
+Iteration 1 :: 2151.302000 msec :: updated 125214648 vertices :: changed 119421865 vertices 
+Iteration 1 :: 2152.914000 msec :: updated 125214648 vertices :: changed 119421865 vertices 
+Iteration 1 :: 2153.254000 msec :: updated 125214648 vertices :: changed 119421865 vertices 
+Iteration 1 :: 2144.697000 msec :: updated 125214648 vertices :: changed 119421865 vertices 
+Iteration 1 :: 2152.980000 msec :: updated 125214648 vertices :: changed 119421865 vertices 
+Iteration 1 :: 2153.269000 msec :: updated 125214648 vertices :: changed 119421865 vertices 
+Iteration 1 :: 2153.187000 msec :: updated 125214648 vertices :: changed 119421865 vertices 
+Iteration 1 :: 2153.244000 msec :: updated 125214648 vertices :: changed 119421865 vertices 
+Iteration 1 :: 2152.922000 msec :: updated 125214648 vertices :: changed 119421865 vertices 
+x.length = 133633040 
+Send message time = 33.705 ms 
+x.length = 133633040 
+Send message time = 43.573 ms 
+x.length = 133633040 
+Send message time = 43.997 ms 
+x.length = 133633040 
+Send message time = 52.789 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 44.002 ms 
+x.length = 133633040 
+Send message time = 52.755 ms 
+Send message time = 50.863 ms 
+x.length = 133633040 
+Send message time = 44.970 ms 
+x.length = 133633040 
+Send message time = 52.671 ms 
+SPMTSPV: time = 1888.003 ms 
+SPMV time = 1888.065 ms 
+SPMTSPV: time = 1902.593 ms 
+SPMV time = 1902.703 ms 
+SPMTSPV: time = 1907.545 ms 
+SPMV time = 1907.703 ms 
+SPMTSPV: time = 1929.367 ms 
+SPMV time = 1929.400 ms 
+SPMTSPV: time = 1939.060 ms 
+SPMV time = 1939.102 ms 
+SPMTSPV: time = 1942.455 ms 
+SPMV time = 1942.593 ms 
+SPMTSPV: time = 2066.034 ms 
+SPMV time = 2066.145 ms 
+SPMTSPV: time = 2070.603 ms 
+SPMV time = 2070.714 ms 
+SPMTSPV: time = 2071.899 ms 
+SPMV time = 2071.934 ms 
+Apply time = 27.797 ms 
+Apply time = 192.184 ms 
+Apply time = 197.158 ms 
+Apply time = 157.417 ms 
+Apply time = 29.245 ms 
+Apply time = 160.779 ms 
+Apply time = 33.887 ms 
+Apply time = 170.695 ms 
+Apply time = 212.049 ms 
+Iteration 2 :: 2133.878000 msec :: updated 125214648 vertices :: changed 114482640 vertices 
+Iteration 2 :: 2152.786000 msec :: updated 125214648 vertices :: changed 114482640 vertices 
+Iteration 2 :: 2144.751000 msec :: updated 125214648 vertices :: changed 114482640 vertices 
+Iteration 2 :: 2143.535000 msec :: updated 125214648 vertices :: changed 114482640 vertices 
+Iteration 2 :: 2143.916000 msec :: updated 125214648 vertices :: changed 114482640 vertices 
+Iteration 2 :: 2152.874000 msec :: updated 125214648 vertices :: changed 114482640 vertices 
+Iteration 2 :: 2150.993000 msec :: updated 125214648 vertices :: changed 114482640 vertices 
+Iteration 2 :: 2144.079000 msec :: updated 125214648 vertices :: changed 114482640 vertices 
+Iteration 2 :: 2152.590000 msec :: updated 125214648 vertices :: changed 114482640 vertices 
+x.length = 133633040 
+Send message time = 43.075 ms 
+x.length = 133633040 
+Send message time = 43.249 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 34.393 ms 
+x.length = 133633040 
+Send message time = 43.195 ms 
+Send message time = 31.900 ms 
+x.length = 133633040 
+Send message time = 43.443 ms 
+x.length = 133633040 
+Send message time = 43.346 ms 
+x.length = 133633040 
+Send message time = 43.338 ms 
+x.length = 133633040 
+Send message time = 43.194 ms 
+SPMTSPV: time = 1868.651 ms 
+SPMV time = 1868.691 ms 
+SPMTSPV: time = 1882.264 ms 
+SPMV time = 1882.372 ms 
+SPMTSPV: time = 1896.779 ms 
+SPMV time = 1896.921 ms 
+SPMTSPV: time = 1938.703 ms 
+SPMV time = 1938.743 ms 
+SPMTSPV: time = 1950.234 ms 
+SPMV time = 1950.330 ms 
+SPMTSPV: time = 1957.040 ms 
+SPMV time = 1957.085 ms 
+SPMTSPV: time = 2041.283 ms 
+SPMV time = 2041.319 ms 
+SPMTSPV: time = 2065.426 ms 
+SPMV time = 2065.654 ms 
+SPMTSPV: time = 2066.004 ms 
+SPMV time = 2066.048 ms 
+Apply time = 40.359 ms 
+Apply time = 209.103 ms 
+Apply time = 223.852 ms 
+Apply time = 149.129 ms 
+Apply time = 155.723 ms 
+Apply time = 237.566 ms 
+Apply time = 40.104 ms 
+Apply time = 64.893 ms 
+Apply time = 167.518 ms 
+Iteration 3 :: 2149.501000 msec :: updated 125214648 vertices :: changed 111573753 vertices 
+Iteration 3 :: 2138.219000 msec :: updated 125214648 vertices :: changed 111573753 vertices 
+Iteration 3 :: 2140.672000 msec :: updated 125214648 vertices :: changed 111573753 vertices 
+Iteration 3 :: 2149.449000 msec :: updated 125214648 vertices :: changed 111573753 vertices 
+Iteration 3 :: 2149.629000 msec :: updated 125214648 vertices :: changed 111573753 vertices 
+Iteration 3 :: 2149.349000 msec :: updated 125214648 vertices :: changed 111573753 vertices 
+Iteration 3 :: 2149.657000 msec :: updated 125214648 vertices :: changed 111573753 vertices 
+Iteration 3 :: 2149.315000 msec :: updated 125214648 vertices :: changed 111573753 vertices 
+Iteration 3 :: 2149.653000 msec :: updated 125214648 vertices :: changed 111573753 vertices 
+x.length = 133633040 
+Send message time = 34.857 ms 
+x.length = 133633040 
+Send message time = 43.721 ms 
+x.length = 133633040 
+Send message time = 43.968 ms 
+x.length = 133633040 
+Send message time = 43.877 ms 
+x.length = 133633040 
+Send message time = 35.146 ms 
+x.length = 133633040 
+Send message time = 35.597 ms 
+x.length = 133633040 
+Send message time = 43.628 ms 
+x.length = 133633040 
+Send message time = 41.299 ms 
+x.length = 133633040 
+Send message time = 43.911 ms 
+SPMTSPV: time = 1857.100 ms 
+SPMV time = 1857.211 ms 
+SPMTSPV: time = 1880.937 ms 
+SPMV time = 1880.973 ms 
+SPMTSPV: time = 1900.713 ms 
+SPMV time = 1900.757 ms 
+SPMTSPV: time = 1925.419 ms 
+SPMV time = 1925.456 ms 
+SPMTSPV: time = 1929.098 ms 
+SPMV time = 1929.229 ms 
+SPMTSPV: time = 1955.285 ms 
+SPMV time = 1955.423 ms 
+SPMTSPV: time = 2076.334 ms 
+SPMV time = 2076.440 ms 
+SPMTSPV: time = 2096.255 ms 
+SPMV time = 2096.479 ms 
+SPMTSPV: time = 2109.187 ms 
+SPMV time = 2109.298 ms 
+Apply time = 29.326 ms 
+Apply time = 225.089 ms 
+Apply time = 170.429 ms 
+Apply time = 16.542 ms 
+Apply time = 196.572 ms 
+Apply time = 49.364 ms 
+Apply time = 268.635 ms 
+Apply time = 244.896 ms 
+Apply time = 200.358 ms 
+Iteration 4 :: 2160.762000 msec :: updated 125214648 vertices :: changed 107634924 vertices 
+Iteration 4 :: 2169.613000 msec :: updated 125214648 vertices :: changed 107634924 vertices 
+Iteration 4 :: 2169.811000 msec :: updated 125214648 vertices :: changed 107634924 vertices 
+Iteration 4 :: 2161.068000 msec :: updated 125214648 vertices :: changed 107634924 vertices 
+Iteration 4 :: 2161.537000 msec :: updated 125214648 vertices :: changed 107634924 vertices 
+Iteration 4 :: 2169.882000 msec :: updated 125214648 vertices :: changed 107634924 vertices 
+Iteration 4 :: 2169.493000 msec :: updated 125214648 vertices :: changed 107634924 vertices 
+Iteration 4 :: 2167.174000 msec :: updated 125214648 vertices :: changed 107634924 vertices 
+Iteration 4 :: 2169.773000 msec :: updated 125214648 vertices :: changed 107634924 vertices 
+x.length = 133633040 
+Send message time = 72.170 ms 
+x.length = 133633040 
+Send message time = 54.172 ms 
+x.length = 133633040 
+Send message time = 74.319 ms 
+x.length = 133633040 
+Send message time = 66.936 ms 
+x.length = 133633040 
+Send message time = 66.808 ms 
+x.length = 133633040 
+Send message time = 63.320 ms 
+x.length = 133633040 
+Send message time = 74.187 ms 
+x.length = 133633040 
+Send message time = 69.525 ms 
+x.length = 133633040 
+Send message time = 65.901 ms 
+SPMTSPV: time = 1889.546 ms 
+SPMV time = 1889.598 ms 
+SPMTSPV: time = 1898.263 ms 
+SPMV time = 1898.358 ms 
+SPMTSPV: time = 1917.404 ms 
+SPMV time = 1917.443 ms 
+SPMTSPV: time = 1924.788 ms 
+SPMV time = 1924.891 ms 
+SPMTSPV: time = 1930.478 ms 
+SPMV time = 1930.549 ms 
+SPMTSPV: time = 1939.436 ms 
+SPMV time = 1939.497 ms 
+SPMTSPV: time = 2107.477 ms 
+SPMV time = 2107.514 ms 
+SPMTSPV: time = 2115.605 ms 
+SPMV time = 2115.816 ms 
+SPMTSPV: time = 2116.712 ms 
+SPMV time = 2116.747 ms 
+Apply time = 37.030 ms 
+Apply time = 264.110 ms 
+Apply time = 223.352 ms 
+Apply time = 214.369 ms 
+Apply time = 46.336 ms 
+Apply time = 228.781 ms 
+Apply time = 38.178 ms 
+Apply time = 236.418 ms 
+Apply time = 255.707 ms 
+Iteration 5 :: 2220.699000 msec :: updated 125214648 vertices :: changed 103082839 vertices 
+Iteration 5 :: 2219.641000 msec :: updated 125214648 vertices :: changed 103082839 vertices 
+Iteration 5 :: 2226.255000 msec :: updated 125214648 vertices :: changed 103082839 vertices 
+Iteration 5 :: 2228.458000 msec :: updated 125214648 vertices :: changed 103082839 vertices 
+Iteration 5 :: 2217.137000 msec :: updated 125214648 vertices :: changed 103082839 vertices 
+Iteration 5 :: 2223.422000 msec :: updated 125214648 vertices :: changed 103082839 vertices 
+Iteration 5 :: 2208.098000 msec :: updated 125214648 vertices :: changed 103082839 vertices 
+Iteration 5 :: 2220.763000 msec :: updated 125214648 vertices :: changed 103082839 vertices 
+Iteration 5 :: 2228.106000 msec :: updated 125214648 vertices :: changed 103082839 vertices 
+x.length = 133633040 
+Send message time = 29.550 ms 
+x.length = 133633040 
+Send message time = 37.790 ms 
+x.length = 133633040 
+Send message time = 30.509 ms 
+x.length = 133633040 
+Send message time = 40.925 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 28.654 ms 
+Send message time = 40.646 ms 
+x.length = 133633040 
+Send message time = 32.049 ms 
+x.length = 133633040 
+Send message time = 38.980 ms 
+x.length = 133633040 
+Send message time = 30.857 ms 
+SPMTSPV: time = 1876.870 ms 
+SPMV time = 1876.976 ms 
+SPMTSPV: time = 1905.876 ms 
+SPMV time = 1905.911 ms 
+SPMTSPV: time = 1912.313 ms 
+SPMV time = 1912.443 ms 
+SPMTSPV: time = 1924.031 ms 
+SPMV time = 1924.077 ms 
+SPMTSPV: time = 1970.258 ms 
+SPMV time = 1970.314 ms 
+SPMTSPV: time = 1983.655 ms 
+SPMV time = 1983.811 ms 
+SPMTSPV: time = 2095.899 ms 
+SPMV time = 2095.936 ms 
+SPMTSPV: time = 2148.910 ms 
+SPMV time = 2149.124 ms 
+SPMTSPV: time = 2152.076 ms 
+SPMV time = 2152.244 ms 
+Apply time = 37.371 ms 
+Apply time = 202.742 ms 
+Apply time = 216.286 ms 
+Apply time = 262.546 ms 
+Apply time = 274.111 ms 
+Apply time = 90.616 ms 
+Apply time = 309.669 ms 
+Apply time = 34.404 ms 
+Apply time = 280.709 ms 
+Iteration 6 :: 2216.145000 msec :: updated 125214648 vertices :: changed 98465366 vertices 
+Iteration 6 :: 2215.366000 msec :: updated 125214648 vertices :: changed 98465366 vertices 
+Iteration 6 :: 2227.603000 msec :: updated 125214648 vertices :: changed 98465366 vertices 
+Iteration 6 :: 2227.358000 msec :: updated 125214648 vertices :: changed 98465366 vertices 
+Iteration 6 :: 2218.663000 msec :: updated 125214648 vertices :: changed 98465366 vertices 
+Iteration 6 :: 2225.587000 msec :: updated 125214648 vertices :: changed 98465366 vertices 
+Iteration 6 :: 2217.535000 msec :: updated 125214648 vertices :: changed 98465366 vertices 
+Iteration 6 :: 2224.434000 msec :: updated 125214648 vertices :: changed 98465366 vertices 
+Iteration 6 :: 2217.164000 msec :: updated 125214648 vertices :: changed 98465366 vertices 
+x.length = 133633040 
+Send message time = 56.066 ms 
+x.length = 133633040 
+Send message time = 44.497 ms 
+x.length = 133633040 
+Send message time = 47.480 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 50.392 ms 
+x.length = 133633040 
+Send message time = 56.314 ms 
+x.length = 133633040 
+Send message time = 56.153 ms 
+Send message time = 56.231 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 56.456 ms 
+Send message time = 56.262 ms 
+SPMTSPV: time = 1839.530 ms 
+SPMV time = 1839.567 ms 
+SPMTSPV: time = 1865.457 ms 
+SPMV time = 1865.499 ms 
+SPMTSPV: time = 1881.197 ms 
+SPMV time = 1881.229 ms 
+SPMTSPV: time = 1911.558 ms 
+SPMV time = 1911.594 ms 
+SPMTSPV: time = 1919.678 ms 
+SPMV time = 1919.809 ms 
+SPMTSPV: time = 1920.632 ms 
+SPMV time = 1920.748 ms 
+SPMTSPV: time = 2075.017 ms 
+SPMV time = 2075.116 ms 
+SPMTSPV: time = 2084.155 ms 
+SPMV time = 2084.197 ms 
+SPMTSPV: time = 2090.323 ms 
+SPMV time = 2090.365 ms 
+Apply time = 28.481 ms 
+Apply time = 231.471 ms 
+Apply time = 247.253 ms 
+Apply time = 191.941 ms 
+Apply time = 22.578 ms 
+Apply time = 193.075 ms 
+Apply time = 37.790 ms 
+Apply time = 273.364 ms 
+Apply time = 201.334 ms 
+Iteration 7 :: 2168.791000 msec :: updated 125214648 vertices :: changed 93854294 vertices 
+Iteration 7 :: 2163.127000 msec :: updated 125214648 vertices :: changed 93854294 vertices 
+Iteration 7 :: 2169.304000 msec :: updated 125214648 vertices :: changed 93854294 vertices 
+Iteration 7 :: 2157.498000 msec :: updated 125214648 vertices :: changed 93854294 vertices 
+Iteration 7 :: 2168.962000 msec :: updated 125214648 vertices :: changed 93854294 vertices 
+Iteration 7 :: 2169.205000 msec :: updated 125214648 vertices :: changed 93854294 vertices 
+Iteration 7 :: 2169.239000 msec :: updated 125214648 vertices :: changed 93854294 vertices 
+Iteration 7 :: 2160.418000 msec :: updated 125214648 vertices :: changed 93854294 vertices 
+Iteration 7 :: 2169.200000 msec :: updated 125214648 vertices :: changed 93854294 vertices 
+x.length = 133633040 
+Send message time = 50.744 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 43.130 ms 
+x.length = 133633040 
+Send message time = 50.918 ms 
+Send message time = 42.371 ms 
+x.length = 133633040 
+Send message time = 42.573 ms 
+x.length = 133633040 
+Send message time = 50.970 ms 
+x.length = 133633040 
+Send message time = 50.824 ms 
+x.length = 133633040 
+Send message time = 46.162 ms 
+x.length = 133633040 
+Send message time = 50.984 ms 
+SPMTSPV: time = 1846.893 ms 
+SPMV time = 1846.934 ms 
+SPMTSPV: time = 1922.484 ms 
+SPMV time = 1922.581 ms 
+SPMTSPV: time = 1929.892 ms 
+SPMV time = 1930.031 ms 
+SPMTSPV: time = 1943.140 ms 
+SPMV time = 1943.246 ms 
+SPMTSPV: time = 1952.669 ms 
+SPMV time = 1952.787 ms 
+SPMTSPV: time = 1957.774 ms 
+SPMV time = 1957.839 ms 
+SPMTSPV: time = 2081.729 ms 
+SPMV time = 2081.893 ms 
+SPMTSPV: time = 2083.667 ms 
+SPMV time = 2083.777 ms 
+SPMTSPV: time = 2088.590 ms 
+SPMV time = 2088.638 ms 
+Apply time = 28.843 ms 
+Apply time = 152.947 ms 
+Apply time = 167.551 ms 
+Apply time = 180.734 ms 
+Apply time = 263.880 ms 
+Apply time = 158.030 ms 
+Apply time = 27.037 ms 
+Apply time = 22.163 ms 
+Apply time = 188.187 ms 
+Iteration 8 :: 2161.843000 msec :: updated 125214648 vertices :: changed 89127754 vertices 
+Iteration 8 :: 2153.988000 msec :: updated 125214648 vertices :: changed 89127754 vertices 
+Iteration 8 :: 2157.021000 msec :: updated 125214648 vertices :: changed 89127754 vertices 
+Iteration 8 :: 2161.561000 msec :: updated 125214648 vertices :: changed 89127754 vertices 
+Iteration 8 :: 2153.471000 msec :: updated 125214648 vertices :: changed 89127754 vertices 
+Iteration 8 :: 2161.807000 msec :: updated 125214648 vertices :: changed 89127754 vertices 
+Iteration 8 :: 2153.205000 msec :: updated 125214648 vertices :: changed 89127754 vertices 
+Iteration 8 :: 2161.794000 msec :: updated 125214648 vertices :: changed 89127754 vertices 
+Iteration 8 :: 2161.640000 msec :: updated 125214648 vertices :: changed 89127754 vertices 
+x.length = 133633040 
+Send message time = 36.783 ms 
+x.length = 133633040 
+Send message time = 37.400 ms 
+x.length = 133633040 
+Send message time = 45.765 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 44.004 ms 
+x.length = 133633040 
+Send message time = 46.016 ms 
+x.length = 133633040 
+Send message time = 46.020 ms 
+Send message time = 46.211 ms 
+x.length = 133633040 
+Send message time = 34.616 ms 
+x.length = 133633040 
+Send message time = 46.137 ms 
+SPMTSPV: time = 1854.196 ms 
+SPMV time = 1854.329 ms 
+SPMTSPV: time = 1905.534 ms 
+SPMV time = 1905.646 ms 
+SPMTSPV: time = 1922.344 ms 
+SPMV time = 1922.373 ms 
+SPMTSPV: time = 1938.585 ms 
+SPMV time = 1938.721 ms 
+SPMTSPV: time = 1949.230 ms 
+SPMV time = 1949.268 ms 
+SPMTSPV: time = 1949.986 ms 
+SPMV time = 1950.094 ms 
+SPMTSPV: time = 2111.679 ms 
+SPMV time = 2111.771 ms 
+SPMTSPV: time = 2113.201 ms 
+SPMV time = 2113.242 ms 
+SPMTSPV: time = 2131.181 ms 
+SPMV time = 2131.205 ms 
+Apply time = 58.833 ms 
+Apply time = 316.158 ms 
+Apply time = 264.871 ms 
+Apply time = 39.200 ms 
+Apply time = 248.317 ms 
+Apply time = 221.310 ms 
+Apply time = 57.357 ms 
+Apply time = 220.438 ms 
+Apply time = 231.705 ms 
+Iteration 9 :: 2205.077000 msec :: updated 125214648 vertices :: changed 84511970 vertices 
+Iteration 9 :: 2207.444000 msec :: updated 125214648 vertices :: changed 84511970 vertices 
+Iteration 9 :: 2216.751000 msec :: updated 125214648 vertices :: changed 84511970 vertices 
+Iteration 9 :: 2207.989000 msec :: updated 125214648 vertices :: changed 84511970 vertices 
+Iteration 9 :: 2216.624000 msec :: updated 125214648 vertices :: changed 84511970 vertices 
+Iteration 9 :: 2214.661000 msec :: updated 125214648 vertices :: changed 84511970 vertices 
+Iteration 9 :: 2216.603000 msec :: updated 125214648 vertices :: changed 84511970 vertices 
+Iteration 9 :: 2216.623000 msec :: updated 125214648 vertices :: changed 84511970 vertices 
+Iteration 9 :: 2216.492000 msec :: updated 125214648 vertices :: changed 84511970 vertices 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 37.519 ms 
+x.length = 133633040 
+Send message time = 37.317 ms 
+Send message time = 28.636 ms 
+x.length = 133633040 
+Send message time = 37.716 ms 
+x.length = 133633040 
+Send message time = 32.819 ms 
+x.length = 133633040 
+Send message time = 37.668 ms 
+x.length = 133633040 
+Send message time = 32.896 ms 
+x.length = 133633040 
+Send message time = 37.672 ms 
+x.length = 133633040 
+Send message time = 37.722 ms 
+SPMTSPV: time = 1846.307 ms 
+SPMV time = 1846.354 ms 
+SPMTSPV: time = 1894.501 ms 
+SPMV time = 1894.605 ms 
+SPMTSPV: time = 1911.896 ms 
+SPMV time = 1911.929 ms 
+SPMTSPV: time = 1920.546 ms 
+SPMV time = 1920.677 ms 
+SPMTSPV: time = 1927.917 ms 
+SPMV time = 1927.961 ms 
+SPMTSPV: time = 1931.906 ms 
+SPMV time = 1931.953 ms 
+SPMTSPV: time = 2120.341 ms 
+SPMV time = 2120.381 ms 
+SPMTSPV: time = 2121.924 ms 
+SPMV time = 2121.962 ms 
+SPMTSPV: time = 2128.301 ms 
+SPMV time = 2128.339 ms 
+Apply time = 32.841 ms 
+Apply time = 258.658 ms 
+Apply time = 232.644 ms 
+Apply time = 221.350 ms 
+Apply time = 225.367 ms 
+Apply time = 31.418 ms 
+Apply time = 307.084 ms 
+Apply time = 24.984 ms 
+Apply time = 241.434 ms 
+Iteration 10 :: 2190.788000 msec :: updated 125214648 vertices :: changed 79668680 vertices 
+Iteration 10 :: 2190.672000 msec :: updated 125214648 vertices :: changed 79668680 vertices 
+Iteration 10 :: 2186.141000 msec :: updated 125214648 vertices :: changed 79668680 vertices 
+Iteration 10 :: 2191.207000 msec :: updated 125214648 vertices :: changed 79668680 vertices 
+Iteration 10 :: 2191.070000 msec :: updated 125214648 vertices :: changed 79668680 vertices 
+Iteration 10 :: 2186.278000 msec :: updated 125214648 vertices :: changed 79668680 vertices 
+Iteration 10 :: 2191.037000 msec :: updated 125214648 vertices :: changed 79668680 vertices 
+Iteration 10 :: 2182.067000 msec :: updated 125214648 vertices :: changed 79668680 vertices 
+Iteration 10 :: 2191.127000 msec :: updated 125214648 vertices :: changed 79668680 vertices 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 35.485 ms 
+x.length = 133633040 
+Send message time = 38.556 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 38.582 ms 
+x.length = 133633040 
+Send message time = 38.599 ms 
+x.length = 133633040 
+Send message time = 38.614 ms 
+Send message time = 33.633 ms 
+x.length = 133633040 
+Send message time = 38.703 ms 
+x.length = 133633040 
+Send message time = 31.159 ms 
+Send message time = 38.637 ms 
+SPMTSPV: time = 1833.215 ms 
+SPMV time = 1833.310 ms 
+SPMTSPV: time = 1916.513 ms 
+SPMV time = 1916.613 ms 
+SPMTSPV: time = 1923.271 ms 
+SPMV time = 1923.313 ms 
+SPMTSPV: time = 1940.652 ms 
+SPMV time = 1940.697 ms 
+SPMTSPV: time = 1947.084 ms 
+SPMV time = 1947.116 ms 
+SPMTSPV: time = 1953.771 ms 
+SPMV time = 1953.810 ms 
+SPMTSPV: time = 2113.821 ms 
+SPMV time = 2113.935 ms 
+SPMTSPV: time = 2136.665 ms 
+SPMV time = 2136.709 ms 
+SPMTSPV: time = 2161.559 ms 
+SPMV time = 2161.713 ms 
+Apply time = 367.384 ms 
+Apply time = 260.200 ms 
+Apply time = 277.593 ms 
+Apply time = 39.128 ms 
+Apply time = 284.044 ms 
+Apply time = 63.851 ms 
+Apply time = 247.145 ms 
+Apply time = 253.822 ms 
+Apply time = 86.951 ms 
+Iteration 11 :: 2239.464000 msec :: updated 125214648 vertices :: changed 75185747 vertices 
+Iteration 11 :: 2239.504000 msec :: updated 125214648 vertices :: changed 75185747 vertices 
+Iteration 11 :: 2239.339000 msec :: updated 125214648 vertices :: changed 75185747 vertices 
+Iteration 11 :: 2236.486000 msec :: updated 125214648 vertices :: changed 75185747 vertices 
+Iteration 11 :: 2239.511000 msec :: updated 125214648 vertices :: changed 75185747 vertices 
+Iteration 11 :: 2239.590000 msec :: updated 125214648 vertices :: changed 75185747 vertices 
+Iteration 11 :: 2239.556000 msec :: updated 125214648 vertices :: changed 75185747 vertices 
+Iteration 11 :: 2234.587000 msec :: updated 125214648 vertices :: changed 75185747 vertices 
+Iteration 11 :: 2231.789000 msec :: updated 125214648 vertices :: changed 75185747 vertices 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 54.218 ms 
+Send message time = 39.026 ms 
+x.length = 133633040 
+Send message time = 50.703 ms 
+x.length = 133633040 
+Send message time = 59.123 ms 
+x.length = 133633040 
+Send message time = 58.987 ms 
+x.length = 133633040 
+Send message time = 50.620 ms 
+x.length = 133633040 
+Send message time = 50.413 ms 
+x.length = 133633040 
+Send message time = 59.113 ms 
+x.length = 133633040 
+Send message time = 57.090 ms 
+SPMTSPV: time = 1881.416 ms 
+SPMV time = 1881.570 ms 
+SPMTSPV: time = 1903.180 ms 
+SPMV time = 1903.330 ms 
+SPMTSPV: time = 1916.992 ms 
+SPMV time = 1917.141 ms 
+SPMTSPV: time = 1959.018 ms 
+SPMV time = 1959.135 ms 
+SPMTSPV: time = 1965.183 ms 
+SPMV time = 1965.310 ms 
+SPMTSPV: time = 1967.645 ms 
+SPMV time = 1967.701 ms 
+SPMTSPV: time = 2132.904 ms 
+SPMV time = 2133.021 ms 
+SPMTSPV: time = 2167.949 ms 
+SPMV time = 2167.986 ms 
+SPMTSPV: time = 2177.153 ms 
+SPMV time = 2177.244 ms 
+Apply time = 28.688 ms 
+Apply time = 302.756 ms 
+Apply time = 240.780 ms 
+Apply time = 38.251 ms 
+Apply time = 288.931 ms 
+Apply time = 324.832 ms 
+Apply time = 238.552 ms 
+Apply time = 73.227 ms 
+Apply time = 247.319 ms 
+Iteration 12 :: 2265.300000 msec :: updated 125214648 vertices :: changed 70370165 vertices 
+Iteration 12 :: 2263.273000 msec :: updated 125214648 vertices :: changed 70370165 vertices 
+Iteration 12 :: 2260.355000 msec :: updated 125214648 vertices :: changed 70370165 vertices 
+Iteration 12 :: 2245.497000 msec :: updated 125214648 vertices :: changed 70370165 vertices 
+Iteration 12 :: 2265.436000 msec :: updated 125214648 vertices :: changed 70370165 vertices 
+Iteration 12 :: 2256.774000 msec :: updated 125214648 vertices :: changed 70370165 vertices 
+Iteration 12 :: 2256.695000 msec :: updated 125214648 vertices :: changed 70370165 vertices 
+Iteration 12 :: 2256.856000 msec :: updated 125214648 vertices :: changed 70370165 vertices 
+Iteration 12 :: 2265.625000 msec :: updated 125214648 vertices :: changed 70370165 vertices 
+x.length = 133633040 
+Send message time = 31.168 ms 
+x.length = 133633040 
+Send message time = 44.607 ms 
+x.length = 133633040 
+Send message time = 46.864 ms 
+x.length = 133633040 
+Send message time = 38.385 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 46.646 ms 
+Send message time = 46.800 ms 
+x.length = 133633040 
+Send message time = 46.766 ms 
+x.length = 133633040 
+Send message time = 37.818 ms 
+x.length = 133633040 
+Send message time = 46.674 ms 
+SPMTSPV: time = 1915.723 ms 
+SPMV time = 1915.763 ms 
+SPMTSPV: time = 1922.382 ms 
+SPMV time = 1922.418 ms 
+SPMTSPV: time = 1933.899 ms 
+SPMV time = 1933.936 ms 
+SPMTSPV: time = 1937.493 ms 
+SPMV time = 1937.568 ms 
+SPMTSPV: time = 1940.690 ms 
+SPMV time = 1940.728 ms 
+SPMTSPV: time = 1957.394 ms 
+SPMV time = 1957.434 ms 
+SPMTSPV: time = 2212.769 ms 
+SPMV time = 2212.804 ms 
+SPMTSPV: time = 2234.099 ms 
+SPMV time = 2234.210 ms 
+SPMTSPV: time = 2244.484 ms 
+SPMV time = 2244.700 ms 
+Apply time = 47.595 ms 
+Apply time = 351.642 ms 
+Apply time = 335.132 ms 
+Apply time = 376.851 ms 
+Apply time = 369.923 ms 
+Apply time = 358.474 ms 
+Apply time = 58.417 ms 
+Apply time = 79.744 ms 
+Apply time = 355.013 ms 
+Iteration 13 :: 2337.017000 msec :: updated 125214648 vertices :: changed 65831485 vertices 
+Iteration 13 :: 2323.846000 msec :: updated 125214648 vertices :: changed 65831485 vertices 
+Iteration 13 :: 2330.994000 msec :: updated 125214648 vertices :: changed 65831485 vertices 
+Iteration 13 :: 2339.397000 msec :: updated 125214648 vertices :: changed 65831485 vertices 
+Iteration 13 :: 2339.075000 msec :: updated 125214648 vertices :: changed 65831485 vertices 
+Iteration 13 :: 2339.529000 msec :: updated 125214648 vertices :: changed 65831485 vertices 
+Iteration 13 :: 2330.216000 msec :: updated 125214648 vertices :: changed 65831485 vertices 
+Iteration 13 :: 2339.293000 msec :: updated 125214648 vertices :: changed 65831485 vertices 
+Iteration 13 :: 2339.205000 msec :: updated 125214648 vertices :: changed 65831485 vertices 
+x.length = 133633040 
+Send message time = 58.034 ms 
+x.length = 133633040 
+Send message time = 49.182 ms 
+x.length = 133633040 
+Send message time = 55.569 ms 
+x.length = 133633040 
+Send message time = 58.489 ms 
+x.length = 133633040 
+Send message time = 58.642 ms 
+x.length = 133633040 
+Send message time = 35.598 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 58.528 ms 
+Send message time = 58.635 ms 
+x.length = 133633040 
+Send message time = 58.457 ms 
+SPMTSPV: time = 1928.218 ms 
+SPMV time = 1928.270 ms 
+SPMTSPV: time = 1931.471 ms 
+SPMV time = 1931.598 ms 
+SPMTSPV: time = 1940.730 ms 
+SPMV time = 1940.763 ms 
+SPMTSPV: time = 1946.954 ms 
+SPMV time = 1947.059 ms 
+SPMTSPV: time = 1954.343 ms 
+SPMV time = 1954.387 ms 
+SPMTSPV: time = 1964.856 ms 
+SPMV time = 1964.905 ms 
+SPMTSPV: time = 2148.011 ms 
+SPMV time = 2148.144 ms 
+SPMTSPV: time = 2151.505 ms 
+SPMV time = 2151.642 ms 
+SPMTSPV: time = 2153.025 ms 
+SPMV time = 2153.074 ms 
+Apply time = 27.547 ms 
+Apply time = 234.907 ms 
+Apply time = 244.010 ms 
+Apply time = 247.512 ms 
+Apply time = 210.797 ms 
+Apply time = 22.608 ms 
+Apply time = 221.318 ms 
+Apply time = 24.010 ms 
+Apply time = 228.505 ms 
+Iteration 14 :: 2234.193000 msec :: updated 125214648 vertices :: changed 61015833 vertices 
+Iteration 14 :: 2234.361000 msec :: updated 125214648 vertices :: changed 61015833 vertices 
+Iteration 14 :: 2224.930000 msec :: updated 125214648 vertices :: changed 61015833 vertices 
+Iteration 14 :: 2231.409000 msec :: updated 125214648 vertices :: changed 61015833 vertices 
+Iteration 14 :: 2234.074000 msec :: updated 125214648 vertices :: changed 61015833 vertices 
+Iteration 14 :: 2233.994000 msec :: updated 125214648 vertices :: changed 61015833 vertices 
+Iteration 14 :: 2234.243000 msec :: updated 125214648 vertices :: changed 61015833 vertices 
+Iteration 14 :: 2234.362000 msec :: updated 125214648 vertices :: changed 61015833 vertices 
+Iteration 14 :: 2211.349000 msec :: updated 125214648 vertices :: changed 61015833 vertices 
+x.length = 133633040 
+Send message time = 31.347 ms 
+x.length = 133633040 
+Send message time = 33.869 ms 
+x.length = 133633040 
+Send message time = 40.948 ms 
+x.length = 133633040 
+Send message time = 31.389 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 42.702 ms 
+x.length = 133633040 
+Send message time = 42.858 ms 
+x.length = 133633040 
+Send message time = 42.855 ms 
+x.length = 133633040 
+Send message time = 42.801 ms 
+Send message time = 33.865 ms 
+SPMTSPV: time = 1898.237 ms 
+SPMV time = 1898.366 ms 
+SPMTSPV: time = 1932.312 ms 
+SPMV time = 1932.353 ms 
+SPMTSPV: time = 1941.224 ms 
+SPMV time = 1941.256 ms 
+SPMTSPV: time = 1953.184 ms 
+SPMV time = 1953.217 ms 
+SPMTSPV: time = 1954.749 ms 
+SPMV time = 1954.790 ms 
+SPMTSPV: time = 1957.513 ms 
+SPMV time = 1957.558 ms 
+SPMTSPV: time = 2127.012 ms 
+SPMV time = 2127.123 ms 
+SPMTSPV: time = 2128.035 ms 
+SPMV time = 2128.069 ms 
+SPMTSPV: time = 2129.337 ms 
+SPMV time = 2129.397 ms 
+Apply time = 28.292 ms 
+Apply time = 215.202 ms 
+Apply time = 224.241 ms 
+Apply time = 201.839 ms 
+Apply time = 27.208 ms 
+Apply time = 198.946 ms 
+Apply time = 29.489 ms 
+Apply time = 258.405 ms 
+Apply time = 203.523 ms 
+Iteration 15 :: 2188.178000 msec :: updated 125214648 vertices :: changed 56486579 vertices 
+Iteration 15 :: 2188.074000 msec :: updated 125214648 vertices :: changed 56486579 vertices 
+Iteration 15 :: 2197.611000 msec :: updated 125214648 vertices :: changed 56486579 vertices 
+Iteration 15 :: 2199.602000 msec :: updated 125214648 vertices :: changed 56486579 vertices 
+Iteration 15 :: 2190.297000 msec :: updated 125214648 vertices :: changed 56486579 vertices 
+Iteration 15 :: 2199.203000 msec :: updated 125214648 vertices :: changed 56486579 vertices 
+Iteration 15 :: 2199.521000 msec :: updated 125214648 vertices :: changed 56486579 vertices 
+Iteration 15 :: 2190.548000 msec :: updated 125214648 vertices :: changed 56486579 vertices 
+Iteration 15 :: 2199.417000 msec :: updated 125214648 vertices :: changed 56486579 vertices 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 27.361 ms 
+Send message time = 27.407 ms 
+x.length = 133633040 
+Send message time = 24.291 ms 
+x.length = 133633040 
+Send message time = 27.592 ms 
+x.length = 133633040 
+Send message time = 22.867 ms 
+x.length = 133633040 
+Send message time = 27.734 ms 
+x.length = 133633040 
+Send message time = 27.585 ms 
+x.length = 133633040 
+Send message time = 27.823 ms 
+x.length = 133633040 
+Send message time = 27.758 ms 
+SPMTSPV: time = 1859.580 ms 
+SPMV time = 1859.692 ms 
+SPMTSPV: time = 1908.910 ms 
+SPMV time = 1908.964 ms 
+SPMTSPV: time = 1923.488 ms 
+SPMV time = 1923.605 ms 
+SPMTSPV: time = 1948.283 ms 
+SPMV time = 1948.405 ms 
+SPMTSPV: time = 1950.021 ms 
+SPMV time = 1950.062 ms 
+SPMTSPV: time = 1955.056 ms 
+SPMV time = 1955.186 ms 
+SPMTSPV: time = 2132.526 ms 
+SPMV time = 2132.616 ms 
+SPMTSPV: time = 2134.136 ms 
+SPMV time = 2134.176 ms 
+SPMTSPV: time = 2143.187 ms 
+SPMV time = 2143.226 ms 
+Apply time = 28.589 ms 
+Apply time = 237.638 ms 
+Apply time = 252.342 ms 
+Apply time = 206.094 ms 
+Apply time = 27.127 ms 
+Apply time = 212.875 ms 
+Apply time = 301.631 ms 
+Apply time = 18.042 ms 
+Apply time = 211.255 ms 
+Iteration 16 :: 2184.223000 msec :: updated 125214648 vertices :: changed 51537083 vertices 
+Iteration 16 :: 2188.671000 msec :: updated 125214648 vertices :: changed 51537083 vertices 
+Iteration 16 :: 2188.654000 msec :: updated 125214648 vertices :: changed 51537083 vertices 
+Iteration 16 :: 2185.676000 msec :: updated 125214648 vertices :: changed 51537083 vertices 
+Iteration 16 :: 2188.944000 msec :: updated 125214648 vertices :: changed 51537083 vertices 
+Iteration 16 :: 2189.122000 msec :: updated 125214648 vertices :: changed 51537083 vertices 
+Iteration 16 :: 2189.081000 msec :: updated 125214648 vertices :: changed 51537083 vertices 
+Iteration 16 :: 2188.930000 msec :: updated 125214648 vertices :: changed 51537083 vertices 
+Iteration 16 :: 2189.144000 msec :: updated 125214648 vertices :: changed 51537083 vertices 
+x.length = 133633040 
+Send message time = 46.992 ms 
+x.length = 133633040 
+Send message time = 47.095 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 45.049 ms 
+x.length = 133633040 
+Send message time = 47.170 ms 
+Send message time = 35.338 ms 
+x.length = 133633040 
+Send message time = 47.199 ms 
+x.length = 133633040 
+Send message time = 47.107 ms 
+x.length = 133633040 
+Send message time = 47.061 ms 
+x.length = 133633040 
+Send message time = 47.127 ms 
+SPMTSPV: time = 1850.953 ms 
+SPMV time = 1851.000 ms 
+SPMTSPV: time = 1889.512 ms 
+SPMV time = 1889.613 ms 
+SPMTSPV: time = 1912.078 ms 
+SPMV time = 1912.113 ms 
+SPMTSPV: time = 1921.191 ms 
+SPMV time = 1921.223 ms 
+SPMTSPV: time = 1932.270 ms 
+SPMV time = 1932.385 ms 
+SPMTSPV: time = 1933.234 ms 
+SPMV time = 1933.277 ms 
+SPMTSPV: time = 2150.254 ms 
+SPMV time = 2150.307 ms 
+SPMTSPV: time = 2168.325 ms 
+SPMV time = 2168.534 ms 
+SPMTSPV: time = 2169.963 ms 
+SPMV time = 2170.081 ms 
+Apply time = 31.059 ms 
+Apply time = 278.504 ms 
+Apply time = 310.240 ms 
+Apply time = 267.451 ms 
+Apply time = 29.702 ms 
+Apply time = 266.399 ms 
+Apply time = 49.503 ms 
+Apply time = 348.969 ms 
+Apply time = 287.854 ms 
+Iteration 17 :: 2244.763000 msec :: updated 125214648 vertices :: changed 47032187 vertices 
+Iteration 17 :: 2246.846000 msec :: updated 125214648 vertices :: changed 47032187 vertices 
+Iteration 17 :: 2247.005000 msec :: updated 125214648 vertices :: changed 47032187 vertices 
+Iteration 17 :: 2246.759000 msec :: updated 125214648 vertices :: changed 47032187 vertices 
+Iteration 17 :: 2235.238000 msec :: updated 125214648 vertices :: changed 47032187 vertices 
+Iteration 17 :: 2247.062000 msec :: updated 125214648 vertices :: changed 47032187 vertices 
+Iteration 17 :: 2246.975000 msec :: updated 125214648 vertices :: changed 47032187 vertices 
+Iteration 17 :: 2247.086000 msec :: updated 125214648 vertices :: changed 47032187 vertices 
+Iteration 17 :: 2247.185000 msec :: updated 125214648 vertices :: changed 47032187 vertices 
+x.length = 133633040 
+Send message time = 29.179 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 22.564 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 31.188 ms 
+Send message time = 31.012 ms 
+x.length = 133633040 
+Send message time = 26.120 ms 
+Send message time = 22.388 ms 
+x.length = 133633040 
+Send message time = 31.284 ms 
+x.length = 133633040 
+Send message time = 22.723 ms 
+x.length = 133633040 
+Send message time = 31.125 ms 
+SPMTSPV: time = 1907.017 ms 
+SPMV time = 1907.056 ms 
+SPMTSPV: time = 1933.540 ms 
+SPMV time = 1933.669 ms 
+SPMTSPV: time = 1934.559 ms 
+SPMV time = 1934.684 ms 
+SPMTSPV: time = 1939.281 ms 
+SPMV time = 1939.414 ms 
+SPMTSPV: time = 1942.727 ms 
+SPMV time = 1942.769 ms 
+SPMTSPV: time = 1947.255 ms 
+SPMV time = 1947.292 ms 
+SPMTSPV: time = 2128.016 ms 
+SPMV time = 2128.125 ms 
+SPMTSPV: time = 2130.901 ms 
+SPMV time = 2131.088 ms 
+SPMTSPV: time = 2132.032 ms 
+SPMV time = 2132.162 ms 
+Apply time = 27.800 ms 
+Apply time = 211.589 ms 
+Apply time = 216.143 ms 
+Apply time = 219.569 ms 
+Apply time = 251.967 ms 
+Apply time = 225.386 ms 
+Apply time = 26.760 ms 
+Apply time = 30.883 ms 
+Apply time = 224.267 ms 
+Iteration 18 :: 2189.938000 msec :: updated 125214648 vertices :: changed 42271044 vertices 
+Iteration 18 :: 2185.191000 msec :: updated 125214648 vertices :: changed 42271044 vertices 
+Iteration 18 :: 2190.270000 msec :: updated 125214648 vertices :: changed 42271044 vertices 
+Iteration 18 :: 2181.687000 msec :: updated 125214648 vertices :: changed 42271044 vertices 
+Iteration 18 :: 2190.267000 msec :: updated 125214648 vertices :: changed 42271044 vertices 
+Iteration 18 :: 2190.125000 msec :: updated 125214648 vertices :: changed 42271044 vertices 
+Iteration 18 :: 2188.419000 msec :: updated 125214648 vertices :: changed 42271044 vertices 
+Iteration 18 :: 2181.686000 msec :: updated 125214648 vertices :: changed 42271044 vertices 
+Iteration 18 :: 2181.451000 msec :: updated 125214648 vertices :: changed 42271044 vertices 
+x.length = 133633040 
+Send message time = 42.497 ms 
+x.length = 133633040 
+Send message time = 51.257 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 51.609 ms 
+x.length = 133633040 
+Send message time = 42.996 ms 
+x.length = 133633040 
+Send message time = 43.650 ms 
+x.length = 133633040 
+Send message time = 42.864 ms 
+x.length = 133633040 
+Send message time = 42.358 ms 
+Send message time = 48.411 ms 
+x.length = 133633040 
+Send message time = 42.702 ms 
+SPMTSPV: time = 1918.201 ms 
+SPMV time = 1918.308 ms 
+SPMTSPV: time = 1924.085 ms 
+SPMV time = 1924.136 ms 
+SPMTSPV: time = 1946.509 ms 
+SPMV time = 1946.576 ms 
+SPMTSPV: time = 1949.837 ms 
+SPMV time = 1949.942 ms 
+SPMTSPV: time = 1967.754 ms 
+SPMV time = 1967.807 ms 
+SPMTSPV: time = 1973.342 ms 
+SPMV time = 1973.457 ms 
+SPMTSPV: time = 2118.430 ms 
+SPMV time = 2118.536 ms 
+SPMTSPV: time = 2120.101 ms 
+SPMV time = 2120.191 ms 
+SPMTSPV: time = 2122.345 ms 
+SPMV time = 2122.383 ms 
+Apply time = 26.626 ms 
+Apply time = 173.403 ms 
+Apply time = 179.060 ms 
+Apply time = 222.775 ms 
+Apply time = 196.987 ms 
+Apply time = 228.674 ms 
+Apply time = 24.504 ms 
+Apply time = 28.367 ms 
+Apply time = 200.352 ms 
+Iteration 19 :: 2195.463000 msec :: updated 125214648 vertices :: changed 37963564 vertices 
+Iteration 19 :: 2189.689000 msec :: updated 125214648 vertices :: changed 37963564 vertices 
+Iteration 19 :: 2198.180000 msec :: updated 125214648 vertices :: changed 37963564 vertices 
+Iteration 19 :: 2198.546000 msec :: updated 125214648 vertices :: changed 37963564 vertices 
+Iteration 19 :: 2190.609000 msec :: updated 125214648 vertices :: changed 37963564 vertices 
+Iteration 19 :: 2189.600000 msec :: updated 125214648 vertices :: changed 37963564 vertices 
+Iteration 19 :: 2189.938000 msec :: updated 125214648 vertices :: changed 37963564 vertices 
+Iteration 19 :: 2189.863000 msec :: updated 125214648 vertices :: changed 37963564 vertices 
+Iteration 19 :: 2189.327000 msec :: updated 125214648 vertices :: changed 37963564 vertices 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 53.462 ms 
+Send message time = 36.116 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 53.575 ms 
+x.length = 133633040 
+Send message time = 45.030 ms 
+x.length = 133633040 
+Send message time = 44.350 ms 
+Send message time = 53.535 ms 
+x.length = 133633040 
+Send message time = 44.931 ms 
+x.length = 133633040 
+Send message time = 53.629 ms 
+x.length = 133633040 
+Send message time = 50.703 ms 
+SPMTSPV: time = 1871.542 ms 
+SPMV time = 1871.669 ms 
+SPMTSPV: time = 1918.613 ms 
+SPMV time = 1918.669 ms 
+SPMTSPV: time = 1921.591 ms 
+SPMV time = 1921.627 ms 
+SPMTSPV: time = 1923.522 ms 
+SPMV time = 1923.573 ms 
+SPMTSPV: time = 1932.833 ms 
+SPMV time = 1932.951 ms 
+SPMTSPV: time = 1941.914 ms 
+SPMV time = 1942.066 ms 
+SPMTSPV: time = 2203.164 ms 
+SPMV time = 2203.282 ms 
+SPMTSPV: time = 2212.015 ms 
+SPMV time = 2212.129 ms 
+SPMTSPV: time = 2218.410 ms 
+SPMV time = 2218.451 ms 
+Apply time = 44.721 ms 
+Apply time = 330.319 ms 
+Apply time = 341.747 ms 
+Apply time = 51.235 ms 
+Apply time = 321.283 ms 
+Apply time = 391.830 ms 
+Apply time = 344.760 ms 
+Apply time = 60.192 ms 
+Apply time = 339.915 ms 
+Iteration 20 :: 2308.416000 msec :: updated 125214648 vertices :: changed 33410493 vertices 
+Iteration 20 :: 2314.136000 msec :: updated 125214648 vertices :: changed 33410493 vertices 
+Iteration 20 :: 2317.120000 msec :: updated 125214648 vertices :: changed 33410493 vertices 
+Iteration 20 :: 2308.562000 msec :: updated 125214648 vertices :: changed 33410493 vertices 
+Iteration 20 :: 2307.801000 msec :: updated 125214648 vertices :: changed 33410493 vertices 
+Iteration 20 :: 2316.959000 msec :: updated 125214648 vertices :: changed 33410493 vertices 
+Iteration 20 :: 2317.068000 msec :: updated 125214648 vertices :: changed 33410493 vertices 
+Iteration 20 :: 2316.794000 msec :: updated 125214648 vertices :: changed 33410493 vertices 
+Iteration 20 :: 2299.677000 msec :: updated 125214648 vertices :: changed 33410493 vertices 
+x.length = 133633040 
+Send message time = 49.491 ms 
+x.length = 133633040 
+Send message time = 39.986 ms 
+x.length = 133633040 
+Send message time = 41.727 ms 
+x.length = 133633040 
+Send message time = 49.459 ms 
+x.length = 133633040 
+Send message time = 42.420 ms 
+x.length = 133633040 
+Send message time = 49.669 ms 
+x.length = 133633040 
+Send message time = 46.772 ms 
+x.length = 133633040 
+Send message time = 49.797 ms 
+x.length = 133633040 
+Send message time = 49.632 ms 
+SPMTSPV: time = 1924.069 ms 
+SPMV time = 1924.196 ms 
+SPMTSPV: time = 1952.461 ms 
+SPMV time = 1952.583 ms 
+SPMTSPV: time = 1953.684 ms 
+SPMV time = 1953.724 ms 
+SPMTSPV: time = 1958.646 ms 
+SPMV time = 1958.695 ms 
+SPMTSPV: time = 1966.422 ms 
+SPMV time = 1966.460 ms 
+SPMTSPV: time = 1978.175 ms 
+SPMV time = 1978.210 ms 
+SPMTSPV: time = 2160.450 ms 
+SPMV time = 2160.483 ms 
+SPMTSPV: time = 2165.104 ms 
+SPMV time = 2165.140 ms 
+SPMTSPV: time = 2167.342 ms 
+SPMV time = 2167.459 ms 
+Apply time = 25.207 ms 
+Apply time = 212.210 ms 
+Apply time = 224.114 ms 
+Apply time = 236.828 ms 
+Apply time = 22.893 ms 
+Apply time = 266.341 ms 
+Apply time = 231.766 ms 
+Apply time = 30.115 ms 
+Apply time = 237.942 ms 
+Iteration 21 :: 2237.374000 msec :: updated 125214648 vertices :: changed 29462669 vertices 
+Iteration 21 :: 2240.223000 msec :: updated 125214648 vertices :: changed 29462669 vertices 
+Iteration 21 :: 2230.570000 msec :: updated 125214648 vertices :: changed 29462669 vertices 
+Iteration 21 :: 2232.125000 msec :: updated 125214648 vertices :: changed 29462669 vertices 
+Iteration 21 :: 2239.932000 msec :: updated 125214648 vertices :: changed 29462669 vertices 
+Iteration 21 :: 2240.113000 msec :: updated 125214648 vertices :: changed 29462669 vertices 
+Iteration 21 :: 2240.172000 msec :: updated 125214648 vertices :: changed 29462669 vertices 
+Iteration 21 :: 2233.077000 msec :: updated 125214648 vertices :: changed 29462669 vertices 
+Iteration 21 :: 2240.222000 msec :: updated 125214648 vertices :: changed 29462669 vertices 
+x.length = 133633040 
+Send message time = 26.923 ms 
+x.length = 133633040 
+Send message time = 31.796 ms 
+x.length = 133633040 
+Send message time = 31.961 ms 
+x.length = 133633040 
+Send message time = 32.172 ms 
+x.length = 133633040 
+Send message time = 32.250 ms 
+x.length = 133633040 
+Send message time = 22.350 ms 
+x.length = 133633040 
+Send message time = 32.043 ms 
+x.length = 133633040 
+Send message time = 32.199 ms 
+x.length = 133633040 
+Send message time = 32.282 ms 
+SPMTSPV: time = 1923.368 ms 
+SPMV time = 1923.498 ms 
+SPMTSPV: time = 1926.507 ms 
+SPMV time = 1926.638 ms 
+SPMTSPV: time = 1939.597 ms 
+SPMV time = 1939.641 ms 
+SPMTSPV: time = 1952.362 ms 
+SPMV time = 1952.412 ms 
+SPMTSPV: time = 1958.454 ms 
+SPMV time = 1958.500 ms 
+SPMTSPV: time = 1965.870 ms 
+SPMV time = 1965.985 ms 
+SPMTSPV: time = 2184.844 ms 
+SPMV time = 2184.954 ms 
+SPMTSPV: time = 2187.253 ms 
+SPMV time = 2187.283 ms 
+SPMTSPV: time = 2190.874 ms 
+SPMV time = 2190.922 ms 
+Apply time = 25.282 ms 
+Apply time = 246.589 ms 
+Apply time = 289.090 ms 
+Apply time = 260.292 ms 
+Apply time = 285.968 ms 
+Apply time = 21.686 ms 
+Apply time = 254.089 ms 
+Apply time = 27.575 ms 
+Apply time = 272.936 ms 
+Iteration 22 :: 2244.422000 msec :: updated 125214648 vertices :: changed 24953634 vertices 
+Iteration 22 :: 2244.846000 msec :: updated 125214648 vertices :: changed 24953634 vertices 
+Iteration 22 :: 2244.718000 msec :: updated 125214648 vertices :: changed 24953634 vertices 
+Iteration 22 :: 2244.908000 msec :: updated 125214648 vertices :: changed 24953634 vertices 
+Iteration 22 :: 2244.892000 msec :: updated 125214648 vertices :: changed 24953634 vertices 
+Iteration 22 :: 2244.714000 msec :: updated 125214648 vertices :: changed 24953634 vertices 
+Iteration 22 :: 2234.994000 msec :: updated 125214648 vertices :: changed 24953634 vertices 
+Iteration 22 :: 2239.743000 msec :: updated 125214648 vertices :: changed 24953634 vertices 
+Iteration 22 :: 2244.806000 msec :: updated 125214648 vertices :: changed 24953634 vertices 
+x.length = 133633040 
+Send message time = 53.600 ms 
+x.length = 133633040 
+Send message time = 47.765 ms 
+x.length = 133633040 
+Send message time = 56.533 ms 
+x.length = 133633040 
+Send message time = 44.856 ms 
+x.length = 133633040 
+Send message time = 56.663 ms 
+x.length = 133633040 
+Send message time = 46.801 ms 
+x.length = 133633040 
+Send message time = 56.649 ms 
+x.length = 133633040 
+Send message time = 54.731 ms 
+x.length = 133633040 
+Send message time = 43.772 ms 
+SPMTSPV: time = 1865.742 ms 
+SPMV time = 1865.803 ms 
+SPMTSPV: time = 1911.916 ms 
+SPMV time = 1912.008 ms 
+SPMTSPV: time = 1924.284 ms 
+SPMV time = 1924.400 ms 
+SPMTSPV: time = 1944.257 ms 
+SPMV time = 1944.294 ms 
+SPMTSPV: time = 1944.708 ms 
+SPMV time = 1944.839 ms 
+SPMTSPV: time = 1947.643 ms 
+SPMV time = 1947.675 ms 
+SPMTSPV: time = 2148.509 ms 
+SPMV time = 2148.562 ms 
+SPMTSPV: time = 2151.871 ms 
+SPMV time = 2151.982 ms 
+SPMTSPV: time = 2163.070 ms 
+SPMV time = 2163.116 ms 
+Apply time = 25.450 ms 
+Apply time = 264.220 ms 
+Apply time = 276.664 ms 
+Apply time = 244.249 ms 
+Apply time = 243.921 ms 
+Apply time = 36.553 ms 
+Apply time = 40.112 ms 
+Apply time = 322.936 ms 
+Apply time = 241.011 ms 
+Iteration 23 :: 2245.454000 msec :: updated 125214648 vertices :: changed 21480102 vertices 
+Iteration 23 :: 2233.671000 msec :: updated 125214648 vertices :: changed 21480102 vertices 
+Iteration 23 :: 2232.502000 msec :: updated 125214648 vertices :: changed 21480102 vertices 
+Iteration 23 :: 2235.409000 msec :: updated 125214648 vertices :: changed 21480102 vertices 
+Iteration 23 :: 2242.226000 msec :: updated 125214648 vertices :: changed 21480102 vertices 
+Iteration 23 :: 2236.436000 msec :: updated 125214648 vertices :: changed 21480102 vertices 
+Iteration 23 :: 2245.261000 msec :: updated 125214648 vertices :: changed 21480102 vertices 
+Iteration 23 :: 2243.341000 msec :: updated 125214648 vertices :: changed 21480102 vertices 
+Iteration 23 :: 2245.361000 msec :: updated 125214648 vertices :: changed 21480102 vertices 
+x.length = 133633040 
+Send message time = 34.839 ms 
+x.length = 133633040 
+Send message time = 43.274 ms 
+x.length = 133633040 
+Send message time = 40.390 ms 
+x.length = 133633040 
+Send message time = 35.363 ms 
+x.length = 133633040 
+Send message time = 43.457 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 43.438 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 43.163 ms 
+Send message time = 43.474 ms 
+Send message time = 34.507 ms 
+SPMTSPV: time = 1874.222 ms 
+SPMV time = 1874.362 ms 
+SPMTSPV: time = 1908.782 ms 
+SPMV time = 1908.887 ms 
+SPMTSPV: time = 1922.632 ms 
+SPMV time = 1922.670 ms 
+SPMTSPV: time = 1922.782 ms 
+SPMV time = 1922.822 ms 
+SPMTSPV: time = 1953.080 ms 
+SPMV time = 1953.118 ms 
+SPMTSPV: time = 1957.267 ms 
+SPMV time = 1957.365 ms 
+SPMTSPV: time = 2137.620 ms 
+SPMV time = 2137.734 ms 
+SPMTSPV: time = 2147.414 ms 
+SPMV time = 2147.450 ms 
+SPMTSPV: time = 2150.695 ms 
+SPMV time = 2150.907 ms 
+Apply time = 24.317 ms 
+Apply time = 252.688 ms 
+Apply time = 266.476 ms 
+Apply time = 301.193 ms 
+Apply time = 222.379 ms 
+Apply time = 28.017 ms 
+Apply time = 218.035 ms 
+Apply time = 252.689 ms 
+Apply time = 37.776 ms 
+Iteration 24 :: 2218.654000 msec :: updated 125214648 vertices :: changed 17869987 vertices 
+Iteration 24 :: 2218.669000 msec :: updated 125214648 vertices :: changed 17869987 vertices 
+Iteration 24 :: 2210.917000 msec :: updated 125214648 vertices :: changed 17869987 vertices 
+Iteration 24 :: 2218.947000 msec :: updated 125214648 vertices :: changed 17869987 vertices 
+Iteration 24 :: 2215.810000 msec :: updated 125214648 vertices :: changed 17869987 vertices 
+Iteration 24 :: 2219.031000 msec :: updated 125214648 vertices :: changed 17869987 vertices 
+Iteration 24 :: 2210.451000 msec :: updated 125214648 vertices :: changed 17869987 vertices 
+Iteration 24 :: 2218.962000 msec :: updated 125214648 vertices :: changed 17869987 vertices 
+Iteration 24 :: 2210.072000 msec :: updated 125214648 vertices :: changed 17869987 vertices 
+x.length = 133633040 
+Send message time = 73.671 ms 
+x.length = 133633040 
+Send message time = 66.399 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 73.786 ms 
+Send message time = 62.056 ms 
+x.length = 133633040 
+Send message time = 71.912 ms 
+x.length = 133633040 
+Send message time = 71.983 ms 
+x.length = 133633040 
+Send message time = 64.916 ms 
+x.length = 133633040 
+Send message time = 66.145 ms 
+x.length = 133633040 
+Send message time = 63.092 ms 
+SPMTSPV: time = 1895.930 ms 
+SPMV time = 1896.060 ms 
+SPMTSPV: time = 1903.760 ms 
+SPMV time = 1903.804 ms 
+SPMTSPV: time = 1915.551 ms 
+SPMV time = 1915.658 ms 
+SPMTSPV: time = 1964.742 ms 
+SPMV time = 1964.861 ms 
+SPMTSPV: time = 1969.645 ms 
+SPMV time = 1969.769 ms 
+SPMTSPV: time = 1981.864 ms 
+SPMV time = 1981.973 ms 
+SPMTSPV: time = 2119.254 ms 
+SPMV time = 2119.370 ms 
+SPMTSPV: time = 2131.789 ms 
+SPMV time = 2131.996 ms 
+SPMTSPV: time = 2153.802 ms 
+SPMV time = 2153.840 ms 
+Apply time = 255.037 ms 
+Apply time = 16.835 ms 
+Apply time = 188.785 ms 
+Apply time = 38.798 ms 
+Apply time = 274.598 ms 
+Apply time = 205.857 ms 
+Apply time = 51.363 ms 
+Apply time = 267.155 ms 
+Apply time = 200.895 ms 
+Iteration 25 :: 2242.701000 msec :: updated 125214648 vertices :: changed 15216762 vertices 
+Iteration 25 :: 2232.803000 msec :: updated 125214648 vertices :: changed 15216762 vertices 
+Iteration 25 :: 2244.796000 msec :: updated 125214648 vertices :: changed 15216762 vertices 
+Iteration 25 :: 2235.693000 msec :: updated 125214648 vertices :: changed 15216762 vertices 
+Iteration 25 :: 2236.915000 msec :: updated 125214648 vertices :: changed 15216762 vertices 
+Iteration 25 :: 2237.230000 msec :: updated 125214648 vertices :: changed 15216762 vertices 
+Iteration 25 :: 2233.825000 msec :: updated 125214648 vertices :: changed 15216762 vertices 
+Iteration 25 :: 2244.563000 msec :: updated 125214648 vertices :: changed 15216762 vertices 
+Iteration 25 :: 2242.717000 msec :: updated 125214648 vertices :: changed 15216762 vertices 
+x.length = 133633040 
+Send message time = 35.068 ms 
+x.length = 133633040 
+Send message time = 35.598 ms 
+x.length = 133633040 
+Send message time = 35.172 ms 
+x.length = 133633040 
+Send message time = 41.655 ms 
+x.length = 133633040 
+Send message time = 35.380 ms 
+x.length = 133633040 
+Send message time = 41.989 ms 
+x.length = 133633040 
+Send message time = 43.876 ms 
+x.length = 133633040 
+Send message time = 43.914 ms 
+x.length = 133633040 
+Send message time = 44.068 ms 
+SPMTSPV: time = 1868.219 ms 
+SPMV time = 1868.335 ms 
+SPMTSPV: time = 1907.542 ms 
+SPMV time = 1907.638 ms 
+SPMTSPV: time = 1921.243 ms 
+SPMV time = 1921.281 ms 
+SPMTSPV: time = 1947.272 ms 
+SPMV time = 1947.314 ms 
+SPMTSPV: time = 1957.028 ms 
+SPMV time = 1957.072 ms 
+SPMTSPV: time = 1965.412 ms 
+SPMV time = 1965.470 ms 
+SPMTSPV: time = 2191.793 ms 
+SPMV time = 2191.903 ms 
+SPMTSPV: time = 2196.146 ms 
+SPMV time = 2196.187 ms 
+SPMTSPV: time = 2209.453 ms 
+SPMV time = 2209.495 ms 
+Apply time = 30.044 ms 
+Apply time = 304.932 ms 
+Apply time = 16.853 ms 
+Apply time = 358.193 ms 
+Apply time = 318.735 ms 
+Apply time = 260.918 ms 
+Apply time = 269.304 ms 
+Apply time = 34.580 ms 
+Apply time = 279.196 ms 
+Iteration 26 :: 2261.641000 msec :: updated 125214648 vertices :: changed 11960104 vertices 
+Iteration 26 :: 2261.579000 msec :: updated 125214648 vertices :: changed 11960104 vertices 
+Iteration 26 :: 2261.940000 msec :: updated 125214648 vertices :: changed 11960104 vertices 
+Iteration 26 :: 2270.195000 msec :: updated 125214648 vertices :: changed 11960104 vertices 
+Iteration 26 :: 2270.512000 msec :: updated 125214648 vertices :: changed 11960104 vertices 
+Iteration 26 :: 2262.025000 msec :: updated 125214648 vertices :: changed 11960104 vertices 
+Iteration 26 :: 2268.085000 msec :: updated 125214648 vertices :: changed 11960104 vertices 
+Iteration 26 :: 2268.557000 msec :: updated 125214648 vertices :: changed 11960104 vertices 
+Iteration 26 :: 2270.178000 msec :: updated 125214648 vertices :: changed 11960104 vertices 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 26.038 ms 
+x.length = 133633040 
+Send message time = 26.288 ms 
+x.length = 133633040 
+Send message time = 26.254 ms 
+x.length = 133633040 
+Send message time = 26.427 ms 
+x.length = 133633040 
+Send message time = 26.273 ms 
+x.length = 133633040 
+Send message time = 26.244 ms 
+x.length = 133633040 
+Send message time = 26.389 ms 
+Send message time = 26.197 ms 
+x.length = 133633040 
+Send message time = 26.391 ms 
+SPMTSPV: time = 1873.959 ms 
+SPMV time = 1874.091 ms 
+SPMTSPV: time = 1891.390 ms 
+SPMV time = 1891.426 ms 
+SPMTSPV: time = 1905.437 ms 
+SPMV time = 1905.472 ms 
+SPMTSPV: time = 1922.598 ms 
+SPMV time = 1922.651 ms 
+SPMTSPV: time = 1931.788 ms 
+SPMV time = 1931.829 ms 
+SPMTSPV: time = 1939.967 ms 
+SPMV time = 1940.004 ms 
+SPMTSPV: time = 2093.925 ms 
+SPMV time = 2093.964 ms 
+SPMTSPV: time = 2095.889 ms 
+SPMV time = 2095.931 ms 
+SPMTSPV: time = 2097.997 ms 
+SPMV time = 2098.032 ms 
+Apply time = 22.291 ms 
+Apply time = 211.073 ms 
+Apply time = 225.131 ms 
+Apply time = 176.549 ms 
+Apply time = 20.693 ms 
+Apply time = 242.525 ms 
+Apply time = 184.775 ms 
+Apply time = 18.538 ms 
+Apply time = 193.918 ms 
+Iteration 27 :: 2143.100000 msec :: updated 125214648 vertices :: changed 9681657 vertices 
+Iteration 27 :: 2142.955000 msec :: updated 125214648 vertices :: changed 9681657 vertices 
+Iteration 27 :: 2143.000000 msec :: updated 125214648 vertices :: changed 9681657 vertices 
+Iteration 27 :: 2142.631000 msec :: updated 125214648 vertices :: changed 9681657 vertices 
+Iteration 27 :: 2142.516000 msec :: updated 125214648 vertices :: changed 9681657 vertices 
+Iteration 27 :: 2142.899000 msec :: updated 125214648 vertices :: changed 9681657 vertices 
+Iteration 27 :: 2142.918000 msec :: updated 125214648 vertices :: changed 9681657 vertices 
+Iteration 27 :: 2142.853000 msec :: updated 125214648 vertices :: changed 9681657 vertices 
+Iteration 27 :: 2142.998000 msec :: updated 125214648 vertices :: changed 9681657 vertices 
+x.length = 133633040 
+Send message time = 49.094 ms 
+x.length = 133633040 
+Send message time = 60.592 ms 
+x.length = 133633040 
+Send message time = 60.464 ms 
+x.length = 133633040 
+Send message time = 60.355 ms 
+x.length = 133633040 
+Send message time = 49.108 ms 
+x.length = 133633040 
+Send message time = 60.492 ms 
+x.length = 133633040 
+Send message time = 50.526 ms 
+x.length = 133633040 
+Send message time = 60.543 ms 
+x.length = 133633040 
+Send message time = 48.884 ms 
+SPMTSPV: time = 1886.299 ms 
+SPMV time = 1886.440 ms 
+SPMTSPV: time = 1920.537 ms 
+SPMV time = 1920.641 ms 
+SPMTSPV: time = 1922.184 ms 
+SPMV time = 1922.305 ms 
+SPMTSPV: time = 1928.596 ms 
+SPMV time = 1928.640 ms 
+SPMTSPV: time = 1940.837 ms 
+SPMV time = 1940.880 ms 
+SPMTSPV: time = 1943.693 ms 
+SPMV time = 1943.730 ms 
+SPMTSPV: time = 2104.379 ms 
+SPMV time = 2104.419 ms 
+SPMTSPV: time = 2106.710 ms 
+SPMV time = 2106.818 ms 
+SPMTSPV: time = 2109.161 ms 
+SPMV time = 2109.199 ms 
+Apply time = 21.945 ms 
+Apply time = 185.130 ms 
+Apply time = 206.692 ms 
+Apply time = 200.442 ms 
+Apply time = 19.869 ms 
+Apply time = 188.108 ms 
+Apply time = 242.775 ms 
+Apply time = 24.723 ms 
+Apply time = 208.539 ms 
+Iteration 28 :: 2189.394000 msec :: updated 125214648 vertices :: changed 6230940 vertices 
+Iteration 28 :: 2189.578000 msec :: updated 125214648 vertices :: changed 6230940 vertices 
+Iteration 28 :: 2178.378000 msec :: updated 125214648 vertices :: changed 6230940 vertices 
+Iteration 28 :: 2189.646000 msec :: updated 125214648 vertices :: changed 6230940 vertices 
+Iteration 28 :: 2178.005000 msec :: updated 125214648 vertices :: changed 6230940 vertices 
+Iteration 28 :: 2189.558000 msec :: updated 125214648 vertices :: changed 6230940 vertices 
+Iteration 28 :: 2189.705000 msec :: updated 125214648 vertices :: changed 6230940 vertices 
+Iteration 28 :: 2179.649000 msec :: updated 125214648 vertices :: changed 6230940 vertices 
+Iteration 28 :: 2178.119000 msec :: updated 125214648 vertices :: changed 6230940 vertices 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 44.871 ms 
+Send message time = 34.823 ms 
+x.length = 133633040 
+Send message time = 43.155 ms 
+x.length = 133633040 
+Send message time = 36.455 ms 
+x.length = 133633040 
+Send message time = 45.050 ms 
+x.length = 133633040 
+Send message time = 44.983 ms 
+x.length = 133633040 
+Send message time = 43.042 ms 
+x.length = 133633040 
+Send message time = 45.062 ms 
+x.length = 133633040 
+Send message time = 39.441 ms 
+SPMTSPV: time = 1851.286 ms 
+SPMV time = 1851.400 ms 
+SPMTSPV: time = 1890.188 ms 
+SPMV time = 1890.301 ms 
+SPMTSPV: time = 1902.750 ms 
+SPMV time = 1902.786 ms 
+SPMTSPV: time = 1938.051 ms 
+SPMV time = 1938.214 ms 
+SPMTSPV: time = 1948.217 ms 
+SPMV time = 1948.261 ms 
+SPMTSPV: time = 1955.684 ms 
+SPMV time = 1955.724 ms 
+SPMTSPV: time = 2119.030 ms 
+SPMV time = 2119.141 ms 
+SPMTSPV: time = 2123.930 ms 
+SPMV time = 2123.971 ms 
+SPMTSPV: time = 2126.413 ms 
+SPMV time = 2126.535 ms 
+Apply time = 31.199 ms 
+Apply time = 252.541 ms 
+Apply time = 199.604 ms 
+Apply time = 265.022 ms 
+Apply time = 207.255 ms 
+Apply time = 28.887 ms 
+Apply time = 36.319 ms 
+Apply time = 304.149 ms 
+Apply time = 217.355 ms 
+Iteration 29 :: 2198.259000 msec :: updated 125214648 vertices :: changed 4323440 vertices 
+Iteration 29 :: 2200.248000 msec :: updated 125214648 vertices :: changed 4323440 vertices 
+Iteration 29 :: 2200.457000 msec :: updated 125214648 vertices :: changed 4323440 vertices 
+Iteration 29 :: 2198.705000 msec :: updated 125214648 vertices :: changed 4323440 vertices 
+Iteration 29 :: 2191.945000 msec :: updated 125214648 vertices :: changed 4323440 vertices 
+Iteration 29 :: 2190.439000 msec :: updated 125214648 vertices :: changed 4323440 vertices 
+Iteration 29 :: 2194.813000 msec :: updated 125214648 vertices :: changed 4323440 vertices 
+Iteration 29 :: 2200.565000 msec :: updated 125214648 vertices :: changed 4323440 vertices 
+Iteration 29 :: 2200.604000 msec :: updated 125214648 vertices :: changed 4323440 vertices 
+x.length = 133633040 
+Send message time = 32.943 ms 
+x.length = 133633040 
+Send message time = 25.251 ms 
+x.length = 133633040 
+Send message time = 33.125 ms 
+x.length = 133633040 
+Send message time = 33.109 ms 
+x.length = 133633040 
+Send message time = 33.098 ms 
+x.length = 133633040 
+Send message time = 33.097 ms 
+x.length = 133633040 
+Send message time = 33.060 ms 
+x.length = 133633040 
+Send message time = 33.118 ms 
+x.length = 133633040 
+Send message time = 30.183 ms 
+SPMTSPV: time = 1855.863 ms 
+SPMV time = 1855.902 ms 
+SPMTSPV: time = 1887.973 ms 
+SPMV time = 1888.098 ms 
+SPMTSPV: time = 1893.437 ms 
+SPMV time = 1893.476 ms 
+SPMTSPV: time = 1899.440 ms 
+SPMV time = 1899.544 ms 
+SPMTSPV: time = 1907.593 ms 
+SPMV time = 1907.702 ms 
+SPMTSPV: time = 1916.184 ms 
+SPMV time = 1916.296 ms 
+SPMTSPV: time = 2127.250 ms 
+SPMV time = 2127.347 ms 
+SPMTSPV: time = 2129.003 ms 
+SPMV time = 2129.114 ms 
+SPMTSPV: time = 2135.613 ms 
+SPMV time = 2135.654 ms 
+Apply time = 22.755 ms 
+Apply time = 242.450 ms 
+Apply time = 294.220 ms 
+Apply time = 256.704 ms 
+Apply time = 233.865 ms 
+Apply time = 21.018 ms 
+Apply time = 250.594 ms 
+Apply time = 14.455 ms 
+Apply time = 261.971 ms 
+Iteration 30 :: 2183.103000 msec :: updated 125214648 vertices :: changed 3158790 vertices 
+Iteration 30 :: 2183.293000 msec :: updated 125214648 vertices :: changed 3158790 vertices 
+Iteration 30 :: 2183.221000 msec :: updated 125214648 vertices :: changed 3158790 vertices 
+Iteration 30 :: 2175.449000 msec :: updated 125214648 vertices :: changed 3158790 vertices 
+Iteration 30 :: 2183.292000 msec :: updated 125214648 vertices :: changed 3158790 vertices 
+Iteration 30 :: 2183.329000 msec :: updated 125214648 vertices :: changed 3158790 vertices 
+Iteration 30 :: 2183.330000 msec :: updated 125214648 vertices :: changed 3158790 vertices 
+Iteration 30 :: 2183.323000 msec :: updated 125214648 vertices :: changed 3158790 vertices 
+Iteration 30 :: 2180.301000 msec :: updated 125214648 vertices :: changed 3158790 vertices 
+x.length = 133633040 
+Send message time = 54.555 ms 
+x.length = 133633040 
+Send message time = 52.578 ms 
+x.length = 133633040 
+Send message time = 54.769 ms 
+x.length = 133633040 
+Send message time = 42.452 ms 
+x.length = 133633040 
+Send message time = 54.852 ms 
+x.length = 133633040 
+Send message time = 48.471 ms 
+x.length = 133633040 
+Send message time = 54.884 ms 
+x.length = 133633040 
+Send message time = 43.309 ms 
+x.length = 133633040 
+Send message time = 50.131 ms 
+SPMTSPV: time = 1886.425 ms 
+SPMV time = 1886.490 ms 
+SPMTSPV: time = 1907.704 ms 
+SPMV time = 1907.745 ms 
+SPMTSPV: time = 1913.824 ms 
+SPMV time = 1913.861 ms 
+SPMTSPV: time = 1914.290 ms 
+SPMV time = 1914.386 ms 
+SPMTSPV: time = 1925.742 ms 
+SPMV time = 1925.891 ms 
+SPMTSPV: time = 1929.433 ms 
+SPMV time = 1929.549 ms 
+SPMTSPV: time = 2111.411 ms 
+SPMV time = 2111.532 ms 
+SPMTSPV: time = 2122.645 ms 
+SPMV time = 2122.683 ms 
+SPMTSPV: time = 2124.950 ms 
+SPMV time = 2124.983 ms 
+Apply time = 21.961 ms 
+Apply time = 215.147 ms 
+Apply time = 230.833 ms 
+Apply time = 230.272 ms 
+Apply time = 218.817 ms 
+Apply time = 19.807 ms 
+Apply time = 33.089 ms 
+Apply time = 258.279 ms 
+Apply time = 236.958 ms 
+Iteration 31 :: 2199.697000 msec :: updated 125214648 vertices :: changed 2307001 vertices 
+Iteration 31 :: 2187.228000 msec :: updated 125214648 vertices :: changed 2307001 vertices 
+Iteration 31 :: 2194.882000 msec :: updated 125214648 vertices :: changed 2307001 vertices 
+Iteration 31 :: 2199.250000 msec :: updated 125214648 vertices :: changed 2307001 vertices 
+Iteration 31 :: 2197.331000 msec :: updated 125214648 vertices :: changed 2307001 vertices 
+Iteration 31 :: 2199.505000 msec :: updated 125214648 vertices :: changed 2307001 vertices 
+Iteration 31 :: 2193.188000 msec :: updated 125214648 vertices :: changed 2307001 vertices 
+Iteration 31 :: 2199.702000 msec :: updated 125214648 vertices :: changed 2307001 vertices 
+Iteration 31 :: 2188.007000 msec :: updated 125214648 vertices :: changed 2307001 vertices 
+x.length = 133633040 
+Send message time = 38.181 ms 
+x.length = 133633040 
+Send message time = 49.593 ms 
+x.length = 133633040 
+Send message time = 41.061 ms 
+x.length = 133633040 
+Send message time = 49.790 ms 
+x.length = 133633040 
+Send message time = 38.632 ms 
+x.length = 133633040 
+Send message time = 47.680 ms 
+x.length = 133633040 
+Send message time = 46.760 ms 
+x.length = 133633040 
+Send message time = 41.109 ms 
+x.length = 133633040 
+Send message time = 49.706 ms 
+SPMTSPV: time = 1855.951 ms 
+SPMV time = 1855.992 ms 
+SPMTSPV: time = 1895.721 ms 
+SPMV time = 1895.846 ms 
+SPMTSPV: time = 1933.911 ms 
+SPMV time = 1934.045 ms 
+SPMTSPV: time = 1934.072 ms 
+SPMV time = 1934.112 ms 
+SPMTSPV: time = 1938.749 ms 
+SPMV time = 1938.891 ms 
+SPMTSPV: time = 1953.755 ms 
+SPMV time = 1953.870 ms 
+SPMTSPV: time = 2125.285 ms 
+SPMV time = 2125.394 ms 
+SPMTSPV: time = 2129.420 ms 
+SPMV time = 2129.459 ms 
+SPMTSPV: time = 2131.998 ms 
+SPMV time = 2132.048 ms 
+Apply time = 25.775 ms 
+Apply time = 221.178 ms 
+Apply time = 259.505 ms 
+Apply time = 216.539 ms 
+Apply time = 23.498 ms 
+Apply time = 201.531 ms 
+Apply time = 30.129 ms 
+Apply time = 299.875 ms 
+Apply time = 221.801 ms 
+Iteration 32 :: 2204.875000 msec :: updated 125214648 vertices :: changed 1692726 vertices 
+Iteration 32 :: 2196.406000 msec :: updated 125214648 vertices :: changed 1692726 vertices 
+Iteration 32 :: 2205.202000 msec :: updated 125214648 vertices :: changed 1692726 vertices 
+Iteration 32 :: 2202.223000 msec :: updated 125214648 vertices :: changed 1692726 vertices 
+Iteration 32 :: 2194.090000 msec :: updated 125214648 vertices :: changed 1692726 vertices 
+Iteration 32 :: 2194.113000 msec :: updated 125214648 vertices :: changed 1692726 vertices 
+Iteration 32 :: 2203.265000 msec :: updated 125214648 vertices :: changed 1692726 vertices 
+Iteration 32 :: 2196.715000 msec :: updated 125214648 vertices :: changed 1692726 vertices 
+Iteration 32 :: 2205.608000 msec :: updated 125214648 vertices :: changed 1692726 vertices 
+x.length = 133633040 
+Send message time = 42.887 ms 
+x.length = 133633040 
+Send message time = 32.559 ms 
+x.length = 133633040 
+Send message time = 41.100 ms 
+x.length = 133633040 
+Send message time = 43.182 ms 
+x.length = 133633040 
+Send message time = 39.205 ms 
+x.length = 133633040 
+Send message time = 39.904 ms 
+x.length = 133633040 
+Send message time = 43.114 ms 
+x.length = 133633040 
+Send message time = 34.997 ms 
+x.length = 133633040 
+Send message time = 34.659 ms 
+SPMTSPV: time = 1837.808 ms 
+SPMV time = 1837.933 ms 
+SPMTSPV: time = 1875.529 ms 
+SPMV time = 1875.582 ms 
+SPMTSPV: time = 1890.452 ms 
+SPMV time = 1890.502 ms 
+SPMTSPV: time = 1913.237 ms 
+SPMV time = 1913.275 ms 
+SPMTSPV: time = 1925.007 ms 
+SPMV time = 1925.049 ms 
+SPMTSPV: time = 1930.739 ms 
+SPMV time = 1930.778 ms 
+SPMTSPV: time = 2183.170 ms 
+SPMV time = 2183.207 ms 
+SPMTSPV: time = 2187.734 ms 
+SPMV time = 2187.978 ms 
+SPMTSPV: time = 2192.147 ms 
+SPMV time = 2192.185 ms 
+Apply time = 21.789 ms 
+Apply time = 284.811 ms 
+Apply time = 319.332 ms 
+Apply time = 334.278 ms 
+Apply time = 26.622 ms 
+Apply time = 17.714 ms 
+Apply time = 371.914 ms 
+Apply time = 279.156 ms 
+Apply time = 296.570 ms 
+Iteration 33 :: 2252.844000 msec :: updated 125214648 vertices :: changed 1210265 vertices 
+Iteration 33 :: 2242.458000 msec :: updated 125214648 vertices :: changed 1210265 vertices 
+Iteration 33 :: 2249.810000 msec :: updated 125214648 vertices :: changed 1210265 vertices 
+Iteration 33 :: 2253.172000 msec :: updated 125214648 vertices :: changed 1210265 vertices 
+Iteration 33 :: 2249.172000 msec :: updated 125214648 vertices :: changed 1210265 vertices 
+Iteration 33 :: 2244.914000 msec :: updated 125214648 vertices :: changed 1210265 vertices 
+Iteration 33 :: 2251.000000 msec :: updated 125214648 vertices :: changed 1210265 vertices 
+Iteration 33 :: 2252.981000 msec :: updated 125214648 vertices :: changed 1210265 vertices 
+Iteration 33 :: 2244.546000 msec :: updated 125214648 vertices :: changed 1210265 vertices 
+x.length = 133633040 
+Send message time = 72.950 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 73.223 ms 
+x.length = 133633040 
+Send message time = 73.226 ms 
+x.length = 133633040 
+Send message time = 70.178 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 73.255 ms 
+x.length = 133633040 
+Send message time = 61.620 ms 
+Send message time = 73.146 ms 
+x.length = 133633040 
+Send message time = 73.264 ms 
+Send message time = 56.440 ms 
+SPMTSPV: time = 1897.465 ms 
+SPMV time = 1897.582 ms 
+SPMTSPV: time = 1916.563 ms 
+SPMV time = 1916.688 ms 
+SPMTSPV: time = 1922.632 ms 
+SPMV time = 1922.746 ms 
+SPMTSPV: time = 1958.851 ms 
+SPMV time = 1958.992 ms 
+SPMTSPV: time = 1977.514 ms 
+SPMV time = 1977.549 ms 
+SPMTSPV: time = 1990.256 ms 
+SPMV time = 1990.369 ms 
+SPMTSPV: time = 2140.858 ms 
+SPMV time = 2140.904 ms 
+SPMTSPV: time = 2144.544 ms 
+SPMV time = 2144.726 ms 
+SPMTSPV: time = 2147.178 ms 
+SPMV time = 2147.297 ms 
+Apply time = 21.713 ms 
+Apply time = 175.529 ms 
+Apply time = 243.762 ms 
+Apply time = 188.958 ms 
+Apply time = 249.828 ms 
+Apply time = 19.197 ms 
+Apply time = 25.573 ms 
+Apply time = 207.475 ms 
+Apply time = 268.872 ms 
+Iteration 34 :: 2239.479000 msec :: updated 125214648 vertices :: changed 870307 vertices 
+Iteration 34 :: 2222.415000 msec :: updated 125214648 vertices :: changed 870307 vertices 
+Iteration 34 :: 2239.783000 msec :: updated 125214648 vertices :: changed 870307 vertices 
+Iteration 34 :: 2239.711000 msec :: updated 125214648 vertices :: changed 870307 vertices 
+Iteration 34 :: 2239.810000 msec :: updated 125214648 vertices :: changed 870307 vertices 
+Iteration 34 :: 2236.754000 msec :: updated 125214648 vertices :: changed 870307 vertices 
+Iteration 34 :: 2228.164000 msec :: updated 125214648 vertices :: changed 870307 vertices 
+Iteration 34 :: 2239.783000 msec :: updated 125214648 vertices :: changed 870307 vertices 
+Iteration 34 :: 2239.756000 msec :: updated 125214648 vertices :: changed 870307 vertices 
+x.length = 133633040 
+Send message time = 40.472 ms 
+x.length = 133633040 
+Send message time = 40.673 ms 
+x.length = 133633040 
+Send message time = 35.722 ms 
+x.length = 133633040 
+Send message time = 37.619 ms 
+x.length = 133633040 
+Send message time = 34.151 ms 
+x.length = 133633040 
+Send message time = 40.709 ms 
+x.length = 133633040 
+Send message time = 37.781 ms 
+x.length = 133633040 
+Send message time = 38.321 ms 
+x.length = 133633040 
+Send message time = 38.596 ms 
+SPMTSPV: time = 1853.304 ms 
+SPMV time = 1853.437 ms 
+SPMTSPV: time = 1899.791 ms 
+SPMV time = 1899.827 ms 
+SPMTSPV: time = 1926.456 ms 
+SPMV time = 1926.569 ms 
+SPMTSPV: time = 1946.556 ms 
+SPMV time = 1946.597 ms 
+SPMTSPV: time = 1958.222 ms 
+SPMV time = 1958.264 ms 
+SPMTSPV: time = 1963.128 ms 
+SPMV time = 1963.173 ms 
+SPMTSPV: time = 2128.819 ms 
+SPMV time = 2128.928 ms 
+SPMTSPV: time = 2129.267 ms 
+SPMV time = 2129.404 ms 
+SPMTSPV: time = 2131.874 ms 
+SPMV time = 2131.983 ms 
+Apply time = 21.581 ms 
+Apply time = 224.585 ms 
+Apply time = 187.967 ms 
+Apply time = 251.323 ms 
+Apply time = 193.002 ms 
+Apply time = 19.266 ms 
+Apply time = 22.342 ms 
+Apply time = 297.947 ms 
+Apply time = 204.806 ms 
+Iteration 35 :: 2185.483000 msec :: updated 125214648 vertices :: changed 619933 vertices 
+Iteration 35 :: 2189.525000 msec :: updated 125214648 vertices :: changed 619933 vertices 
+Iteration 35 :: 2189.921000 msec :: updated 125214648 vertices :: changed 619933 vertices 
+Iteration 35 :: 2191.923000 msec :: updated 125214648 vertices :: changed 619933 vertices 
+Iteration 35 :: 2191.879000 msec :: updated 125214648 vertices :: changed 619933 vertices 
+Iteration 35 :: 2187.056000 msec :: updated 125214648 vertices :: changed 619933 vertices 
+Iteration 35 :: 2191.911000 msec :: updated 125214648 vertices :: changed 619933 vertices 
+Iteration 35 :: 2189.082000 msec :: updated 125214648 vertices :: changed 619933 vertices 
+Iteration 35 :: 2189.083000 msec :: updated 125214648 vertices :: changed 619933 vertices 
+x.length = 133633040 
+Send message time = 49.478 ms 
+x.length = 133633040 
+Send message time = 48.435 ms 
+x.length = 133633040 
+Send message time = 51.613 ms 
+x.length = 133633040 
+Send message time = 51.533 ms 
+x.length = 133633040 
+Send message time = 51.425 ms 
+x.length = 133633040 
+Send message time = 39.708 ms 
+x.length = 133633040 
+Send message time = 41.785 ms 
+x.length = 133633040 
+Send message time = 42.073 ms 
+x.length = 133633040 
+Send message time = 51.740 ms 
+SPMTSPV: time = 1864.722 ms 
+SPMV time = 1864.809 ms 
+SPMTSPV: time = 1909.845 ms 
+SPMV time = 1909.895 ms 
+SPMTSPV: time = 1917.372 ms 
+SPMV time = 1917.505 ms 
+SPMTSPV: time = 1923.914 ms 
+SPMV time = 1924.030 ms 
+SPMTSPV: time = 1925.229 ms 
+SPMV time = 1925.267 ms 
+SPMTSPV: time = 1928.176 ms 
+SPMV time = 1928.219 ms 
+SPMTSPV: time = 2107.838 ms 
+SPMV time = 2107.872 ms 
+SPMTSPV: time = 2111.316 ms 
+SPMV time = 2111.351 ms 
+SPMTSPV: time = 2112.056 ms 
+SPMV time = 2112.109 ms 
+Apply time = 23.505 ms 
+Apply time = 210.864 ms 
+Apply time = 209.645 ms 
+Apply time = 206.678 ms 
+Apply time = 270.075 ms 
+Apply time = 224.997 ms 
+Apply time = 22.794 ms 
+Apply time = 27.030 ms 
+Apply time = 217.383 ms 
+Iteration 36 :: 2184.638000 msec :: updated 125214648 vertices :: changed 440931 vertices 
+Iteration 36 :: 2177.001000 msec :: updated 125214648 vertices :: changed 440931 vertices 
+Iteration 36 :: 2186.477000 msec :: updated 125214648 vertices :: changed 440931 vertices 
+Iteration 36 :: 2186.369000 msec :: updated 125214648 vertices :: changed 440931 vertices 
+Iteration 36 :: 2176.738000 msec :: updated 125214648 vertices :: changed 440931 vertices 
+Iteration 36 :: 2183.372000 msec :: updated 125214648 vertices :: changed 440931 vertices 
+Iteration 36 :: 2186.577000 msec :: updated 125214648 vertices :: changed 440931 vertices 
+Iteration 36 :: 2174.683000 msec :: updated 125214648 vertices :: changed 440931 vertices 
+Iteration 36 :: 2186.683000 msec :: updated 125214648 vertices :: changed 440931 vertices 
+x.length = 133633040 
+Send message time = 36.122 ms 
+x.length = 133633040 
+Send message time = 44.572 ms 
+x.length = 133633040 
+Send message time = 39.766 ms 
+x.length = 133633040 
+Send message time = 37.341 ms 
+x.length = 133633040 
+Send message time = 44.842 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 44.866 ms 
+x.length = 133633040 
+Send message time = 44.927 ms 
+Send message time = 44.785 ms 
+x.length = 133633040 
+Send message time = 44.975 ms 
+SPMTSPV: time = 1864.889 ms 
+SPMV time = 1864.935 ms 
+SPMTSPV: time = 1901.425 ms 
+SPMV time = 1901.556 ms 
+SPMTSPV: time = 1903.510 ms 
+SPMV time = 1903.561 ms 
+SPMTSPV: time = 1919.160 ms 
+SPMV time = 1919.274 ms 
+SPMTSPV: time = 1920.246 ms 
+SPMV time = 1920.376 ms 
+SPMTSPV: time = 1922.040 ms 
+SPMV time = 1922.071 ms 
+SPMTSPV: time = 2112.985 ms 
+SPMV time = 2113.032 ms 
+SPMTSPV: time = 2119.889 ms 
+SPMV time = 2119.928 ms 
+SPMTSPV: time = 2120.539 ms 
+SPMV time = 2120.574 ms 
+Apply time = 22.035 ms 
+Apply time = 219.871 ms 
+Apply time = 221.630 ms 
+Apply time = 222.711 ms 
+Apply time = 277.024 ms 
+Apply time = 21.380 ms 
+Apply time = 240.490 ms 
+Apply time = 29.008 ms 
+Apply time = 238.350 ms 
+Iteration 37 :: 2178.145000 msec :: updated 125214648 vertices :: changed 311806 vertices 
+Iteration 37 :: 2179.458000 msec :: updated 125214648 vertices :: changed 311806 vertices 
+Iteration 37 :: 2181.826000 msec :: updated 125214648 vertices :: changed 311806 vertices 
+Iteration 37 :: 2186.942000 msec :: updated 125214648 vertices :: changed 311806 vertices 
+Iteration 37 :: 2186.923000 msec :: updated 125214648 vertices :: changed 311806 vertices 
+Iteration 37 :: 2186.940000 msec :: updated 125214648 vertices :: changed 311806 vertices 
+Iteration 37 :: 2186.569000 msec :: updated 125214648 vertices :: changed 311806 vertices 
+Iteration 37 :: 2186.854000 msec :: updated 125214648 vertices :: changed 311806 vertices 
+Iteration 37 :: 2186.843000 msec :: updated 125214648 vertices :: changed 311806 vertices 
+x.length = 133633040 
+Send message time = 42.951 ms 
+x.length = 133633040 
+Send message time = 42.174 ms 
+x.length = 133633040 
+Send message time = 52.146 ms 
+x.length = 133633040 
+Send message time = 52.110 ms 
+x.length = 133633040 
+Send message time = 43.347 ms 
+x.length = 133633040 
+Send message time = 45.400 ms 
+x.length = 133633040 
+Send message time = 52.302 ms 
+x.length = 133633040 
+Send message time = 52.259 ms 
+x.length = 133633040 
+Send message time = 50.606 ms 
+SPMTSPV: time = 1860.845 ms 
+SPMV time = 1860.883 ms 
+SPMTSPV: time = 1895.334 ms 
+SPMV time = 1895.445 ms 
+SPMTSPV: time = 1908.768 ms 
+SPMV time = 1908.800 ms 
+SPMTSPV: time = 1918.477 ms 
+SPMV time = 1918.515 ms 
+SPMTSPV: time = 1931.746 ms 
+SPMV time = 1931.853 ms 
+SPMTSPV: time = 1936.644 ms 
+SPMV time = 1936.775 ms 
+SPMTSPV: time = 2103.068 ms 
+SPMV time = 2103.103 ms 
+SPMTSPV: time = 2103.441 ms 
+SPMV time = 2103.475 ms 
+SPMTSPV: time = 2103.936 ms 
+SPMV time = 2103.970 ms 
+Apply time = 22.048 ms 
+Apply time = 216.324 ms 
+Apply time = 264.258 ms 
+Apply time = 229.743 ms 
+Apply time = 188.474 ms 
+Apply time = 21.685 ms 
+Apply time = 193.280 ms 
+Apply time = 21.170 ms 
+Apply time = 206.586 ms 
+Iteration 38 :: 2168.151000 msec :: updated 125214648 vertices :: changed 219738 vertices 
+Iteration 38 :: 2170.657000 msec :: updated 125214648 vertices :: changed 219738 vertices 
+Iteration 38 :: 2168.560000 msec :: updated 125214648 vertices :: changed 219738 vertices 
+Iteration 38 :: 2177.323000 msec :: updated 125214648 vertices :: changed 219738 vertices 
+Iteration 38 :: 2177.480000 msec :: updated 125214648 vertices :: changed 219738 vertices 
+Iteration 38 :: 2177.439000 msec :: updated 125214648 vertices :: changed 219738 vertices 
+Iteration 38 :: 2177.441000 msec :: updated 125214648 vertices :: changed 219738 vertices 
+Iteration 38 :: 2175.751000 msec :: updated 125214648 vertices :: changed 219738 vertices 
+Iteration 38 :: 2167.340000 msec :: updated 125214648 vertices :: changed 219738 vertices 
+x.length = 133633040 
+Send message time = 25.427 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 25.493 ms 
+Send message time = 25.255 ms 
+x.length = 133633040 
+Send message time = 25.501 ms 
+x.length = 133633040 
+Send message time = 25.703 ms 
+x.length = 133633040 
+Send message time = 25.479 ms 
+x.length = 133633040 
+Send message time = 24.724 ms 
+x.length = 133633040 
+Send message time = 25.631 ms 
+x.length = 133633040 
+Send message time = 25.628 ms 
+SPMTSPV: time = 1878.731 ms 
+SPMV time = 1878.872 ms 
+SPMTSPV: time = 1898.805 ms 
+SPMV time = 1898.841 ms 
+SPMTSPV: time = 1911.924 ms 
+SPMV time = 1911.957 ms 
+SPMTSPV: time = 1923.270 ms 
+SPMV time = 1923.411 ms 
+SPMTSPV: time = 1935.150 ms 
+SPMV time = 1935.258 ms 
+SPMTSPV: time = 1939.654 ms 
+SPMV time = 1939.783 ms 
+SPMTSPV: time = 2128.604 ms 
+SPMV time = 2128.644 ms 
+SPMTSPV: time = 2131.129 ms 
+SPMV time = 2131.253 ms 
+SPMTSPV: time = 2131.876 ms 
+SPMV time = 2131.970 ms 
+Apply time = 29.209 ms 
+Apply time = 222.614 ms 
+Apply time = 245.848 ms 
+Apply time = 259.029 ms 
+Apply time = 218.071 ms 
+Apply time = 25.985 ms 
+Apply time = 26.651 ms 
+Apply time = 279.086 ms 
+Apply time = 234.516 ms 
+Iteration 39 :: 2183.516000 msec :: updated 125214648 vertices :: changed 151363 vertices 
+Iteration 39 :: 2183.589000 msec :: updated 125214648 vertices :: changed 151363 vertices 
+Iteration 39 :: 2183.330000 msec :: updated 125214648 vertices :: changed 151363 vertices 
+Iteration 39 :: 2183.642000 msec :: updated 125214648 vertices :: changed 151363 vertices 
+Iteration 39 :: 2183.520000 msec :: updated 125214648 vertices :: changed 151363 vertices 
+Iteration 39 :: 2182.668000 msec :: updated 125214648 vertices :: changed 151363 vertices 
+Iteration 39 :: 2183.611000 msec :: updated 125214648 vertices :: changed 151363 vertices 
+Iteration 39 :: 2183.388000 msec :: updated 125214648 vertices :: changed 151363 vertices 
+Iteration 39 :: 2183.142000 msec :: updated 125214648 vertices :: changed 151363 vertices 
+x.length = 133633040 
+Send message time = 44.556 ms 
+x.length = 133633040 
+Send message time = 44.537 ms 
+x.length = 133633040 
+Send message time = 42.745 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 44.677 ms 
+x.length = 133633040 
+Send message time = 44.455 ms 
+x.length = 133633040 
+Send message time = 35.894 ms 
+x.length = 133633040 
+Send message time = 44.597 ms 
+x.length = 133633040 
+Send message time = 44.684 ms 
+Send message time = 35.351 ms 
+SPMTSPV: time = 1889.555 ms 
+SPMV time = 1889.687 ms 
+SPMTSPV: time = 1905.454 ms 
+SPMV time = 1905.503 ms 
+SPMTSPV: time = 1914.021 ms 
+SPMV time = 1914.055 ms 
+SPMTSPV: time = 1917.605 ms 
+SPMV time = 1917.722 ms 
+SPMTSPV: time = 1918.835 ms 
+SPMV time = 1918.942 ms 
+SPMTSPV: time = 1927.171 ms 
+SPMV time = 1927.203 ms 
+SPMTSPV: time = 2082.121 ms 
+SPMV time = 2082.161 ms 
+SPMTSPV: time = 2082.715 ms 
+SPMV time = 2082.750 ms 
+SPMTSPV: time = 2085.815 ms 
+SPMV time = 2085.858 ms 
+Apply time = 20.811 ms 
+Apply time = 184.109 ms 
+Apply time = 175.777 ms 
+Apply time = 189.040 ms 
+Apply time = 185.440 ms 
+Apply time = 17.324 ms 
+Apply time = 20.450 ms 
+Apply time = 213.643 ms 
+Apply time = 197.784 ms 
+Iteration 40 :: 2147.950000 msec :: updated 125214648 vertices :: changed 105455 vertices 
+Iteration 40 :: 2147.699000 msec :: updated 125214648 vertices :: changed 105455 vertices 
+Iteration 40 :: 2139.050000 msec :: updated 125214648 vertices :: changed 105455 vertices 
+Iteration 40 :: 2145.983000 msec :: updated 125214648 vertices :: changed 105455 vertices 
+Iteration 40 :: 2138.689000 msec :: updated 125214648 vertices :: changed 105455 vertices 
+Iteration 40 :: 2147.474000 msec :: updated 125214648 vertices :: changed 105455 vertices 
+Iteration 40 :: 2147.827000 msec :: updated 125214648 vertices :: changed 105455 vertices 
+Iteration 40 :: 2147.786000 msec :: updated 125214648 vertices :: changed 105455 vertices 
+Iteration 40 :: 2147.778000 msec :: updated 125214648 vertices :: changed 105455 vertices 
+x.length = 133633040 
+Send message time = 49.941 ms 
+x.length = 133633040 
+Send message time = 45.608 ms 
+x.length = 133633040 
+Send message time = 49.838 ms 
+x.length = 133633040 
+Send message time = 38.466 ms 
+x.length = 133633040 
+Send message time = 45.029 ms 
+x.length = 133633040 
+Send message time = 47.045 ms 
+x.length = 133633040 
+Send message time = 42.296 ms 
+x.length = 133633040 
+Send message time = 50.257 ms 
+x.length = 133633040 
+Send message time = 50.120 ms 
+SPMTSPV: time = 1911.490 ms 
+SPMV time = 1911.619 ms 
+SPMTSPV: time = 1920.753 ms 
+SPMV time = 1920.870 ms 
+SPMTSPV: time = 1927.618 ms 
+SPMV time = 1927.660 ms 
+SPMTSPV: time = 1931.083 ms 
+SPMV time = 1931.126 ms 
+SPMTSPV: time = 1956.885 ms 
+SPMV time = 1956.943 ms 
+SPMTSPV: time = 1968.218 ms 
+SPMV time = 1968.253 ms 
+SPMTSPV: time = 2113.180 ms 
+SPMV time = 2113.218 ms 
+SPMTSPV: time = 2113.396 ms 
+SPMV time = 2113.490 ms 
+SPMTSPV: time = 2114.593 ms 
+SPMV time = 2114.650 ms 
+Apply time = 21.558 ms 
+Apply time = 166.884 ms 
+Apply time = 223.546 ms 
+Apply time = 178.355 ms 
+Apply time = 207.617 ms 
+Apply time = 20.409 ms 
+Apply time = 204.017 ms 
+Apply time = 22.064 ms 
+Apply time = 214.264 ms 
+Iteration 41 :: 2185.088000 msec :: updated 125214648 vertices :: changed 71976 vertices 
+Iteration 41 :: 2185.015000 msec :: updated 125214648 vertices :: changed 71976 vertices 
+Iteration 41 :: 2185.217000 msec :: updated 125214648 vertices :: changed 71976 vertices 
+Iteration 41 :: 2173.684000 msec :: updated 125214648 vertices :: changed 71976 vertices 
+Iteration 41 :: 2182.259000 msec :: updated 125214648 vertices :: changed 71976 vertices 
+Iteration 41 :: 2180.357000 msec :: updated 125214648 vertices :: changed 71976 vertices 
+Iteration 41 :: 2185.450000 msec :: updated 125214648 vertices :: changed 71976 vertices 
+Iteration 41 :: 2180.945000 msec :: updated 125214648 vertices :: changed 71976 vertices 
+Iteration 41 :: 2177.621000 msec :: updated 125214648 vertices :: changed 71976 vertices 
+x.length = 133633040 
+Send message time = 39.434 ms 
+x.length = 133633040 
+Send message time = 35.971 ms 
+x.length = 133633040 
+Send message time = 44.916 ms 
+x.length = 133633040 
+Send message time = 44.751 ms 
+x.length = 133633040 
+Send message time = 44.741 ms 
+x.length = 133633040 
+Send message time = 44.800 ms 
+x.length = 133633040 
+Send message time = 44.792 ms 
+x.length = 133633040 
+Send message time = 41.556 ms 
+x.length = 133633040 
+Send message time = 35.953 ms 
+SPMTSPV: time = 1860.459 ms 
+SPMV time = 1860.498 ms 
+SPMTSPV: time = 1906.988 ms 
+SPMV time = 1907.036 ms 
+SPMTSPV: time = 1920.273 ms 
+SPMV time = 1920.396 ms 
+SPMTSPV: time = 1949.735 ms 
+SPMV time = 1949.773 ms 
+SPMTSPV: time = 1953.372 ms 
+SPMV time = 1953.414 ms 
+SPMTSPV: time = 1956.356 ms 
+SPMV time = 1956.396 ms 
+SPMTSPV: time = 2117.617 ms 
+SPMV time = 2117.656 ms 
+SPMTSPV: time = 2125.378 ms 
+SPMV time = 2125.414 ms 
+SPMTSPV: time = 2125.949 ms 
+SPMV time = 2126.006 ms 
+Apply time = 21.569 ms 
+Apply time = 226.624 ms 
+Apply time = 190.578 ms 
+Apply time = 193.635 ms 
+Apply time = 21.022 ms 
+Apply time = 29.295 ms 
+Apply time = 286.470 ms 
+Apply time = 239.998 ms 
+Apply time = 197.227 ms 
+Iteration 42 :: 2188.580000 msec :: updated 125214648 vertices :: changed 49437 vertices 
+Iteration 42 :: 2191.841000 msec :: updated 125214648 vertices :: changed 49437 vertices 
+Iteration 42 :: 2191.781000 msec :: updated 125214648 vertices :: changed 49437 vertices 
+Iteration 42 :: 2182.994000 msec :: updated 125214648 vertices :: changed 49437 vertices 
+Iteration 42 :: 2186.465000 msec :: updated 125214648 vertices :: changed 49437 vertices 
+Iteration 42 :: 2183.045000 msec :: updated 125214648 vertices :: changed 49437 vertices 
+Iteration 42 :: 2191.824000 msec :: updated 125214648 vertices :: changed 49437 vertices 
+Iteration 42 :: 2191.992000 msec :: updated 125214648 vertices :: changed 49437 vertices 
+Iteration 42 :: 2191.833000 msec :: updated 125214648 vertices :: changed 49437 vertices 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 30.015 ms 
+Send message time = 29.429 ms 
+x.length = 133633040 
+Send message time = 34.358 ms 
+x.length = 133633040 
+Send message time = 38.062 ms 
+x.length = 133633040 
+Send message time = 37.959 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 38.010 ms 
+Send message time = 38.000 ms 
+x.length = 133633040 
+Send message time = 29.401 ms 
+x.length = 133633040 
+Send message time = 26.999 ms 
+SPMTSPV: time = 1856.523 ms 
+SPMV time = 1856.564 ms 
+SPMTSPV: time = 1904.350 ms 
+SPMV time = 1904.394 ms 
+SPMTSPV: time = 1919.779 ms 
+SPMV time = 1919.826 ms 
+SPMTSPV: time = 1925.068 ms 
+SPMV time = 1925.107 ms 
+SPMTSPV: time = 1934.992 ms 
+SPMV time = 1935.108 ms 
+SPMTSPV: time = 1936.102 ms 
+SPMV time = 1936.151 ms 
+SPMTSPV: time = 2119.225 ms 
+SPMTSPV: time = 2118.970 ms 
+SPMV time = 2119.005 ms 
+SPMV time = 2119.311 ms 
+SPMTSPV: time = 2122.512 ms 
+SPMV time = 2122.559 ms 
+Apply time = 28.728 ms 
+Apply time = 228.269 ms 
+Apply time = 212.908 ms 
+Apply time = 243.749 ms 
+Apply time = 211.993 ms 
+Apply time = 28.991 ms 
+Apply time = 291.604 ms 
+Apply time = 25.612 ms 
+Apply time = 223.052 ms 
+Iteration 43 :: 2186.293000 msec :: updated 125214648 vertices :: changed 33636 vertices 
+Iteration 43 :: 2182.554000 msec :: updated 125214648 vertices :: changed 33636 vertices 
+Iteration 43 :: 2178.226000 msec :: updated 125214648 vertices :: changed 33636 vertices 
+Iteration 43 :: 2177.448000 msec :: updated 125214648 vertices :: changed 33636 vertices 
+Iteration 43 :: 2177.581000 msec :: updated 125214648 vertices :: changed 33636 vertices 
+Iteration 43 :: 2186.205000 msec :: updated 125214648 vertices :: changed 33636 vertices 
+Iteration 43 :: 2186.078000 msec :: updated 125214648 vertices :: changed 33636 vertices 
+Iteration 43 :: 2175.211000 msec :: updated 125214648 vertices :: changed 33636 vertices 
+Iteration 43 :: 2186.188000 msec :: updated 125214648 vertices :: changed 33636 vertices 
+x.length = 133633040 
+Send message time = 38.906 ms 
+x.length = 133633040 
+Send message time = 41.931 ms 
+x.length = 133633040 
+Send message time = 50.745 ms 
+x.length = 133633040 
+Send message time = 50.689 ms 
+x.length = 133633040 
+Send message time = 50.708 ms 
+x.length = 133633040 
+Send message time = 50.666 ms 
+x.length = 133633040 
+Send message time = 39.584 ms 
+x.length = 133633040 
+Send message time = 50.748 ms 
+x.length = 133633040 
+Send message time = 42.130 ms 
+SPMTSPV: time = 1855.617 ms 
+SPMV time = 1855.662 ms 
+SPMTSPV: time = 1915.464 ms 
+SPMV time = 1915.510 ms 
+SPMTSPV: time = 1925.796 ms 
+SPMV time = 1925.847 ms 
+SPMTSPV: time = 1938.697 ms 
+SPMV time = 1938.738 ms 
+SPMTSPV: time = 1950.998 ms 
+SPMV time = 1951.036 ms 
+SPMTSPV: time = 1956.082 ms 
+SPMV time = 1956.191 ms 
+SPMTSPV: time = 2095.566 ms 
+SPMV time = 2095.609 ms 
+SPMTSPV: time = 2096.712 ms 
+SPMV time = 2096.749 ms 
+SPMTSPV: time = 2109.993 ms 
+SPMV time = 2110.146 ms 
+Apply time = 265.350 ms 
+Apply time = 205.635 ms 
+Apply time = 182.282 ms 
+Apply time = 10.879 ms 
+Apply time = 25.486 ms 
+Apply time = 164.897 ms 
+Apply time = 170.103 ms 
+Apply time = 24.230 ms 
+Apply time = 195.180 ms 
+Iteration 44 :: 2171.804000 msec :: updated 125214648 vertices :: changed 21960 vertices 
+Iteration 44 :: 2171.890000 msec :: updated 125214648 vertices :: changed 21960 vertices 
+Iteration 44 :: 2163.160000 msec :: updated 125214648 vertices :: changed 21960 vertices 
+Iteration 44 :: 2160.723000 msec :: updated 125214648 vertices :: changed 21960 vertices 
+Iteration 44 :: 2171.813000 msec :: updated 125214648 vertices :: changed 21960 vertices 
+Iteration 44 :: 2163.067000 msec :: updated 125214648 vertices :: changed 21960 vertices 
+Iteration 44 :: 2171.847000 msec :: updated 125214648 vertices :: changed 21960 vertices 
+Iteration 44 :: 2160.092000 msec :: updated 125214648 vertices :: changed 21960 vertices 
+Iteration 44 :: 2171.746000 msec :: updated 125214648 vertices :: changed 21960 vertices 
+x.length = 133633040 
+Send message time = 37.965 ms 
+x.length = 133633040 
+Send message time = 46.778 ms 
+x.length = 133633040 
+Send message time = 41.668 ms 
+x.length = 133633040 
+Send message time = 37.959 ms 
+x.length = 133633040 
+Send message time = 46.830 ms 
+x.length = 133633040 
+Send message time = 38.237 ms 
+x.length = 133633040 
+Send message time = 38.043 ms 
+x.length = 133633040 
+Send message time = 44.978 ms 
+x.length = 133633040 
+Send message time = 37.824 ms 
+SPMTSPV: time = 1853.599 ms 
+SPMV time = 1853.724 ms 
+SPMTSPV: time = 1906.016 ms 
+SPMV time = 1906.136 ms 
+SPMTSPV: time = 1915.761 ms 
+SPMV time = 1915.894 ms 
+SPMTSPV: time = 1918.912 ms 
+SPMV time = 1918.950 ms 
+SPMTSPV: time = 1920.463 ms 
+SPMV time = 1920.615 ms 
+SPMTSPV: time = 1926.644 ms 
+SPMV time = 1926.689 ms 
+SPMTSPV: time = 2121.650 ms 
+SPMV time = 2121.685 ms 
+SPMTSPV: time = 2128.658 ms 
+SPMV time = 2128.862 ms 
+SPMTSPV: time = 2137.578 ms 
+SPMV time = 2137.617 ms 
+Apply time = 21.400 ms 
+Apply time = 223.736 ms 
+Apply time = 12.956 ms 
+Apply time = 231.573 ms 
+Apply time = 296.912 ms 
+Apply time = 234.543 ms 
+Apply time = 229.924 ms 
+Apply time = 28.941 ms 
+Apply time = 244.489 ms 
+Iteration 45 :: 2188.664000 msec :: updated 125214648 vertices :: changed 13731 vertices 
+Iteration 45 :: 2188.829000 msec :: updated 125214648 vertices :: changed 13731 vertices 
+Iteration 45 :: 2197.405000 msec :: updated 125214648 vertices :: changed 13731 vertices 
+Iteration 45 :: 2188.368000 msec :: updated 125214648 vertices :: changed 13731 vertices 
+Iteration 45 :: 2197.330000 msec :: updated 125214648 vertices :: changed 13731 vertices 
+Iteration 45 :: 2195.646000 msec :: updated 125214648 vertices :: changed 13731 vertices 
+Iteration 45 :: 2188.419000 msec :: updated 125214648 vertices :: changed 13731 vertices 
+Iteration 45 :: 2192.332000 msec :: updated 125214648 vertices :: changed 13731 vertices 
+Iteration 45 :: 2188.611000 msec :: updated 125214648 vertices :: changed 13731 vertices 
+x.length = 133633040 
+Send message time = 55.209 ms 
+x.length = 133633040 
+Send message time = 46.839 ms 
+x.length = 133633040 
+Send message time = 55.624 ms 
+x.length = 133633040 
+Send message time = 46.870 ms 
+x.length = 133633040 
+Send message time = 47.188 ms 
+x.length = 133633040 
+Send message time = 47.034 ms 
+x.length = 133633040 
+Send message time = 52.435 ms 
+x.length = 133633040 
+Send message time = 55.671 ms 
+x.length = 133633040 
+Send message time = 55.765 ms 
+SPMTSPV: time = 1841.431 ms 
+SPMV time = 1841.481 ms 
+SPMTSPV: time = 1878.854 ms 
+SPMV time = 1878.891 ms 
+SPMTSPV: time = 1892.745 ms 
+SPMV time = 1892.853 ms 
+SPMTSPV: time = 1935.259 ms 
+SPMV time = 1935.387 ms 
+SPMTSPV: time = 1952.374 ms 
+SPMV time = 1952.509 ms 
+SPMTSPV: time = 1960.760 ms 
+SPMV time = 1960.798 ms 
+SPMTSPV: time = 2100.704 ms 
+SPMV time = 2100.739 ms 
+SPMTSPV: time = 2101.764 ms 
+SPMV time = 2101.947 ms 
+SPMTSPV: time = 2104.179 ms 
+SPMV time = 2104.297 ms 
+Apply time = 21.614 ms 
+Apply time = 230.668 ms 
+Apply time = 162.845 ms 
+Apply time = 282.080 ms 
+Apply time = 244.782 ms 
+Apply time = 171.101 ms 
+Apply time = 19.315 ms 
+Apply time = 22.873 ms 
+Apply time = 188.156 ms 
+Iteration 46 :: 2178.911000 msec :: updated 125214648 vertices :: changed 8459 vertices 
+Iteration 46 :: 2170.801000 msec :: updated 125214648 vertices :: changed 8459 vertices 
+Iteration 46 :: 2170.597000 msec :: updated 125214648 vertices :: changed 8459 vertices 
+Iteration 46 :: 2170.723000 msec :: updated 125214648 vertices :: changed 8459 vertices 
+Iteration 46 :: 2170.424000 msec :: updated 125214648 vertices :: changed 8459 vertices 
+Iteration 46 :: 2176.133000 msec :: updated 125214648 vertices :: changed 8459 vertices 
+Iteration 46 :: 2179.360000 msec :: updated 125214648 vertices :: changed 8459 vertices 
+Iteration 46 :: 2179.296000 msec :: updated 125214648 vertices :: changed 8459 vertices 
+Iteration 46 :: 2179.332000 msec :: updated 125214648 vertices :: changed 8459 vertices 
+x.length = 133633040 
+Send message time = 60.463 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 51.306 ms 
+Send message time = 48.801 ms 
+x.length = 133633040 
+Send message time = 50.636 ms 
+x.length = 133633040 
+Send message time = 52.355 ms 
+x.length = 133633040 
+Send message time = 60.647 ms 
+x.length = 133633040 
+Send message time = 60.702 ms 
+x.length = 133633040 
+Send message time = 60.785 ms 
+x.length = 133633040 
+Send message time = 60.896 ms 
+SPMTSPV: time = 1873.918 ms 
+SPMV time = 1874.058 ms 
+SPMTSPV: time = 1903.807 ms 
+SPMV time = 1903.845 ms 
+SPMTSPV: time = 1914.642 ms 
+SPMV time = 1914.750 ms 
+SPMTSPV: time = 1915.559 ms 
+SPMV time = 1915.606 ms 
+SPMTSPV: time = 1920.252 ms 
+SPMV time = 1920.377 ms 
+SPMTSPV: time = 1934.133 ms 
+SPMV time = 1934.181 ms 
+SPMTSPV: time = 2121.604 ms 
+SPMV time = 2121.642 ms 
+SPMTSPV: time = 2123.760 ms 
+SPMV time = 2123.804 ms 
+SPMTSPV: time = 2139.225 ms 
+SPMV time = 2139.268 ms 
+Apply time = 253.825 ms 
+Apply time = 29.205 ms 
+Apply time = 44.865 ms 
+Apply time = 294.356 ms 
+Apply time = 253.020 ms 
+Apply time = 248.171 ms 
+Apply time = 46.994 ms 
+Apply time = 264.580 ms 
+Apply time = 234.469 ms 
+Iteration 47 :: 2229.192000 msec :: updated 125214648 vertices :: changed 4479 vertices 
+Iteration 47 :: 2229.323000 msec :: updated 125214648 vertices :: changed 4479 vertices 
+Iteration 47 :: 2219.269000 msec :: updated 125214648 vertices :: changed 4479 vertices 
+Iteration 47 :: 2229.263000 msec :: updated 125214648 vertices :: changed 4479 vertices 
+Iteration 47 :: 2220.018000 msec :: updated 125214648 vertices :: changed 4479 vertices 
+Iteration 47 :: 2229.271000 msec :: updated 125214648 vertices :: changed 4479 vertices 
+Iteration 47 :: 2217.462000 msec :: updated 125214648 vertices :: changed 4479 vertices 
+Iteration 47 :: 2220.969000 msec :: updated 125214648 vertices :: changed 4479 vertices 
+Iteration 47 :: 2229.363000 msec :: updated 125214648 vertices :: changed 4479 vertices 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 51.903 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 47.244 ms 
+Send message time = 43.105 ms 
+x.length = 133633040 
+Send message time = 49.815 ms 
+x.length = 133633040 
+Send message time = 40.524 ms 
+x.length = 133633040 
+Send message time = 51.971 ms 
+x.length = 133633040 
+Send message time = 51.858 ms 
+Send message time = 52.039 ms 
+x.length = 133633040 
+Send message time = 51.821 ms 
+SPMTSPV: time = 1842.596 ms 
+SPMV time = 1842.639 ms 
+SPMTSPV: time = 1872.178 ms 
+SPMV time = 1872.312 ms 
+SPMTSPV: time = 1883.990 ms 
+SPMV time = 1884.037 ms 
+SPMTSPV: time = 1908.894 ms 
+SPMV time = 1909.025 ms 
+SPMTSPV: time = 1918.476 ms 
+SPMV time = 1918.573 ms 
+SPMTSPV: time = 1919.660 ms 
+SPMV time = 1919.810 ms 
+SPMTSPV: time = 2084.901 ms 
+SPMV time = 2084.994 ms 
+SPMTSPV: time = 2085.761 ms 
+SPMV time = 2085.872 ms 
+SPMTSPV: time = 2100.715 ms 
+SPMV time = 2100.766 ms 
+Apply time = 25.487 ms 
+Apply time = 268.028 ms 
+Apply time = 238.178 ms 
+Apply time = 190.842 ms 
+Apply time = 24.723 ms 
+Apply time = 191.951 ms 
+Apply time = 9.821 ms 
+Apply time = 201.591 ms 
+Apply time = 226.604 ms 
+Iteration 48 :: 2162.607000 msec :: updated 125214648 vertices :: changed 2693 vertices 
+Iteration 48 :: 2162.375000 msec :: updated 125214648 vertices :: changed 2693 vertices 
+Iteration 48 :: 2160.540000 msec :: updated 125214648 vertices :: changed 2693 vertices 
+Iteration 48 :: 2157.934000 msec :: updated 125214648 vertices :: changed 2693 vertices 
+Iteration 48 :: 2162.524000 msec :: updated 125214648 vertices :: changed 2693 vertices 
+Iteration 48 :: 2153.810000 msec :: updated 125214648 vertices :: changed 2693 vertices 
+Iteration 48 :: 2162.555000 msec :: updated 125214648 vertices :: changed 2693 vertices 
+Iteration 48 :: 2151.131000 msec :: updated 125214648 vertices :: changed 2693 vertices 
+Iteration 48 :: 2162.646000 msec :: updated 125214648 vertices :: changed 2693 vertices 
+x.length = 133633040 
+Send message time = 41.399 ms 
+x.length = 133633040 
+Send message time = 50.523 ms 
+x.length = 133633040 
+Send message time = 46.314 ms 
+x.length = 133633040 
+Send message time = 39.273 ms 
+x.length = 133633040 
+Send message time = 50.519 ms 
+x.length = 133633040 
+Send message time = 50.708 ms 
+x.length = 133633040 
+Send message time = 42.847 ms 
+x.length = 133633040 
+Send message time = 50.805 ms 
+x.length = 133633040 
+Send message time = 48.253 ms 
+SPMTSPV: time = 1868.682 ms 
+SPMV time = 1868.785 ms 
+SPMTSPV: time = 1914.597 ms 
+SPMV time = 1914.643 ms 
+SPMTSPV: time = 1920.078 ms 
+SPMV time = 1920.117 ms 
+SPMTSPV: time = 1928.744 ms 
+SPMV time = 1928.782 ms 
+SPMTSPV: time = 1932.580 ms 
+SPMV time = 1932.612 ms 
+SPMTSPV: time = 1935.600 ms 
+SPMV time = 1935.642 ms 
+SPMTSPV: time = 2144.495 ms 
+SPMV time = 2144.587 ms 
+SPMTSPV: time = 2144.842 ms 
+SPMV time = 2144.879 ms 
+SPMTSPV: time = 2145.439 ms 
+SPMV time = 2145.550 ms 
+Apply time = 21.518 ms 
+Apply time = 233.491 ms 
+Apply time = 230.519 ms 
+Apply time = 251.523 ms 
+Apply time = 237.417 ms 
+Apply time = 20.538 ms 
+Apply time = 21.240 ms 
+Apply time = 297.292 ms 
+Apply time = 245.951 ms 
+Iteration 49 :: 2216.945000 msec :: updated 125214648 vertices :: changed 1558 vertices 
+Iteration 49 :: 2216.869000 msec :: updated 125214648 vertices :: changed 1558 vertices 
+Iteration 49 :: 2216.716000 msec :: updated 125214648 vertices :: changed 1558 vertices 
+Iteration 49 :: 2214.364000 msec :: updated 125214648 vertices :: changed 1558 vertices 
+Iteration 49 :: 2207.782000 msec :: updated 125214648 vertices :: changed 1558 vertices 
+Iteration 49 :: 2216.674000 msec :: updated 125214648 vertices :: changed 1558 vertices 
+Iteration 49 :: 2212.510000 msec :: updated 125214648 vertices :: changed 1558 vertices 
+Iteration 49 :: 2205.517000 msec :: updated 125214648 vertices :: changed 1558 vertices 
+Iteration 49 :: 2209.017000 msec :: updated 125214648 vertices :: changed 1558 vertices 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 56.647 ms 
+Send message time = 57.615 ms 
+x.length = 133633040 
+Send message time = 51.182 ms 
+x.length = 133633040 
+Send message time = 61.216 ms 
+x.length = 133633040 
+Send message time = 54.377 ms 
+x.length = 133633040 
+Send message time = 65.309 ms 
+x.length = 133633040 
+Send message time = 65.512 ms 
+x.length = 133633040 
+Send message time = 65.450 ms 
+x.length = 133633040 
+Send message time = 65.576 ms 
+SPMTSPV: time = 1851.653 ms 
+SPMV time = 1851.770 ms 
+SPMTSPV: time = 1901.016 ms 
+SPMV time = 1901.156 ms 
+SPMTSPV: time = 1913.271 ms 
+SPMV time = 1913.398 ms 
+SPMTSPV: time = 1947.377 ms 
+SPMV time = 1947.485 ms 
+SPMTSPV: time = 1950.371 ms 
+SPMV time = 1950.504 ms 
+SPMTSPV: time = 1951.255 ms 
+SPMV time = 1951.374 ms 
+SPMTSPV: time = 2124.434 ms 
+SPMV time = 2124.473 ms 
+SPMTSPV: time = 2125.834 ms 
+SPMV time = 2126.021 ms 
+SPMTSPV: time = 2130.899 ms 
+SPMV time = 2130.939 ms 
+Apply time = 22.756 ms 
+Apply time = 235.445 ms 
+Apply time = 17.935 ms 
+Apply time = 201.394 ms 
+Apply time = 297.088 ms 
+Apply time = 247.730 ms 
+Apply time = 198.355 ms 
+Apply time = 24.424 ms 
+Apply time = 197.486 ms 
+Iteration 50 :: 2206.738000 msec :: updated 125214648 vertices :: changed 764 vertices 
+Iteration 50 :: 2210.146000 msec :: updated 125214648 vertices :: changed 764 vertices 
+Iteration 50 :: 2214.225000 msec :: updated 125214648 vertices :: changed 764 vertices 
+Iteration 50 :: 2200.096000 msec :: updated 125214648 vertices :: changed 764 vertices 
+Iteration 50 :: 2214.460000 msec :: updated 125214648 vertices :: changed 764 vertices 
+Iteration 50 :: 2205.543000 msec :: updated 125214648 vertices :: changed 764 vertices 
+Iteration 50 :: 2203.337000 msec :: updated 125214648 vertices :: changed 764 vertices 
+Iteration 50 :: 2214.399000 msec :: updated 125214648 vertices :: changed 764 vertices 
+Iteration 50 :: 2214.494000 msec :: updated 125214648 vertices :: changed 764 vertices 
+x.length = 133633040 
+Send message time = 44.730 ms 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 46.695 ms 
+x.length = 133633040 
+Send message time = 46.763 ms 
+Send message time = 40.402 ms 
+x.length = 133633040 
+Send message time = 46.891 ms 
+x.length = 133633040 
+Send message time = 35.852 ms 
+x.length = 133633040 
+Send message time = 43.902 ms 
+x.length = 133633040 
+Send message time = 36.516 ms 
+x.length = 133633040 
+Send message time = 46.974 ms 
+SPMTSPV: time = 1847.341 ms 
+SPMV time = 1847.484 ms 
+SPMTSPV: time = 1887.044 ms 
+SPMV time = 1887.089 ms 
+SPMTSPV: time = 1897.975 ms 
+SPMV time = 1898.081 ms 
+SPMTSPV: time = 1907.427 ms 
+SPMV time = 1907.475 ms 
+SPMTSPV: time = 1914.377 ms 
+SPMV time = 1914.491 ms 
+SPMTSPV: time = 1917.332 ms 
+SPMV time = 1917.456 ms 
+SPMTSPV: time = 2099.389 ms 
+SPMV time = 2099.430 ms 
+SPMTSPV: time = 2100.257 ms 
+SPMV time = 2100.372 ms 
+SPMTSPV: time = 2102.280 ms 
+SPMV time = 2102.367 ms 
+Apply time = 23.251 ms 
+Apply time = 224.550 ms 
+Apply time = 208.289 ms 
+Apply time = 275.193 ms 
+Apply time = 235.642 ms 
+Apply time = 205.204 ms 
+Apply time = 22.349 ms 
+Apply time = 20.428 ms 
+Apply time = 215.194 ms 
+Iteration 51 :: 2158.600000 msec :: updated 125214648 vertices :: changed 377 vertices 
+Iteration 51 :: 2169.725000 msec :: updated 125214648 vertices :: changed 377 vertices 
+Iteration 51 :: 2169.694000 msec :: updated 125214648 vertices :: changed 377 vertices 
+Iteration 51 :: 2167.462000 msec :: updated 125214648 vertices :: changed 377 vertices 
+Iteration 51 :: 2169.377000 msec :: updated 125214648 vertices :: changed 377 vertices 
+Iteration 51 :: 2169.560000 msec :: updated 125214648 vertices :: changed 377 vertices 
+Iteration 51 :: 2163.234000 msec :: updated 125214648 vertices :: changed 377 vertices 
+Iteration 51 :: 2159.243000 msec :: updated 125214648 vertices :: changed 377 vertices 
+Iteration 51 :: 2166.671000 msec :: updated 125214648 vertices :: changed 377 vertices 
+x.length = 133633040 
+x.length = 133633040 
+Send message time = 29.266 ms 
+Send message time = 27.409 ms 
+x.length = 133633040 
+Send message time = 24.812 ms 
+x.length = 133633040 
+Send message time = 29.369 ms 
+x.length = 133633040 
+Send message time = 29.350 ms 
+x.length = 133633040 
+Send message time = 29.514 ms 
+x.length = 133633040 
+Send message time = 29.476 ms 
+x.length = 133633040 
+Send message time = 29.664 ms 
+x.length = 133633040 
+Send message time = 29.731 ms 
+SPMTSPV: time = 1892.293 ms 
+SPMV time = 1892.331 ms 
+SPMTSPV: time = 1911.786 ms 
+SPMV time = 1911.826 ms 
+SPMTSPV: time = 1912.224 ms 
+SPMV time = 1912.267 ms 
+SPMTSPV: time = 1919.841 ms 
+SPMV time = 1919.887 ms 
+SPMTSPV: time = 1984.948 ms 
+SPMV time = 1985.077 ms 
+SPMTSPV: time = 2021.573 ms 
+SPMV time = 2021.606 ms 
+SPMTSPV: time = 2057.072 ms 
+SPMV time = 2057.182 ms 
+SPMTSPV: time = 2059.588 ms 
+SPMV time = 2059.624 ms 
+SPMTSPV: time = 2059.903 ms 
+SPMV time = 2059.927 ms 
+Apply time = 20.550 ms 
+Apply time = 58.957 ms 
+Apply time = 160.758 ms 
+Apply time = 95.550 ms 
+Apply time = 20.973 ms 
+Apply time = 168.375 ms 
+Apply time = 168.820 ms 
+Apply time = 23.427 ms 
+Apply time = 188.260 ms 
+Iteration 52 :: 2110.055000 msec :: updated 125214648 vertices :: changed 158 vertices 
+Iteration 52 :: 2107.946000 msec :: updated 125214648 vertices :: changed 158 vertices 
+Iteration 52 :: 2109.871000 msec :: updated 125214648 vertices :: changed 158 vertices 
+Iteration 52 :: 2110.334000 msec :: updated 125214648 vertices :: changed 158 vertices 
+Iteration 52 :: 2110.042000 msec :: updated 125214648 vertices :: changed 158 vertices 
+Iteration 52 :: 2110.185000 msec :: updated 125214648 vertices :: changed 158 vertices 
+Iteration 52 :: 2110.364000 msec :: updated 125214648 vertices :: changed 158 vertices 
+Iteration 52 :: 2105.510000 msec :: updated 125214648 vertices :: changed 158 vertices 
+Iteration 52 :: 2110.148000 msec :: updated 125214648 vertices :: changed 158 vertices 
+x.length = 133633040 
+Send message time = 49.366 ms 
+x.length = 133633040 
+Send message time = 40.948 ms 
+x.length = 133633040 
+Send message time = 49.639 ms 
+x.length = 133633040 
+Send message time = 47.429 ms 
+x.length = 133633040 
+Send message time = 49.635 ms 
+x.length = 133633040 
+Send message time = 41.029 ms 
+x.length = 133633040 
+Send message time = 38.352 ms 
+x.length = 133633040 
+Send message time = 40.858 ms 
+x.length = 133633040 
+Send message time = 49.725 ms 
+SPMTSPV: time = 1854.577 ms 
+SPMV time = 1854.616 ms 
+SPMTSPV: time = 1903.481 ms 
+SPMV time = 1903.521 ms 
+SPMTSPV: time = 1929.001 ms 
+SPMV time = 1929.036 ms 
+SPMTSPV: time = 1934.904 ms 
+SPMV time = 1934.945 ms 
+SPMTSPV: time = 1945.330 ms 
+SPMV time = 1945.453 ms 
+SPMTSPV: time = 1951.336 ms 
+SPMV time = 1951.457 ms 
+SPMTSPV: time = 2116.360 ms 
+SPMTSPV: time = 2116.245 ms 
+SPMV time = 2116.282 ms 
+SPMV time = 2116.448 ms 
+SPMTSPV: time = 2117.799 ms 
+SPMV time = 2117.916 ms 
+Apply time = 21.417 ms 
+Apply time = 208.906 ms 
+Apply time = 20.003 ms 
+Apply time = 192.430 ms 
+Apply time = 283.319 ms 
+Apply time = 234.421 ms 
+Apply time = 186.554 ms 
+Apply time = 21.619 ms 
+Apply time = 202.930 ms 
+Iteration 53 :: 2187.597000 msec :: updated 125214648 vertices :: changed 87 vertices 
+Iteration 53 :: 2178.933000 msec :: updated 125214648 vertices :: changed 87 vertices 
+Iteration 53 :: 2187.713000 msec :: updated 125214648 vertices :: changed 87 vertices 
+Iteration 53 :: 2187.583000 msec :: updated 125214648 vertices :: changed 87 vertices 
+Iteration 53 :: 2176.340000 msec :: updated 125214648 vertices :: changed 87 vertices 
+Iteration 53 :: 2185.418000 msec :: updated 125214648 vertices :: changed 87 vertices 
+Iteration 53 :: 2178.799000 msec :: updated 125214648 vertices :: changed 87 vertices 
+Iteration 53 :: 2179.001000 msec :: updated 125214648 vertices :: changed 87 vertices 
+Iteration 53 :: 2187.647000 msec :: updated 125214648 vertices :: changed 87 vertices 
+x.length = 133633040 
+Send message time = 51.408 ms 
+x.length = 133633040 
+Send message time = 51.314 ms 
+x.length = 133633040 
+Send message time = 42.289 ms 
+x.length = 133633040 
+Send message time = 51.574 ms 
+x.length = 133633040 
+Send message time = 51.457 ms 
+x.length = 133633040 
+Send message time = 51.398 ms 
+x.length = 133633040 
+Send message time = 51.603 ms 
+x.length = 133633040 
+Send message time = 51.445 ms 
+x.length = 133633040 
+Send message time = 51.584 ms 
+SPMTSPV: time = 1851.051 ms 
+SPMV time = 1851.100 ms 
+SPMTSPV: time = 1894.207 ms 
+SPMV time = 1894.249 ms 
+SPMTSPV: time = 1907.210 ms 
+SPMV time = 1907.241 ms 
+SPMTSPV: time = 1934.378 ms 
+SPMV time = 1934.413 ms 
+SPMTSPV: time = 1944.055 ms 
+SPMV time = 1944.179 ms 
+SPMTSPV: time = 1947.303 ms 
+SPMV time = 1947.441 ms 
+SPMTSPV: time = 2114.086 ms 
+SPMV time = 2114.123 ms 
+SPMTSPV: time = 2116.286 ms 
+SPMV time = 2116.314 ms 
+SPMTSPV: time = 2121.144 ms 
+SPMV time = 2121.196 ms 
+Apply time = 21.937 ms 
+Apply time = 231.078 ms 
+Apply time = 24.185 ms 
+Apply time = 194.096 ms 
+Apply time = 287.194 ms 
+Apply time = 244.064 ms 
+Apply time = 190.941 ms 
+Apply time = 17.128 ms 
+Apply time = 203.814 ms 
+Iteration 54 :: 2189.778000 msec :: updated 125214648 vertices :: changed 28 vertices 
+Iteration 54 :: 2180.722000 msec :: updated 125214648 vertices :: changed 28 vertices 
+Iteration 54 :: 2189.675000 msec :: updated 125214648 vertices :: changed 28 vertices 
+Iteration 54 :: 2189.859000 msec :: updated 125214648 vertices :: changed 28 vertices 
+Iteration 54 :: 2189.965000 msec :: updated 125214648 vertices :: changed 28 vertices 
+Iteration 54 :: 2189.738000 msec :: updated 125214648 vertices :: changed 28 vertices 
+Iteration 54 :: 2189.931000 msec :: updated 125214648 vertices :: changed 28 vertices 
+Iteration 54 :: 2189.822000 msec :: updated 125214648 vertices :: changed 28 vertices 
+Iteration 54 :: 2189.733000 msec :: updated 125214648 vertices :: changed 28 vertices 
+x.length = 133633040 
+Send message time = 28.526 ms 
+x.length = 133633040 
+Send message time = 30.546 ms 
+x.length = 133633040 
+Send message time = 27.934 ms 
+x.length = 133633040 
+Send message time = 30.698 ms 
+x.length = 133633040 
+Send message time = 22.191 ms 
+x.length = 133633040 
+Send message time = 30.792 ms 
+x.length = 133633040 
+Send message time = 27.610 ms 
+x.length = 133633040 
+Send message time = 30.951 ms 
+x.length = 133633040 
+Send message time = 31.034 ms 
+SPMTSPV: time = 1870.670 ms 
+SPMV time = 1870.720 ms 
+SPMTSPV: time = 1895.434 ms 
+SPMV time = 1895.565 ms 
+SPMTSPV: time = 1909.596 ms 
+SPMV time = 1909.629 ms 
+SPMTSPV: time = 1912.616 ms 
+SPMV time = 1912.741 ms 
+SPMTSPV: time = 1924.074 ms 
+SPMV time = 1924.114 ms 
+SPMTSPV: time = 1927.321 ms 
+SPMV time = 1927.367 ms 
+SPMTSPV: time = 2099.406 ms 
+SPMV time = 2099.444 ms 
+SPMTSPV: time = 2102.808 ms 
+SPMV time = 2102.974 ms 
+SPMTSPV: time = 2105.052 ms 
+SPMV time = 2105.089 ms 
+Apply time = 21.647 ms 
+Apply time = 215.064 ms 
+Apply time = 200.519 ms 
+Apply time = 197.339 ms 
+Apply time = 19.623 ms 
+Apply time = 25.166 ms 
+Apply time = 229.146 ms 
+Apply time = 253.998 ms 
+Apply time = 211.918 ms 
+Iteration 55 :: 2153.508000 msec :: updated 125214648 vertices :: changed 6 vertices 
+Iteration 55 :: 2152.286000 msec :: updated 125214648 vertices :: changed 6 vertices 
+Iteration 55 :: 2155.279000 msec :: updated 125214648 vertices :: changed 6 vertices 
+Iteration 55 :: 2146.935000 msec :: updated 125214648 vertices :: changed 6 vertices 
+Iteration 55 :: 2155.553000 msec :: updated 125214648 vertices :: changed 6 vertices 
+Iteration 55 :: 2152.687000 msec :: updated 125214648 vertices :: changed 6 vertices 
+Iteration 55 :: 2155.751000 msec :: updated 125214648 vertices :: changed 6 vertices 
+Iteration 55 :: 2155.471000 msec :: updated 125214648 vertices :: changed 6 vertices 
+Iteration 55 :: 2155.599000 msec :: updated 125214648 vertices :: changed 6 vertices 
+x.length = 133633040 
+Send message time = 43.600 ms 
+x.length = 133633040 
+Send message time = 43.100 ms 
+x.length = 133633040 
+Send message time = 52.653 ms 
+x.length = 133633040 
+Send message time = 47.604 ms 
+x.length = 133633040 
+Send message time = 42.981 ms 
+x.length = 133633040 
+Send message time = 52.759 ms 
+x.length = 133633040 
+Send message time = 52.770 ms 
+x.length = 133633040 
+Send message time = 52.599 ms 
+x.length = 133633040 
+Send message time = 52.852 ms 
+SPMTSPV: time = 1861.554 ms 
+SPMV time = 1861.598 ms 
+SPMTSPV: time = 1894.432 ms 
+SPMV time = 1894.539 ms 
+SPMTSPV: time = 1902.087 ms 
+SPMV time = 1902.193 ms 
+SPMTSPV: time = 1902.186 ms 
+SPMV time = 1902.302 ms 
+SPMTSPV: time = 1906.988 ms 
+SPMV time = 1907.111 ms 
+SPMTSPV: time = 1915.074 ms 
+SPMV time = 1915.193 ms 
+SPMTSPV: time = 2180.627 ms 
+SPMV time = 2180.660 ms 
+SPMTSPV: time = 2185.563 ms 
+SPMV time = 2185.601 ms 
+SPMTSPV: time = 2186.041 ms 
+SPMV time = 2186.148 ms 
+Apply time = 21.651 ms 
+Apply time = 292.081 ms 
+Apply time = 21.124 ms 
+Apply time = 345.643 ms 
+Apply time = 300.165 ms 
+Apply time = 305.093 ms 
+Apply time = 305.000 ms 
+Apply time = 26.657 ms 
+Apply time = 312.655 ms 
+Iteration 56 :: 2250.912000 msec :: updated 125214648 vertices :: changed 0 vertices 
+Iteration 56 :: 2250.427000 msec :: updated 125214648 vertices :: changed 0 vertices 
+Iteration 56 :: 2250.330000 msec :: updated 125214648 vertices :: changed 0 vertices 
+Iteration 56 :: 2260.119000 msec :: updated 125214648 vertices :: changed 0 vertices 
+Iteration 56 :: 2259.908000 msec :: updated 125214648 vertices :: changed 0 vertices 
+Iteration 56 :: 2254.975000 msec :: updated 125214648 vertices :: changed 0 vertices 
+Iteration 56 :: 2259.984000 msec :: updated 125214648 vertices :: changed 0 vertices 
+Iteration 56 :: 2260.125000 msec :: updated 125214648 vertices :: changed 0 vertices 
+Iteration 56 :: 2260.114000 msec :: updated 125214648 vertices :: changed 0 vertices 
+GraphMat clear time = 0.000000 msec 
+Completed 57 iterations 
+PR Time = 126374.539 ms 
+GraphMat clear time = 0.000000 msec 
+GraphMat clear time = 0.000000 msec 
+Completed 57 iterations 
+PR Time = 126376.994 ms 
+GraphMat clear time = 0.001000 msec 
+Completed 57 iterations 
+PR Time = 126372.701 ms 
+Completed 57 iterations 
+PR Time = 126363.207 ms 
+GraphMat clear time = 0.000000 msec 
+Completed 57 iterations 
+PR Time = 126373.733 ms 
+GraphMat clear time = 0.000000 msec 
+Completed 57 iterations 
+PR Time = 126375.179 ms 
+GraphMat clear time = 0.000000 msec 
+Completed 57 iterations 
+PR Time = 126378.403 ms 
+GraphMat clear time = 0.000000 msec 
+Completed 57 iterations 
+PR Time = 126380.752 ms 
+GraphMat clear time = 0.000000 msec 
+Completed 57 iterations 
+PR Time = 126377.239 ms 
+1 : 0 0.539445
+2 : 1 1.435667
+3 : 1 1.435667
+4 : 12 0.633655
+5 : 12 0.633655
+6 : 12 0.633655
+7 : 12 0.633655
+8 : 12 0.633655
+9 : 12 0.633655
+10 : 12 0.633655
+11 : 12 0.633655
+12 : 23 1.406115
+13 : 23 1.235351
+14 : 13 1.207908
+15 : 25 1.175007
+16 : 15 0.332900
+17 : 23 1.235351
+18 : 23 1.235351
+19 : 23 1.235351
+20 : 23 1.235351
+21 : 23 1.235351
+22 : 23 1.235351
+23 : 23 1.235351
+24 : 23 1.157154
+25 : 24 0.341849
