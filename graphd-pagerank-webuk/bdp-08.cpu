@@ -1,0 +1,626 @@
+Linux 4.4.0-31-generic (bdp-08) 	03/12/2017 	_x86_64_	(24 CPU)
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.79    0.00    1.73    0.31    0.00   94.17
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          32.10    0.00    1.66    3.43    0.00   62.81
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          59.57    0.00    3.50   17.38    0.00   19.55
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           7.67    0.00    1.08   48.84    0.00   42.41
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          10.37    0.00    1.24   44.92    0.00   43.47
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          32.01    0.00    3.21    1.98    0.00   62.80
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          10.45    0.00    3.15    8.84    0.00   77.56
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          14.55    0.00    4.35    5.67    0.00   75.43
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.88    0.00    6.28    6.40    0.00   80.44
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.99    0.00    7.23    0.90    0.00   87.88
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.06    0.00    7.33    0.27    0.00   89.34
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.02    0.00    7.57    1.19    0.00   88.23
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.83    0.00    7.86    3.56    0.00   84.76
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.35    0.00    9.41    1.74    0.00   85.50
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.35    0.00    9.74    1.68    0.00   86.23
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.15    0.00    9.94    0.88    0.00   87.04
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.17    0.00    9.64    0.83    0.00   87.36
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.24    0.00    9.80    0.43    0.00   87.54
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.33    0.00    9.60    0.85    0.00   87.22
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.32    0.00    9.64    0.38    0.00   87.66
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.08    0.00   10.24    1.39    0.00   86.29
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.22    0.00   10.18    0.29    0.00   87.32
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.22    0.00   10.01    0.03    0.00   87.74
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.16    0.00    9.31    0.02    0.00   88.52
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.21    0.00    9.49    0.07    0.00   88.23
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.33    0.00   10.03    0.16    0.00   87.48
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.17    0.00   10.54    0.38    0.00   86.91
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.45    0.00   10.11    0.09    0.00   87.35
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.28    0.00    9.74    0.15    0.00   87.82
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.23    0.00   10.45    0.16    0.00   87.16
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.38    0.00   10.42    0.06    0.00   87.13
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.23    0.00   10.36    0.09    0.00   87.33
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.29    0.00    9.79    0.63    0.00   87.29
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.07    0.00    9.35    0.46    0.00   88.12
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.16    0.00    9.34    1.29    0.00   87.21
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.17    0.00    9.59    0.09    0.00   88.15
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.97    0.00    9.25    0.10    0.00   88.67
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.03    0.00   10.00    0.08    0.00   87.90
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.09    0.00   10.17    0.05    0.00   87.69
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.05    0.00    9.67    0.42    0.00   87.86
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.15    0.00    9.58    0.05    0.00   88.23
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.27    0.00    9.94    0.09    0.00   87.71
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.02    0.00    9.88    0.03    0.00   88.08
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.06    0.00   10.22    0.04    0.00   87.68
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.06    0.00    9.66    0.09    0.00   88.19
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.22    0.00    9.21    0.13    0.00   88.45
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.08    0.00   10.00    0.16    0.00   87.76
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.27    0.00   10.35    0.04    0.00   87.34
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.24    0.00   10.64    0.25    0.00   86.87
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.03    0.00    9.29    0.21    0.00   88.47
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.93    0.00    8.96    0.05    0.00   89.06
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.06    0.00    8.64    0.28    0.00   89.02
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.14    0.00    8.99    0.16    0.00   88.71
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.08    0.00    9.07    0.10    0.00   88.74
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.14    0.00    9.51    0.90    0.00   87.45
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.13    0.00    9.50    0.30    0.00   88.08
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.17    0.00    9.42    0.06    0.00   88.36
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.28    0.00    9.73    0.25    0.00   87.74
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.10    0.00    9.77    0.10    0.00   88.02
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.24    0.00    9.81    0.38    0.00   87.57
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.52    0.00    9.56    2.38    0.00   83.53
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.71    0.00    8.30   14.30    0.00   72.70
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           6.05    0.00   10.70   11.15    0.00   72.10
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.06    0.00   11.29    0.33    0.00   84.33
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           7.25    0.00   12.19    0.03    0.00   80.52
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           5.11    0.00   13.13    0.19    0.00   81.57
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.48    0.00   14.13    0.38    0.00   81.01
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.19    0.00   14.36    0.82    0.00   80.63
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.80    0.00   16.63    5.74    0.00   73.83
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.24    0.00   15.80    2.13    0.00   79.83
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.14    0.00   18.00    0.98    0.00   78.88
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.21    0.00   18.46    0.89    0.00   78.44
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.41    0.00   16.39    1.11    0.00   80.08
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.94    0.00   17.14    0.17    0.00   80.75
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.21    0.00   17.36    0.51    0.00   79.92
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.97    0.00   16.95    0.26    0.00   80.82
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.22    0.00   18.35    0.14    0.00   79.29
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.07    0.00   18.42    0.05    0.00   79.46
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.21    0.00   17.58    0.30    0.00   79.91
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.09    0.00   18.77    0.04    0.00   79.10
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.09    0.00   16.84    0.17    0.00   80.90
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.16    0.00   17.76    0.05    0.00   80.03
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.21    0.00   16.95    0.03    0.00   80.82
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.02    0.00   18.09    0.22    0.00   79.67
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.03    0.00   18.22    0.88    0.00   78.87
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.24    0.00   18.06    0.09    0.00   79.62
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.22    0.00   18.64    0.06    0.00   79.08
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.14    0.00   17.83    0.03    0.00   79.99
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.48    0.00   17.58    0.31    0.00   79.63
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           5.08    0.00   17.20    1.71    0.00   76.01
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           4.44    0.00   19.27    0.18    0.00   76.12
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.15    0.00   18.60    0.03    0.00   79.23
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.13    0.00   20.63    0.04    0.00   77.19
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.00    0.00   19.14    0.00    0.00   78.86
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.95    0.00   21.75    0.43    0.00   75.87
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.79    0.00   20.40    1.25    0.00   76.55
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.08    0.00   20.75    1.24    0.00   75.93
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.04    0.00   21.41    0.00    0.00   76.55
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.04    0.00   20.49    0.04    0.00   77.43
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.87    0.00   20.61    0.00    0.00   77.52
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.33    0.00   20.92    0.03    0.00   76.72
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.16    0.00   19.79    0.09    0.00   77.96
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.90    0.00   20.72    0.14    0.00   77.25
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.84    0.00   19.58    0.84    0.00   77.74
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.96    0.00   21.04    0.02    0.00   76.98
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.75    0.00   20.13    0.01    0.00   78.11
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.92    0.00   20.21    0.01    0.00   77.87
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.85    0.00   18.80    0.74    0.00   77.60
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          31.17    0.00   16.58    8.13    0.00   44.13
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.17    0.00    0.35   35.20    0.00   64.29
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.18    0.00    0.35   36.96    0.00   62.50
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.51    0.00    1.44   30.18    0.00   67.87
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.99    0.00    3.56   23.01    0.00   72.43
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          12.96    0.00   61.70    2.62    0.00   22.72
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          52.75    0.00   42.07    0.43    0.00    4.74
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          76.45    0.00   20.49    0.95    0.00    2.11
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          52.06    0.00   43.15    0.12    0.00    4.68
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          49.15    0.00   28.75    0.02    0.00   22.09
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          72.10    0.00   25.96    0.26    0.00    1.68
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          63.11    0.00   28.81    2.99    0.00    5.09
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          48.71    0.00   42.80    0.66    0.00    7.83
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          53.38    0.00   33.49    1.97    0.00   11.16
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          60.92    0.00   37.94    0.03    0.00    1.11
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          63.48    0.00   30.98    0.71    0.00    4.83
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          45.72    0.00   40.79    0.12    0.00   13.37
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          51.60    0.00   26.88    0.03    0.00   21.50
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          76.88    0.00   20.29    0.29    0.00    2.54
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          55.71    0.00   40.53    0.03    0.00    3.73
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          34.70    0.00   33.47    0.08    0.00   31.75
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          56.14    0.00   34.82    0.05    0.00    8.99
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          71.50    0.00   25.04    0.33    0.00    3.13
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          57.52    0.00   38.67    0.08    0.00    3.74
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          37.22    0.00   32.02    3.73    0.00   27.04
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          66.19    0.00   29.54    0.62    0.00    3.66
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          72.06    0.00   23.38    1.65    0.00    2.91
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          53.00    0.00   42.41    0.04    0.00    4.55
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          41.45    0.00   25.28    0.07    0.00   33.20
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          55.68    0.00   44.28    0.03    0.00    0.01
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          64.96    0.00   33.27    0.41    0.00    1.37
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          52.89    0.00   39.94    0.49    0.00    6.67
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          31.13    0.00   29.15    1.64    0.00   38.08
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          67.07    0.00   28.56    1.30    0.00    3.07
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          73.04    0.00   22.26    1.27    0.00    3.44
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          51.69    0.00   43.27    0.48    0.00    4.56
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          44.90    0.00   27.11    0.17    0.00   27.82
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          71.08    0.00   24.65    0.28    0.00    3.99
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          62.71    0.00   29.55    1.59    0.00    6.16
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          48.83    0.00   41.80    0.29    0.00    9.08
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          48.59    0.00   31.18    0.12    0.00   20.11
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          61.95    0.00   37.16    0.03    0.00    0.87
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          65.22    0.00   30.82    0.37    0.00    3.59
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          47.18    0.00   43.17    0.76    0.00    8.89
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          47.58    0.00   25.48    3.43    0.00   23.50
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          74.45    0.00   19.63    1.80    0.00    4.13
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          57.72    0.00   38.42    0.05    0.00    3.82
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          34.99    0.00   34.70    0.11    0.00   30.20
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          58.49    0.00   21.84    0.23    0.00   19.43
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          74.63    0.00   20.96    0.30    0.00    4.12
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          51.85    0.00   40.17    2.46    0.00    5.52
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          41.48    0.00   30.11    1.00    0.00   27.41
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          61.65    0.00   36.42    1.34    0.00    0.58
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          72.56    0.00   24.49    0.35    0.00    2.60
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          54.03    0.00   40.92    0.10    0.00    4.95
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          36.63    0.00   22.09    0.07    0.00   41.21
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          54.19    0.00   45.78    0.03    0.00    0.00
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          55.25    0.00   44.70    0.05    0.00    0.00
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          36.40    0.00   61.37    0.60    0.00    1.63
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          17.63    0.00   74.28    2.64    0.00    5.45
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          17.27    0.00   74.70    2.31    0.00    5.72
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          17.21    0.00   74.72    1.83    0.00    6.23
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          17.33    0.00   74.58    3.64    0.00    4.45
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          17.10    0.00   74.81    4.44    0.00    3.64
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          17.34    0.00   74.65    3.57    0.00    4.44
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          32.19    0.00   61.40    2.97    0.00    3.45
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          51.03    0.00   29.95    9.66    0.00    9.36
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          58.31    0.00   16.27   17.88    0.00    7.54
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          56.63    0.00   16.20   18.28    0.00    8.89
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          52.13    0.00   16.24   17.48    0.00   14.15
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          48.96    0.00   19.03   20.70    0.00   11.31
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          15.43    0.00   20.63   19.35    0.00   44.60
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.96    0.00   20.80    0.22    0.00   77.03
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.89    0.00   20.93    1.72    0.00   75.45
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.94    0.00   20.83    2.16    0.00   75.07
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          46.32    0.00   28.05    1.94    0.00   23.69
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          63.93    0.00   35.31    0.03    0.00    0.73
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          62.80    0.00   32.57    0.60    0.00    4.02
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          44.30    0.00   40.41    0.97    0.00   14.32
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          23.14    0.00   19.92    0.06    0.00   56.89
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          55.66    0.00   44.25    0.07    0.00    0.02
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          70.61    0.00   26.01    0.66    0.00    2.72
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          52.38    0.00   42.39    0.27    0.00    4.95
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          21.05    0.00   27.34    2.38    0.00   49.23
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          53.31    0.00   31.73    0.29    0.00   14.67
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          77.40    0.00   19.45    0.92    0.00    2.23
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          56.92    0.00   38.99    0.20    0.00    3.89
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          30.86    0.00   33.07    0.25    0.00   35.81
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          67.25    0.00   27.18    0.03    0.00    5.55
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          78.28    0.00   20.14    0.30    0.00    1.28
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          52.59    0.00   43.37    0.32    0.00    3.73
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          33.51    0.00   25.47    5.47    0.00   35.56
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          67.55    0.00   30.68    0.08    0.00    1.69
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          69.03    0.00   25.86    1.14    0.00    3.97
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          50.42    0.00   42.96    0.08    0.00    6.53
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          54.74    0.00   31.23    0.19    0.00   13.83
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          67.67    0.00   30.84    0.08    0.00    1.41
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          63.91    0.00   32.66    0.33    0.00    3.09
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          43.30    0.00   40.36    1.90    0.00   14.44
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          30.13    0.00   18.26    0.24    0.00   51.37
+

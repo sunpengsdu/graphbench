@@ -1,0 +1,46 @@
+GRAPHLAB_SUBNET_ID/GRAPHLAB_SUBNET_MASK environment variables not defined.
+Using default values
+Subnet ID: 0.0.0.0
+Subnet Mask: 0.0.0.0
+Will find first IPv4 non-loopback address matching the subnet
+--iterations set. Forcing Synchronous engine, and running for 20 iterations.
+Loading graph in format: tsv
+#vertices: 131572430 #edges:5475109924
+Updates: 2631448600
+Finished Running engine in 104.7 seconds.
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Total rank: 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
+Totalpr = 1.09825e+08
