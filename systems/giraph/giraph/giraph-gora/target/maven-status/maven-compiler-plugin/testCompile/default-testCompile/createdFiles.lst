@@ -1,0 +1,15 @@
+org/apache/giraph/io/gora/TestGoraVertexOutputFormat.class
+org/apache/giraph/io/gora/GoraTestEdgeInputFormat$GoraGEdgeEdgeReader.class
+org/apache/giraph/io/gora/TestGoraEdgeInputFormat$EmptyComputation.class
+org/apache/giraph/io/gora/TestGoraEdgeOutputFormat$EmptyComputation.class
+org/apache/giraph/io/gora/GoraTestEdgeInputFormat.class
+org/apache/giraph/io/gora/GoraTestVertexInputFormat.class
+org/apache/giraph/io/gora/GoraTestVertexInputFormat$GoraGVertexVertexReader.class
+org/apache/giraph/io/gora/GoraTestEdgeOutputFormat.class
+org/apache/giraph/io/gora/TestGoraVertexInputFormat.class
+org/apache/giraph/io/gora/GoraTestEdgeOutputFormat$GoraGEdgeEdgeWriter.class
+org/apache/giraph/io/gora/GoraTestVertexOutputFormat.class
+org/apache/giraph/io/gora/TestGoraEdgeOutputFormat.class
+org/apache/giraph/io/gora/GoraTestVertexOutputFormat$GoraGVertexVertexWriter.class
+org/apache/giraph/io/gora/TestGoraVertexInputFormat$EmptyComputation.class
+org/apache/giraph/io/gora/TestGoraEdgeInputFormat.class

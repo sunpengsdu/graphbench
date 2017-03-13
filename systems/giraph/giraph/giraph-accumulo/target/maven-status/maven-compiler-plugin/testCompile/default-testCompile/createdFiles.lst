@@ -1,0 +1,7 @@
+org/apache/giraph/io/accumulo/edgemarker/AccumuloEdgeInputFormat$AccumuloEdgeVertexReader.class
+org/apache/giraph/io/accumulo/edgemarker/AccumuloEdgeOutputFormat.class
+org/apache/giraph/io/accumulo/edgemarker/AccumuloEdgeInputFormat.class
+org/apache/giraph/io/accumulo/TestAccumuloVertexFormat.class
+org/apache/giraph/io/accumulo/TestAccumuloVertexFormat$EdgeNotification.class
+org/apache/giraph/io/accumulo/edgemarker/AccumuloEdgeOutputFormat$AccumuloEdgeVertexWriter.class
+org/apache/giraph/io/accumulo/edgemarker/AccumuloEdgeInputFormat$1.class

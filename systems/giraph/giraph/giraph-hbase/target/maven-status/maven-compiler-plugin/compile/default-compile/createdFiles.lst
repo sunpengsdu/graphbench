@@ -1,0 +1,4 @@
+org/apache/giraph/io/hbase/HBaseVertexOutputFormat$HBaseVertexWriter.class
+org/apache/giraph/io/hbase/HBaseVertexOutputFormat.class
+org/apache/giraph/io/hbase/HBaseVertexInputFormat$HBaseVertexReader.class
+org/apache/giraph/io/hbase/HBaseVertexInputFormat.class

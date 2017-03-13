@@ -1,0 +1,4 @@
+org/apache/giraph/io/accumulo/AccumuloVertexInputFormat$AccumuloVertexReader.class
+org/apache/giraph/io/accumulo/AccumuloVertexOutputFormat.class
+org/apache/giraph/io/accumulo/AccumuloVertexInputFormat.class
+org/apache/giraph/io/accumulo/AccumuloVertexOutputFormat$AccumuloVertexWriter.class

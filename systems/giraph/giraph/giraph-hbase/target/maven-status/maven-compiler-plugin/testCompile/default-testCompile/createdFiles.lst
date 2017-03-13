@@ -1,0 +1,6 @@
+org/apache/giraph/io/hbase/edgemarker/TableEdgeOutputFormat$TableEdgeVertexWriter.class
+org/apache/giraph/io/hbase/TestHBaseRootMarkerVertextFormat.class
+org/apache/giraph/io/hbase/TestHBaseRootMarkerVertextFormat$EdgeNotification.class
+org/apache/giraph/io/hbase/edgemarker/TableEdgeInputFormat.class
+org/apache/giraph/io/hbase/edgemarker/TableEdgeInputFormat$TableEdgeVertexReader.class
+org/apache/giraph/io/hbase/edgemarker/TableEdgeOutputFormat.class

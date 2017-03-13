@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<project name="maven-antrun-" default="main"  >
+<target name="main">
+  <java classname="org.apache.giraph.conf.AllOptions">
+    <classpath>
+      <pathelement location="/opt/giraph/giraph-core/target/giraph-1.1.0-for-hadoop-1.2.1-jar-with-dependencies.jar"/>
+      <pathelement path="${maven.dependency.org.apache.hadoop.hadoop-common.jar.path}"/>
+      <pathelement path="${maven.dependency.org.apache.hadoop.hadoop-core.jar.path}"/>
+    </classpath>
+    <arg value="/opt/giraph/giraph-core/../src/site/xdoc/options.xml"/>
+  </java>
+</target>
+</project>

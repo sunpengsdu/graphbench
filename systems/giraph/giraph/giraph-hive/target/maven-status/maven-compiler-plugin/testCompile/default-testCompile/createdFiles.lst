@@ -1,0 +1,11 @@
+org/apache/giraph/hive/input/HiveEdgeInputTest.class
+org/apache/giraph/hive/input/CheckInputTest.class
+org/apache/giraph/hive/input/HiveVertexInputTest.class
+org/apache/giraph/hive/output/CheckOutputTest.class
+org/apache/giraph/hive/output/HiveOutputTest.class
+org/apache/giraph/hive/computations/ComputationCountEdges.class
+org/apache/giraph/hive/Helpers.class
+org/apache/giraph/hive/GiraphHiveTestBase.class
+org/apache/giraph/hive/computations/ComputationSumEdges.class
+org/apache/giraph/hive/jython/TestHiveJythonComplexTypes.class
+org/apache/giraph/hive/jython/TestHiveJythonPrimitives.class
