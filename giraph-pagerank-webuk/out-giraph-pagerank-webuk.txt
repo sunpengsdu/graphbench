@@ -1,80 +1,87 @@
-.max.attempts = 1, old value = 4)
-17/03/11 22:43:51 INFO job.GiraphJob: Tracking URL: http://bdp-10:50030/jobdetails.jsp?jobid=job_201703101931_0001
-17/03/11 22:43:51 INFO job.GiraphJob: Waiting for resources... Job will start only when it gets all 101 mappers
-17/03/11 22:44:24 INFO job.HaltApplicationUtils$DefaultHaltInstructionsWriter: writeHaltInstructions: To halt after next superstep execute: 'bin/halt-application --zkServer 192.168.1.21:2181 --zkNode /_hadoopBsp/job_201703101931_0001/_haltComputation'
-17/03/11 22:44:24 INFO mapred.JobClient: Running job: job_201703101931_0001
-17/03/11 22:44:25 INFO mapred.JobClient:  map 99% reduce 0%
-17/03/11 23:10:16 INFO mapred.JobClient:  map 100% reduce 0%
-17/03/11 23:10:21 INFO mapred.JobClient: Job complete: job_201703101931_0001
-17/03/11 23:10:21 INFO mapred.JobClient: Counters: 60
-17/03/11 23:10:21 INFO mapred.JobClient:   Map-Reduce Framework
-17/03/11 23:10:21 INFO mapred.JobClient:     Spilled Records=0
-17/03/11 23:10:21 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=1077509877760
-17/03/11 23:10:21 INFO mapred.JobClient:     Map input records=101
-17/03/11 23:10:21 INFO mapred.JobClient:     SPLIT_RAW_BYTES=4444
-17/03/11 23:10:21 INFO mapred.JobClient:     Map output records=0
-17/03/11 23:10:21 INFO mapred.JobClient:     Physical memory (bytes) snapshot=809675755520
-17/03/11 23:10:21 INFO mapred.JobClient:     CPU time spent (ms)=262838920
-17/03/11 23:10:21 INFO mapred.JobClient:     Total committed heap usage (bytes)=766761238528
-17/03/11 23:10:21 INFO mapred.JobClient:   Zookeeper halt node
-17/03/11 23:10:21 INFO mapred.JobClient:     /_hadoopBsp/job_201703101931_0001/_haltComputation=0
-17/03/11 23:10:21 INFO mapred.JobClient:   Zookeeper server:port
-17/03/11 23:10:21 INFO mapred.JobClient:     192.168.1.21:2181=0
-17/03/11 23:10:21 INFO mapred.JobClient:   Giraph Timers
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 4 SimplePageRankComputation (ms)=74391
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 8 SimplePageRankComputation (ms)=73231
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 12 SimplePageRankComputation (ms)=72378
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 16 SimplePageRankComputation (ms)=74723
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 0 SimplePageRankComputation (ms)=49589
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 5 SimplePageRankComputation (ms)=74096
-17/03/11 23:10:21 INFO mapred.JobClient:     Initialize (ms)=6382
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 9 SimplePageRankComputation (ms)=72457
-17/03/11 23:10:21 INFO mapred.JobClient:     Input superstep (ms)=100591
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 13 SimplePageRankComputation (ms)=75252
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 1 SimplePageRankComputation (ms)=74681
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 17 SimplePageRankComputation (ms)=73188
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 6 SimplePageRankComputation (ms)=74635
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 10 SimplePageRankComputation (ms)=73836
-17/03/11 23:10:21 INFO mapred.JobClient:     Shutdown (ms)=17642
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 14 SimplePageRankComputation (ms)=72153
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 2 SimplePageRankComputation (ms)=75049
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 18 SimplePageRankComputation (ms)=76354
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 3 SimplePageRankComputation (ms)=72480
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 11 SimplePageRankComputation (ms)=74174
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 7 SimplePageRankComputation (ms)=72572
-17/03/11 23:10:21 INFO mapred.JobClient:     Setup (ms)=127
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 15 SimplePageRankComputation (ms)=73303
-17/03/11 23:10:21 INFO mapred.JobClient:     Total (ms)=1570579
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep 19 SimplePageRankComputation (ms)=73669
-17/03/11 23:10:21 INFO mapred.JobClient:   File Input Format Counters 
-17/03/11 23:10:21 INFO mapred.JobClient:     Bytes Read=0
-17/03/11 23:10:21 INFO mapred.JobClient:   Zookeeper base path
-17/03/11 23:10:21 INFO mapred.JobClient:     /_hadoopBsp/job_201703101931_0001=0
-17/03/11 23:10:21 INFO mapred.JobClient:   Giraph Stats
-17/03/11 23:10:21 INFO mapred.JobClient:     Aggregate bytes stored to local disks (out-of-core)=0
-17/03/11 23:10:21 INFO mapred.JobClient:     Aggregate finished vertices=0
-17/03/11 23:10:21 INFO mapred.JobClient:     Aggregate edges=5507679822
-17/03/11 23:10:21 INFO mapred.JobClient:     Current master task partition=0
-17/03/11 23:10:21 INFO mapred.JobClient:     Superstep=20
-17/03/11 23:10:21 INFO mapred.JobClient:     Aggregate sent message bytes=1765626486871
-17/03/11 23:10:21 INFO mapred.JobClient:     Aggregate vertices=131814559
-17/03/11 23:10:21 INFO mapred.JobClient:     Aggregate bytes loaded from local disks (out-of-core)=0
-17/03/11 23:10:21 INFO mapred.JobClient:     Sent messages=5507679822
-17/03/11 23:10:21 INFO mapred.JobClient:     Sent message bytes=88281324290
-17/03/11 23:10:21 INFO mapred.JobClient:     Current workers=100
-17/03/11 23:10:21 INFO mapred.JobClient:     Last checkpointed superstep=0
-17/03/11 23:10:21 INFO mapred.JobClient:     Aggregate sent messages=110153596440
-17/03/11 23:10:21 INFO mapred.JobClient:     Lowest percentage of graph in memory so far (out-of-core)=100
-17/03/11 23:10:21 INFO mapred.JobClient:   FileSystemCounters
-17/03/11 23:10:21 INFO mapred.JobClient:     HDFS_BYTES_READ=74725054968
-17/03/11 23:10:21 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=6172505
-17/03/11 23:10:21 INFO mapred.JobClient:     HDFS_BYTES_WRITTEN=4056500592
-17/03/11 23:10:21 INFO mapred.JobClient:   Job Counters 
-17/03/11 23:10:21 INFO mapred.JobClient:     Launched map tasks=101
-17/03/11 23:10:21 INFO mapred.JobClient:     SLOTS_MILLIS_REDUCES=0
-17/03/11 23:10:21 INFO mapred.JobClient:     Total time spent by all reduces waiting after reserving slots (ms)=0
-17/03/11 23:10:21 INFO mapred.JobClient:     SLOTS_MILLIS_MAPS=158592570
-17/03/11 23:10:21 INFO mapred.JobClient:     Total time spent by all maps waiting after reserving slots (ms)=0
-17/03/11 23:10:21 INFO mapred.JobClient:   File Output Format Counters 
-17/03/11 23:10:21 INFO mapred.JobClient:     Bytes Written=0
+17/03/28 10:29:44 INFO mapred.JobClient: Running job: job_201703271802_0001
+17/03/28 10:29:45 INFO mapred.JobClient:  map 99% reduce 0%
+17/03/28 11:11:23 INFO mapred.JobClient:  map 100% reduce 0%
+17/03/28 11:11:25 INFO mapred.JobClient: Job complete: job_201703271802_0001
+17/03/28 11:11:25 INFO mapred.JobClient: Counters: 71
+17/03/28 11:11:25 INFO mapred.JobClient:   Map-Reduce Framework
+17/03/28 11:11:25 INFO mapred.JobClient:     Spilled Records=0
+17/03/28 11:11:25 INFO mapred.JobClient:     Virtual memory (bytes) snapshot=1078012780544
+17/03/28 11:11:25 INFO mapred.JobClient:     Map input records=101
+17/03/28 11:11:25 INFO mapred.JobClient:     SPLIT_RAW_BYTES=4444
+17/03/28 11:11:25 INFO mapred.JobClient:     Map output records=0
+17/03/28 11:11:25 INFO mapred.JobClient:     Physical memory (bytes) snapshot=821941506048
+17/03/28 11:11:25 INFO mapred.JobClient:     CPU time spent (ms)=444295140
+17/03/28 11:11:25 INFO mapred.JobClient:     Total committed heap usage (bytes)=744725938176
+17/03/28 11:11:25 INFO mapred.JobClient:   Zookeeper halt node
+17/03/28 11:11:25 INFO mapred.JobClient:     /_hadoopBsp/job_201703271802_0001/_haltComputation=0
+17/03/28 11:11:25 INFO mapred.JobClient:   Zookeeper server:port
+17/03/28 11:11:25 INFO mapred.JobClient:     192.168.1.21:2181=0
+17/03/28 11:11:25 INFO mapred.JobClient:   Giraph Timers
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 4 SimplePageRankComputation (ms)=78007
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 24 SimplePageRankComputation (ms)=77142
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 8 SimplePageRankComputation (ms)=80524
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 28 SimplePageRankComputation (ms)=77284
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 20 SimplePageRankComputation (ms)=77844
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 12 SimplePageRankComputation (ms)=77426
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 16 SimplePageRankComputation (ms)=77315
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 0 SimplePageRankComputation (ms)=57654
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 25 SimplePageRankComputation (ms)=77767
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 30 SimplePageRankComputation (ms)=23100
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 5 SimplePageRankComputation (ms)=79762
+17/03/28 11:11:25 INFO mapred.JobClient:     Initialize (ms)=10869
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 9 SimplePageRankComputation (ms)=76853
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 29 SimplePageRankComputation (ms)=76103
+17/03/28 11:11:25 INFO mapred.JobClient:     Input superstep (ms)=101956
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 13 SimplePageRankComputation (ms)=77717
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 1 SimplePageRankComputation (ms)=93090
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 21 SimplePageRankComputation (ms)=76413
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 17 SimplePageRankComputation (ms)=77889
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 26 SimplePageRankComputation (ms)=77965
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 6 SimplePageRankComputation (ms)=80806
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 10 SimplePageRankComputation (ms)=78809
+17/03/28 11:11:25 INFO mapred.JobClient:     Shutdown (ms)=28701
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 14 SimplePageRankComputation (ms)=77599
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 22 SimplePageRankComputation (ms)=78483
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 2 SimplePageRankComputation (ms)=85801
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 18 SimplePageRankComputation (ms)=78016
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 3 SimplePageRankComputation (ms)=81569
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 23 SimplePageRankComputation (ms)=77711
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 11 SimplePageRankComputation (ms)=78497
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 7 SimplePageRankComputation (ms)=78850
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 27 SimplePageRankComputation (ms)=76967
+17/03/28 11:11:25 INFO mapred.JobClient:     Setup (ms)=153
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 15 SimplePageRankComputation (ms)=78924
+17/03/28 11:11:25 INFO mapred.JobClient:     Total (ms)=2500030
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep 19 SimplePageRankComputation (ms)=77322
+17/03/28 11:11:25 INFO mapred.JobClient:   File Input Format Counters 
+17/03/28 11:11:25 INFO mapred.JobClient:     Bytes Read=0
+17/03/28 11:11:25 INFO mapred.JobClient:   Zookeeper base path
+17/03/28 11:11:25 INFO mapred.JobClient:     /_hadoopBsp/job_201703271802_0001=0
+17/03/28 11:11:25 INFO mapred.JobClient:   Giraph Stats
+17/03/28 11:11:25 INFO mapred.JobClient:     Aggregate bytes stored to local disks (out-of-core)=0
+17/03/28 11:11:25 INFO mapred.JobClient:     Aggregate finished vertices=131814559
+17/03/28 11:11:25 INFO mapred.JobClient:     Aggregate edges=5507679822
+17/03/28 11:11:25 INFO mapred.JobClient:     Current master task partition=0
+17/03/28 11:11:25 INFO mapred.JobClient:     Superstep=31
+17/03/28 11:11:25 INFO mapred.JobClient:     Aggregate sent message bytes=2648439725865
+17/03/28 11:11:25 INFO mapred.JobClient:     Aggregate vertices=131814559
+17/03/28 11:11:25 INFO mapred.JobClient:     Aggregate bytes loaded from local disks (out-of-core)=0
+17/03/28 11:11:25 INFO mapred.JobClient:     Sent messages=0
+17/03/28 11:11:25 INFO mapred.JobClient:     Sent message bytes=0
+17/03/28 11:11:25 INFO mapred.JobClient:     Current workers=100
+17/03/28 11:11:25 INFO mapred.JobClient:     Last checkpointed superstep=0
+17/03/28 11:11:25 INFO mapred.JobClient:     Aggregate sent messages=165230394660
+17/03/28 11:11:25 INFO mapred.JobClient:     Lowest percentage of graph in memory so far (out-of-core)=100
+17/03/28 11:11:25 INFO mapred.JobClient:   FileSystemCounters
+17/03/28 11:11:25 INFO mapred.JobClient:     HDFS_BYTES_READ=74725054968
+17/03/28 11:11:25 INFO mapred.JobClient:     FILE_BYTES_WRITTEN=6172606
+17/03/28 11:11:25 INFO mapred.JobClient:     HDFS_BYTES_WRITTEN=4056112278
+17/03/28 11:11:25 INFO mapred.JobClient:   Job Counters 
+17/03/28 11:11:25 INFO mapred.JobClient:     Launched map tasks=101
+17/03/28 11:11:25 INFO mapred.JobClient:     SLOTS_MILLIS_REDUCES=0
+17/03/28 11:11:25 INFO mapred.JobClient:     Total time spent by all reduces waiting after reserving slots (ms)=0
+17/03/28 11:11:25 INFO mapred.JobClient:     SLOTS_MILLIS_MAPS=252358598
+17/03/28 11:11:25 INFO mapred.JobClient:     Total time spent by all maps waiting after reserving slots (ms)=0
+17/03/28 11:11:25 INFO mapred.JobClient:   File Output Format Counters 
+17/03/28 11:11:25 INFO mapred.JobClient:     Bytes Written=0
 
