@@ -1,125 +1,608 @@
-HDFS Load Time : 8.922407 seconds
+HDFS Load Time : 7.600919 seconds
 - Sender done (for step 0)
 - Recver done (for step 0)
-Comper_Wait Time : 554.785103 seconds
---- --- Recver_Inter-Barrier Time (step = 0) : 563.723942 seconds
-Computation Time : 7.202203 seconds
+Comper_Wait Time : 568.268159 seconds
+--- --- Recver_Inter-Barrier Time (step = 0) : 575.913516 seconds
+Computation Time : 7.652462 seconds
 - Sender done (for step 1)
 - Recver done (for step 1)
-Comper_Wait Time : 9.462044 seconds
-*** *** *** *** *** *** Superstep 1 Total Time : 16.664305 seconds
---- --- Recver_Inter-Barrier Time (step = 1) : 19.213871 seconds
-Computation Time : 8.805231 seconds
+Comper_Wait Time : 8.943031 seconds
+*** *** *** *** *** *** Superstep 1 Total Time : 16.595673 seconds
+--- --- Recver_Inter-Barrier Time (step = 1) : 19.083408 seconds
+Computation Time : 7.318838 seconds
 - Sender done (for step 2)
 - Recver done (for step 2)
-Comper_Wait Time : 9.519138 seconds
-*** *** *** *** *** *** Superstep 2 Total Time : 18.324533 seconds
---- --- Recver_Inter-Barrier Time (step = 2) : 22.266849 seconds
-Computation Time : 11.223815 seconds
+Comper_Wait Time : 12.009498 seconds
+*** *** *** *** *** *** Superstep 2 Total Time : 19.337570 seconds
+--- --- Recver_Inter-Barrier Time (step = 2) : 22.304611 seconds
+Computation Time : 9.814352 seconds
 - Sender done (for step 3)
 - Recver done (for step 3)
-Comper_Wait Time : 8.042666 seconds
-*** *** *** *** *** *** Superstep 3 Total Time : 19.266532 seconds
---- --- Recver_Inter-Barrier Time (step = 3) : 16.089913 seconds
-Computation Time : 9.652290 seconds
+Comper_Wait Time : 9.427691 seconds
+*** *** *** *** *** *** Superstep 3 Total Time : 19.242085 seconds
+--- --- Recver_Inter-Barrier Time (step = 3) : 17.697571 seconds
+Computation Time : 9.744260 seconds
 - Sender done (for step 4)
 - Recver done (for step 4)
-Comper_Wait Time : 9.122105 seconds
-*** *** *** *** *** *** Superstep 4 Total Time : 18.774480 seconds
---- --- Recver_Inter-Barrier Time (step = 4) : 21.451704 seconds
-Computation Time : 10.193767 seconds
+Comper_Wait Time : 10.156958 seconds
+*** *** *** *** *** *** Superstep 4 Total Time : 19.901265 seconds
+--- --- Recver_Inter-Barrier Time (step = 4) : 17.538979 seconds
+Computation Time : 8.467862 seconds
 - Sender done (for step 5)
 - Recver done (for step 5)
-Comper_Wait Time : 9.153135 seconds
-*** *** *** *** *** *** Superstep 5 Total Time : 19.346955 seconds
---- --- Recver_Inter-Barrier Time (step = 5) : 17.364498 seconds
-Computation Time : 9.616790 seconds
+Comper_Wait Time : 8.760989 seconds
+*** *** *** *** *** *** Superstep 5 Total Time : 17.228934 seconds
+--- --- Recver_Inter-Barrier Time (step = 5) : 18.656613 seconds
+Computation Time : 9.228802 seconds
 - Sender done (for step 6)
 - Recver done (for step 6)
-Comper_Wait Time : 9.438183 seconds
-*** *** *** *** *** *** Superstep 6 Total Time : 19.055047 seconds
---- --- Recver_Inter-Barrier Time (step = 6) : 24.319442 seconds
-Computation Time : 12.119674 seconds
+Comper_Wait Time : 8.861786 seconds
+*** *** *** *** *** *** Superstep 6 Total Time : 18.090707 seconds
+--- --- Recver_Inter-Barrier Time (step = 6) : 21.710155 seconds
+Computation Time : 10.115800 seconds
 - Sender done (for step 7)
 - Recver done (for step 7)
-Comper_Wait Time : 7.906863 seconds
-*** *** *** *** *** *** Superstep 7 Total Time : 20.026702 seconds
---- --- Recver_Inter-Barrier Time (step = 7) : 15.722253 seconds
-Computation Time : 11.845779 seconds
+Comper_Wait Time : 10.206791 seconds
+*** *** *** *** *** *** Superstep 7 Total Time : 20.322768 seconds
+--- --- Recver_Inter-Barrier Time (step = 7) : 24.133836 seconds
+Computation Time : 11.981803 seconds
 - Sender done (for step 8)
 - Recver done (for step 8)
-Comper_Wait Time : 8.109440 seconds
-*** *** *** *** *** *** Superstep 8 Total Time : 19.955366 seconds
---- --- Recver_Inter-Barrier Time (step = 8) : 17.403354 seconds
-Computation Time : 8.919769 seconds
+Comper_Wait Time : 10.339824 seconds
+*** *** *** *** *** *** Superstep 8 Total Time : 22.321825 seconds
+--- --- Recver_Inter-Barrier Time (step = 8) : 20.151713 seconds
+Computation Time : 11.270543 seconds
 - Sender done (for step 9)
 - Recver done (for step 9)
-Comper_Wait Time : 8.614126 seconds
-*** *** *** *** *** *** Superstep 9 Total Time : 17.534090 seconds
---- --- Recver_Inter-Barrier Time (step = 9) : 22.763852 seconds
-Computation Time : 11.431417 seconds
+Comper_Wait Time : 9.881701 seconds
+*** *** *** *** *** *** Superstep 9 Total Time : 21.152429 seconds
+--- --- Recver_Inter-Barrier Time (step = 9) : 19.344140 seconds
+Computation Time : 10.526094 seconds
 - Sender done (for step 10)
 - Recver done (for step 10)
-Comper_Wait Time : 9.130466 seconds
-*** *** *** *** *** *** Superstep 10 Total Time : 20.562055 seconds
---- --- Recver_Inter-Barrier Time (step = 10) : 15.973667 seconds
-Computation Time : 9.037938 seconds
+Comper_Wait Time : 10.406959 seconds
+*** *** *** *** *** *** Superstep 10 Total Time : 20.933165 seconds
+--- --- Recver_Inter-Barrier Time (step = 10) : 18.531787 seconds
+Computation Time : 10.464421 seconds
 - Sender done (for step 11)
 - Recver done (for step 11)
-Comper_Wait Time : 9.321552 seconds
-*** *** *** *** *** *** Superstep 11 Total Time : 18.359626 seconds
---- --- Recver_Inter-Barrier Time (step = 11) : 18.784394 seconds
-Computation Time : 8.991083 seconds
-- Sender done (for step 12)
+Comper_Wait Time : 7.728803 seconds
+*** *** *** *** *** *** Superstep 11 Total Time : 18.193260 seconds
+--- --- Recver_Inter-Barrier Time (step = 11) : 19.600008 seconds
+Computation Time : 13.248413 seconds
 - Recver done (for step 12)
-Comper_Wait Time : 10.064667 seconds
-*** *** *** *** *** *** Superstep 12 Total Time : 19.055920 seconds
---- --- Recver_Inter-Barrier Time (step = 12) : 20.565067 seconds
-Computation Time : 10.916814 seconds
+Comper_Wait Time : 6.132829 seconds
+*** *** *** *** *** *** Superstep 12 Total Time : 19.381404 seconds
+- Sender done (for step 12)
+--- --- Recver_Inter-Barrier Time (step = 12) : 21.411817 seconds
+Computation Time : 11.666824 seconds
 - Sender done (for step 13)
 - Recver done (for step 13)
-Comper_Wait Time : 7.523742 seconds
-*** *** *** *** *** *** Superstep 13 Total Time : 18.453532 seconds
---- --- Recver_Inter-Barrier Time (step = 13) : 61.664890 seconds
-Computation Time : 92.976972 seconds
+Comper_Wait Time : 9.500763 seconds
+*** *** *** *** *** *** Superstep 13 Total Time : 21.167745 seconds
+--- --- Recver_Inter-Barrier Time (step = 13) : 16.951857 seconds
+Computation Time : 9.842770 seconds
 - Sender done (for step 14)
 - Recver done (for step 14)
-Comper_Wait Time : 6.492682 seconds
-*** *** *** *** *** *** Superstep 14 Total Time : 99.469695 seconds
---- --- Recver_Inter-Barrier Time (step = 14) : 57.461705 seconds
-Computation Time : 10.246038 seconds
-- Recver done (for step 15)
-Comper_Wait Time : 6.616361 seconds
-*** *** *** *** *** *** Superstep 15 Total Time : 16.862558 seconds
+Comper_Wait Time : 9.451598 seconds
+*** *** *** *** *** *** Superstep 14 Total Time : 19.294415 seconds
+--- --- Recver_Inter-Barrier Time (step = 14) : 18.875854 seconds
+Computation Time : 8.913216 seconds
 - Sender done (for step 15)
---- --- Recver_Inter-Barrier Time (step = 15) : 22.883946 seconds
-Computation Time : 14.755932 seconds
+- Recver done (for step 15)
+Comper_Wait Time : 9.214715 seconds
+*** *** *** *** *** *** Superstep 15 Total Time : 18.127969 seconds
+--- --- Recver_Inter-Barrier Time (step = 15) : 17.347809 seconds
+Computation Time : 9.352808 seconds
 - Sender done (for step 16)
 - Recver done (for step 16)
-Comper_Wait Time : 8.094249 seconds
-*** *** *** *** *** *** Superstep 16 Total Time : 22.850332 seconds
---- --- Recver_Inter-Barrier Time (step = 16) : 19.047934 seconds
-Computation Time : 11.028929 seconds
+Comper_Wait Time : 8.678557 seconds
+*** *** *** *** *** *** Superstep 16 Total Time : 18.031544 seconds
+--- --- Recver_Inter-Barrier Time (step = 16) : 23.003836 seconds
+Computation Time : 9.499240 seconds
 - Sender done (for step 17)
 - Recver done (for step 17)
-Comper_Wait Time : 10.465153 seconds
-*** *** *** *** *** *** Superstep 17 Total Time : 21.494136 seconds
---- --- Recver_Inter-Barrier Time (step = 17) : 18.360055 seconds
-Computation Time : 10.253948 seconds
+Comper_Wait Time : 10.975092 seconds
+*** *** *** *** *** *** Superstep 17 Total Time : 20.474467 seconds
+--- --- Recver_Inter-Barrier Time (step = 17) : 18.463847 seconds
+Computation Time : 9.831130 seconds
 - Sender done (for step 18)
 - Recver done (for step 18)
-Comper_Wait Time : 7.917541 seconds
-*** *** *** *** *** *** Superstep 18 Total Time : 18.171677 seconds
---- --- Recver_Inter-Barrier Time (step = 18) : 19.062129 seconds
-Computation Time : 11.127764 seconds
+Comper_Wait Time : 10.050776 seconds
+*** *** *** *** *** *** Superstep 18 Total Time : 19.882059 seconds
+--- --- Recver_Inter-Barrier Time (step = 18) : 20.667570 seconds
+Computation Time : 9.850395 seconds
 - Sender done (for step 19)
 - Recver done (for step 19)
-Comper_Wait Time : 7.585963 seconds
-*** *** *** *** *** *** Superstep 19 Total Time : 18.713806 seconds
---- --- Recver_Inter-Barrier Time (step = 19) : 19.766019 seconds
-Computation Time : 11.253889 seconds
+Comper_Wait Time : 10.245362 seconds
+*** *** *** *** *** *** Superstep 19 Total Time : 20.095931 seconds
+--- --- Recver_Inter-Barrier Time (step = 19) : 20.156432 seconds
+Computation Time : 10.888809 seconds
 - Sender done (for step 20)
 - Recver done (for step 20)
-Comper_Wait Time : 8.043329 seconds
-*** *** *** *** *** *** Superstep 20 Total Time : 19.297322 seconds
+Comper_Wait Time : 31.020132 seconds
+*** *** *** *** *** *** Superstep 20 Total Time : 41.909085 seconds
+Computation Time : 30.273759 seconds
+--- --- Recver_Inter-Barrier Time (step = 20) : 106.155191 seconds
+- Sender done (for step 21)
+- Recver done (for step 21)
+Comper_Wait Time : 99.653521 seconds
+*** *** *** *** *** *** Superstep 21 Total Time : 129.927388 seconds
+--- --- Recver_Inter-Barrier Time (step = 21) : 61.653482 seconds
+Computation Time : 9.406655 seconds
+- Recver done (for step 22)
+Comper_Wait Time : 4.481642 seconds
+*** *** *** *** *** *** Superstep 22 Total Time : 13.888461 seconds
+- Sender done (for step 22)
+Computation Time : 15.611184 seconds
+--- --- Recver_Inter-Barrier Time (step = 22) : 34.599282 seconds
+- Sender done (for step 23)
+- Recver done (for step 23)
+Comper_Wait Time : 17.596916 seconds
+*** *** *** *** *** *** Superstep 23 Total Time : 33.208255 seconds
+--- --- Recver_Inter-Barrier Time (step = 23) : 15.519369 seconds
+Computation Time : 9.942054 seconds
+- Sender done (for step 24)
+- Recver done (for step 24)
+Comper_Wait Time : 9.303610 seconds
+*** *** *** *** *** *** Superstep 24 Total Time : 19.245877 seconds
+--- --- Recver_Inter-Barrier Time (step = 24) : 21.844104 seconds
+Computation Time : 10.502267 seconds
+- Sender done (for step 25)
+- Recver done (for step 25)
+Comper_Wait Time : 10.508472 seconds
+*** *** *** *** *** *** Superstep 25 Total Time : 21.010941 seconds
+--- --- Recver_Inter-Barrier Time (step = 25) : 17.907893 seconds
+Computation Time : 9.843910 seconds
+- Sender done (for step 26)
+- Recver done (for step 26)
+Comper_Wait Time : 9.935164 seconds
+*** *** *** *** *** *** Superstep 26 Total Time : 19.779242 seconds
+--- --- Recver_Inter-Barrier Time (step = 26) : 21.860226 seconds
+Computation Time : 10.563375 seconds
+- Sender done (for step 27)
+- Recver done (for step 27)
+Comper_Wait Time : 8.999142 seconds
+*** *** *** *** *** *** Superstep 27 Total Time : 19.562677 seconds
+--- --- Recver_Inter-Barrier Time (step = 27) : 19.530559 seconds
+Computation Time : 10.784772 seconds
+- Sender done (for step 28)
+- Recver done (for step 28)
+Comper_Wait Time : 10.022518 seconds
+*** *** *** *** *** *** Superstep 28 Total Time : 20.807434 seconds
+--- --- Recver_Inter-Barrier Time (step = 28) : 17.368753 seconds
+Computation Time : 9.026464 seconds
+- Sender done (for step 29)
+- Recver done (for step 29)
+Comper_Wait Time : 9.727621 seconds
+*** *** *** *** *** *** Superstep 29 Total Time : 18.754291 seconds
+--- --- Recver_Inter-Barrier Time (step = 29) : 18.595898 seconds
+Computation Time : 8.037959 seconds
+- Sender done (for step 30)
+- Recver done (for step 30)
+Comper_Wait Time : 10.249908 seconds
+*** *** *** *** *** *** Superstep 30 Total Time : 18.288069 seconds
+--- --- Recver_Inter-Barrier Time (step = 30) : 21.851972 seconds
+Computation Time : 10.984475 seconds
+- Sender done (for step 31)
+- Recver done (for step 31)
+Comper_Wait Time : 9.178099 seconds
+*** *** *** *** *** *** Superstep 31 Total Time : 20.162630 seconds
+--- --- Recver_Inter-Barrier Time (step = 31) : 20.927803 seconds
+Computation Time : 9.953841 seconds
+- Sender done (for step 32)
+- Recver done (for step 32)
+Comper_Wait Time : 11.032109 seconds
+*** *** *** *** *** *** Superstep 32 Total Time : 20.986102 seconds
+--- --- Recver_Inter-Barrier Time (step = 32) : 20.118927 seconds
+Computation Time : 10.373137 seconds
+- Sender done (for step 33)
+- Recver done (for step 33)
+Comper_Wait Time : 13.002859 seconds
+*** *** *** *** *** *** Superstep 33 Total Time : 23.376141 seconds
+--- --- Recver_Inter-Barrier Time (step = 33) : 22.085329 seconds
+Computation Time : 9.512843 seconds
+- Sender done (for step 34)
+- Recver done (for step 34)
+Comper_Wait Time : 13.460035 seconds
+*** *** *** *** *** *** Superstep 34 Total Time : 22.973142 seconds
+--- --- Recver_Inter-Barrier Time (step = 34) : 21.611505 seconds
+Computation Time : 9.643935 seconds
+- Sender done (for step 35)
+- Recver done (for step 35)
+Comper_Wait Time : 6.788876 seconds
+*** *** *** *** *** *** Superstep 35 Total Time : 16.432850 seconds
+--- --- Recver_Inter-Barrier Time (step = 35) : 22.753787 seconds
+Computation Time : 11.922943 seconds
+- Sender done (for step 36)
+- Recver done (for step 36)
+Comper_Wait Time : 11.802501 seconds
+*** *** *** *** *** *** Superstep 36 Total Time : 23.725522 seconds
+--- --- Recver_Inter-Barrier Time (step = 36) : 26.018064 seconds
+Computation Time : 12.801359 seconds
+- Sender done (for step 37)
+- Recver done (for step 37)
+Comper_Wait Time : 12.423712 seconds
+*** *** *** *** *** *** Superstep 37 Total Time : 25.225218 seconds
+--- --- Recver_Inter-Barrier Time (step = 37) : 17.323928 seconds
+Computation Time : 9.568112 seconds
+- Sender done (for step 38)
+- Recver done (for step 38)
+Comper_Wait Time : 10.946203 seconds
+*** *** *** *** *** *** Superstep 38 Total Time : 20.514484 seconds
+--- --- Recver_Inter-Barrier Time (step = 38) : 21.950651 seconds
+Computation Time : 10.071182 seconds
+- Sender done (for step 39)
+- Recver done (for step 39)
+Comper_Wait Time : 11.108367 seconds
+*** *** *** *** *** *** Superstep 39 Total Time : 21.179591 seconds
+--- --- Recver_Inter-Barrier Time (step = 39) : 22.064146 seconds
+Computation Time : 10.487946 seconds
+- Sender done (for step 40)
+- Recver done (for step 40)
+Comper_Wait Time : 13.244394 seconds
+*** *** *** *** *** *** Superstep 40 Total Time : 23.732497 seconds
+--- --- Recver_Inter-Barrier Time (step = 40) : 22.071921 seconds
+Computation Time : 8.701487 seconds
+- Sender done (for step 41)
+- Recver done (for step 41)
+Comper_Wait Time : 9.766788 seconds
+*** *** *** *** *** *** Superstep 41 Total Time : 18.468422 seconds
+--- --- Recver_Inter-Barrier Time (step = 41) : 23.326903 seconds
+Computation Time : 11.940008 seconds
+- Sender done (for step 42)
+- Recver done (for step 42)
+Comper_Wait Time : 12.403970 seconds
+*** *** *** *** *** *** Superstep 42 Total Time : 24.344024 seconds
+--- --- Recver_Inter-Barrier Time (step = 42) : 25.029083 seconds
+Computation Time : 11.738458 seconds
+- Sender done (for step 43)
+- Recver done (for step 43)
+Comper_Wait Time : 13.737502 seconds
+*** *** *** *** *** *** Superstep 43 Total Time : 25.476008 seconds
+--- --- Recver_Inter-Barrier Time (step = 43) : 21.362546 seconds
+Computation Time : 10.673023 seconds
+- Sender done (for step 44)
+- Recver done (for step 44)
+Comper_Wait Time : 11.868165 seconds
+*** *** *** *** *** *** Superstep 44 Total Time : 22.541369 seconds
+--- --- Recver_Inter-Barrier Time (step = 44) : 19.757299 seconds
+Computation Time : 8.854710 seconds
+- Sender done (for step 45)
+- Recver done (for step 45)
+Comper_Wait Time : 9.219232 seconds
+*** *** *** *** *** *** Superstep 45 Total Time : 18.074089 seconds
+--- --- Recver_Inter-Barrier Time (step = 45) : 26.356651 seconds
+Computation Time : 13.038788 seconds
+- Sender done (for step 46)
+- Recver done (for step 46)
+Comper_Wait Time : 13.068570 seconds
+*** *** *** *** *** *** Superstep 46 Total Time : 26.107492 seconds
+Computation Time : 12.499473 seconds
+--- --- Recver_Inter-Barrier Time (step = 46) : 26.738410 seconds
+- Sender done (for step 47)
+- Recver done (for step 47)
+Comper_Wait Time : 14.319890 seconds
+*** *** *** *** *** *** Superstep 47 Total Time : 26.819412 seconds
+--- --- Recver_Inter-Barrier Time (step = 47) : 18.639864 seconds
+Computation Time : 9.326564 seconds
+- Sender done (for step 48)
+- Recver done (for step 48)
+Comper_Wait Time : 11.875813 seconds
+*** *** *** *** *** *** Superstep 48 Total Time : 21.202507 seconds
+--- --- Recver_Inter-Barrier Time (step = 48) : 20.628559 seconds
+Computation Time : 9.526071 seconds
+- Sender done (for step 49)
+- Recver done (for step 49)
+Comper_Wait Time : 8.754749 seconds
+*** *** *** *** *** *** Superstep 49 Total Time : 18.280972 seconds
+--- --- Recver_Inter-Barrier Time (step = 49) : 21.922279 seconds
+Computation Time : 11.324802 seconds
+- Sender done (for step 50)
+- Recver done (for step 50)
+Comper_Wait Time : 11.086610 seconds
+*** *** *** *** *** *** Superstep 50 Total Time : 22.411548 seconds
+--- --- Recver_Inter-Barrier Time (step = 50) : 18.597606 seconds
+Computation Time : 10.029727 seconds
+- Sender done (for step 51)
+- Recver done (for step 51)
+Comper_Wait Time : 9.524713 seconds
+*** *** *** *** *** *** Superstep 51 Total Time : 19.554579 seconds
+--- --- Recver_Inter-Barrier Time (step = 51) : 17.362136 seconds
+Computation Time : 7.193733 seconds
+- Sender done (for step 52)
+- Recver done (for step 52)
+Comper_Wait Time : 11.428332 seconds
+*** *** *** *** *** *** Superstep 52 Total Time : 18.622261 seconds
+--- --- Recver_Inter-Barrier Time (step = 52) : 18.097509 seconds
+Computation Time : 7.570582 seconds
+- Sender done (for step 53)
+- Recver done (for step 53)
+Comper_Wait Time : 9.985261 seconds
+*** *** *** *** *** *** Superstep 53 Total Time : 17.556000 seconds
+--- --- Recver_Inter-Barrier Time (step = 53) : 19.311818 seconds
+Computation Time : 8.943293 seconds
+- Sender done (for step 54)
+- Recver done (for step 54)
+Comper_Wait Time : 9.930524 seconds
+*** *** *** *** *** *** Superstep 54 Total Time : 18.873961 seconds
+--- --- Recver_Inter-Barrier Time (step = 54) : 18.570141 seconds
+Computation Time : 7.347891 seconds
+- Sender done (for step 55)
+- Recver done (for step 55)
+Comper_Wait Time : 10.983248 seconds
+*** *** *** *** *** *** Superstep 55 Total Time : 18.331207 seconds
+--- --- Recver_Inter-Barrier Time (step = 55) : 22.308143 seconds
+Computation Time : 10.091285 seconds
+- Sender done (for step 56)
+- Recver done (for step 56)
+Comper_Wait Time : 10.662648 seconds
+*** *** *** *** *** *** Superstep 56 Total Time : 20.753980 seconds
+--- --- Recver_Inter-Barrier Time (step = 56) : 16.553683 seconds
+Computation Time : 9.387258 seconds
+- Sender done (for step 57)
+- Recver done (for step 57)
+Comper_Wait Time : 11.856073 seconds
+*** *** *** *** *** *** Superstep 57 Total Time : 21.243379 seconds
+--- --- Recver_Inter-Barrier Time (step = 57) : 21.307537 seconds
+Computation Time : 8.811176 seconds
+- Sender done (for step 58)
+- Recver done (for step 58)
+Comper_Wait Time : 8.355433 seconds
+*** *** *** *** *** *** Superstep 58 Total Time : 17.166755 seconds
+--- --- Recver_Inter-Barrier Time (step = 58) : 18.483421 seconds
+Computation Time : 8.531756 seconds
+- Sender done (for step 59)
+- Recver done (for step 59)
+Comper_Wait Time : 21.105527 seconds
+*** *** *** *** *** *** Superstep 59 Total Time : 29.637440 seconds
+--- --- Recver_Inter-Barrier Time (step = 59) : 44.916568 seconds
+Computation Time : 34.284578 seconds
+- Sender done (for step 60)
+- Recver done (for step 60)
+Comper_Wait Time : 9.764234 seconds
+*** *** *** *** *** *** Superstep 60 Total Time : 44.048865 seconds
+--- --- Recver_Inter-Barrier Time (step = 60) : 25.349460 seconds
+Computation Time : 9.210740 seconds
+- Sender done (for step 61)
+- Recver done (for step 61)
+Comper_Wait Time : 8.078422 seconds
+*** *** *** *** *** *** Superstep 61 Total Time : 17.289213 seconds
+--- --- Recver_Inter-Barrier Time (step = 61) : 18.196109 seconds
+Computation Time : 7.647351 seconds
+- Sender done (for step 62)
+- Recver done (for step 62)
+Comper_Wait Time : 10.643934 seconds
+*** *** *** *** *** *** Superstep 62 Total Time : 18.291325 seconds
+--- --- Recver_Inter-Barrier Time (step = 62) : 19.199973 seconds
+Computation Time : 9.282254 seconds
+- Sender done (for step 63)
+- Recver done (for step 63)
+Comper_Wait Time : 8.541022 seconds
+*** *** *** *** *** *** Superstep 63 Total Time : 17.823424 seconds
+--- --- Recver_Inter-Barrier Time (step = 63) : 17.673857 seconds
+Computation Time : 8.052519 seconds
+- Sender done (for step 64)
+- Recver done (for step 64)
+Comper_Wait Time : 13.102038 seconds
+*** *** *** *** *** *** Superstep 64 Total Time : 21.154710 seconds
+--- --- Recver_Inter-Barrier Time (step = 64) : 23.786131 seconds
+Computation Time : 8.570010 seconds
+- Sender done (for step 65)
+- Recver done (for step 65)
+Comper_Wait Time : 10.223946 seconds
+*** *** *** *** *** *** Superstep 65 Total Time : 18.794094 seconds
+--- --- Recver_Inter-Barrier Time (step = 65) : 16.043757 seconds
+Computation Time : 8.208109 seconds
+- Sender done (for step 66)
+- Recver done (for step 66)
+Comper_Wait Time : 10.091628 seconds
+*** *** *** *** *** *** Superstep 66 Total Time : 18.321673 seconds
+--- --- Recver_Inter-Barrier Time (step = 66) : 19.213318 seconds
+Computation Time : 8.640519 seconds
+- Sender done (for step 67)
+- Recver done (for step 67)
+Comper_Wait Time : 9.245650 seconds
+*** *** *** *** *** *** Superstep 67 Total Time : 17.886598 seconds
+--- --- Recver_Inter-Barrier Time (step = 67) : 20.222145 seconds
+Computation Time : 9.425303 seconds
+- Sender done (for step 68)
+- Recver done (for step 68)
+Comper_Wait Time : 11.371372 seconds
+*** *** *** *** *** *** Superstep 68 Total Time : 20.796873 seconds
+--- --- Recver_Inter-Barrier Time (step = 68) : 17.312302 seconds
+Computation Time : 9.196705 seconds
+- Sender done (for step 69)
+- Recver done (for step 69)
+Comper_Wait Time : 8.160609 seconds
+*** *** *** *** *** *** Superstep 69 Total Time : 17.357403 seconds
+--- --- Recver_Inter-Barrier Time (step = 69) : 17.355297 seconds
+Computation Time : 9.263243 seconds
+- Sender done (for step 70)
+- Recver done (for step 70)
+Comper_Wait Time : 8.595990 seconds
+*** *** *** *** *** *** Superstep 70 Total Time : 17.859419 seconds
+--- --- Recver_Inter-Barrier Time (step = 70) : 18.237298 seconds
+Computation Time : 9.999827 seconds
+- Sender done (for step 71)
+- Recver done (for step 71)
+Comper_Wait Time : 8.080008 seconds
+*** *** *** *** *** *** Superstep 71 Total Time : 18.079985 seconds
+--- --- Recver_Inter-Barrier Time (step = 71) : 18.512528 seconds
+Computation Time : 8.883778 seconds
+- Sender done (for step 72)
+- Recver done (for step 72)
+Comper_Wait Time : 11.828157 seconds
+*** *** *** *** *** *** Superstep 72 Total Time : 20.712080 seconds
+--- --- Recver_Inter-Barrier Time (step = 72) : 18.570427 seconds
+Computation Time : 8.593942 seconds
+- Sender done (for step 73)
+- Recver done (for step 73)
+Comper_Wait Time : 7.276845 seconds
+*** *** *** *** *** *** Superstep 73 Total Time : 15.870861 seconds
+--- --- Recver_Inter-Barrier Time (step = 73) : 21.595688 seconds
+Computation Time : 10.540623 seconds
+- Sender done (for step 74)
+- Recver done (for step 74)
+Comper_Wait Time : 9.285922 seconds
+*** *** *** *** *** *** Superstep 74 Total Time : 19.826590 seconds
+--- --- Recver_Inter-Barrier Time (step = 74) : 15.823828 seconds
+Computation Time : 8.833795 seconds
+- Sender done (for step 75)
+- Recver done (for step 75)
+Comper_Wait Time : 9.130404 seconds
+*** *** *** *** *** *** Superstep 75 Total Time : 17.964344 seconds
+--- --- Recver_Inter-Barrier Time (step = 75) : 25.842816 seconds
+Computation Time : 12.117804 seconds
+- Sender done (for step 76)
+- Recver done (for step 76)
+Comper_Wait Time : 11.584420 seconds
+*** *** *** *** *** *** Superstep 76 Total Time : 23.702362 seconds
+--- --- Recver_Inter-Barrier Time (step = 76) : 18.990081 seconds
+Computation Time : 10.233939 seconds
+- Sender done (for step 77)
+- Recver done (for step 77)
+Comper_Wait Time : 8.254263 seconds
+*** *** *** *** *** *** Superstep 77 Total Time : 18.488237 seconds
+--- --- Recver_Inter-Barrier Time (step = 77) : 23.935513 seconds
+Computation Time : 11.794872 seconds
+- Sender done (for step 78)
+- Recver done (for step 78)
+Comper_Wait Time : 11.664323 seconds
+*** *** *** *** *** *** Superstep 78 Total Time : 23.459236 seconds
+--- --- Recver_Inter-Barrier Time (step = 78) : 15.631094 seconds
+Computation Time : 9.535945 seconds
+- Sender done (for step 79)
+- Recver done (for step 79)
+Comper_Wait Time : 8.043510 seconds
+*** *** *** *** *** *** Superstep 79 Total Time : 17.579588 seconds
+--- --- Recver_Inter-Barrier Time (step = 79) : 17.675977 seconds
+Computation Time : 8.684333 seconds
+- Sender done (for step 80)
+- Recver done (for step 80)
+Comper_Wait Time : 10.388990 seconds
+*** *** *** *** *** *** Superstep 80 Total Time : 19.073468 seconds
+--- --- Recver_Inter-Barrier Time (step = 80) : 20.691847 seconds
+Computation Time : 9.038948 seconds
+- Sender done (for step 81)
+- Recver done (for step 81)
+Comper_Wait Time : 10.939351 seconds
+*** *** *** *** *** *** Superstep 81 Total Time : 19.978480 seconds
+--- --- Recver_Inter-Barrier Time (step = 81) : 19.704079 seconds
+Computation Time : 10.691028 seconds
+- Sender done (for step 82)
+- Recver done (for step 82)
+Comper_Wait Time : 8.311675 seconds
+*** *** *** *** *** *** Superstep 82 Total Time : 19.002853 seconds
+--- --- Recver_Inter-Barrier Time (step = 82) : 19.845062 seconds
+Computation Time : 9.849490 seconds
+- Sender done (for step 83)
+- Recver done (for step 83)
+Comper_Wait Time : 10.125149 seconds
+*** *** *** *** *** *** Superstep 83 Total Time : 19.974842 seconds
+--- --- Recver_Inter-Barrier Time (step = 83) : 22.212659 seconds
+Computation Time : 10.466654 seconds
+- Sender done (for step 84)
+- Recver done (for step 84)
+Comper_Wait Time : 10.154610 seconds
+*** *** *** *** *** *** Superstep 84 Total Time : 20.621422 seconds
+--- --- Recver_Inter-Barrier Time (step = 84) : 19.011735 seconds
+Computation Time : 11.729176 seconds
+- Sender done (for step 85)
+- Recver done (for step 85)
+Comper_Wait Time : 7.536709 seconds
+*** *** *** *** *** *** Superstep 85 Total Time : 19.266078 seconds
+--- --- Recver_Inter-Barrier Time (step = 85) : 17.263834 seconds
+Computation Time : 8.964904 seconds
+- Sender done (for step 86)
+- Recver done (for step 86)
+Comper_Wait Time : 10.568023 seconds
+*** *** *** *** *** *** Superstep 86 Total Time : 19.543072 seconds
+--- --- Recver_Inter-Barrier Time (step = 86) : 19.900119 seconds
+Computation Time : 9.796655 seconds
+- Sender done (for step 87)
+- Recver done (for step 87)
+Comper_Wait Time : 9.108324 seconds
+*** *** *** *** *** *** Superstep 87 Total Time : 18.905203 seconds
+--- --- Recver_Inter-Barrier Time (step = 87) : 18.487203 seconds
+Computation Time : 8.694705 seconds
+- Sender done (for step 88)
+- Recver done (for step 88)
+Comper_Wait Time : 9.997120 seconds
+*** *** *** *** *** *** Superstep 88 Total Time : 18.691981 seconds
+--- --- Recver_Inter-Barrier Time (step = 88) : 22.736325 seconds
+Computation Time : 11.682791 seconds
+- Sender done (for step 89)
+- Recver done (for step 89)
+Comper_Wait Time : 9.230233 seconds
+*** *** *** *** *** *** Superstep 89 Total Time : 20.913175 seconds
+--- --- Recver_Inter-Barrier Time (step = 89) : 16.432543 seconds
+Computation Time : 10.114239 seconds
+- Recver done (for step 90)
+Comper_Wait Time : 7.960381 seconds
+*** *** *** *** *** *** Superstep 90 Total Time : 18.074873 seconds
+- Sender done (for step 90)
+--- --- Recver_Inter-Barrier Time (step = 90) : 18.399904 seconds
+Computation Time : 8.958593 seconds
+- Sender done (for step 91)
+- Recver done (for step 91)
+Comper_Wait Time : 10.244728 seconds
+*** *** *** *** *** *** Superstep 91 Total Time : 19.203454 seconds
+--- --- Recver_Inter-Barrier Time (step = 91) : 18.703545 seconds
+Computation Time : 8.675011 seconds
+- Sender done (for step 92)
+- Recver done (for step 92)
+Comper_Wait Time : 9.916314 seconds
+*** *** *** *** *** *** Superstep 92 Total Time : 18.591523 seconds
+--- --- Recver_Inter-Barrier Time (step = 92) : 17.531372 seconds
+Computation Time : 9.791947 seconds
+- Sender done (for step 93)
+- Recver done (for step 93)
+Comper_Wait Time : 8.093925 seconds
+*** *** *** *** *** *** Superstep 93 Total Time : 17.886034 seconds
+--- --- Recver_Inter-Barrier Time (step = 93) : 21.348623 seconds
+Computation Time : 9.145998 seconds
+- Sender done (for step 94)
+- Recver done (for step 94)
+Comper_Wait Time : 11.543832 seconds
+*** *** *** *** *** *** Superstep 94 Total Time : 20.689876 seconds
+--- --- Recver_Inter-Barrier Time (step = 94) : 21.920100 seconds
+Computation Time : 10.439636 seconds
+- Sender done (for step 95)
+- Recver done (for step 95)
+Comper_Wait Time : 10.077133 seconds
+*** *** *** *** *** *** Superstep 95 Total Time : 20.516935 seconds
+--- --- Recver_Inter-Barrier Time (step = 95) : 16.031920 seconds
+Computation Time : 9.802359 seconds
+- Sender done (for step 96)
+- Recver done (for step 96)
+Comper_Wait Time : 9.555171 seconds
+*** *** *** *** *** *** Superstep 96 Total Time : 19.357600 seconds
+--- --- Recver_Inter-Barrier Time (step = 96) : 19.375457 seconds
+Computation Time : 8.596518 seconds
+- Sender done (for step 97)
+- Recver done (for step 97)
+Comper_Wait Time : 9.995651 seconds
+*** *** *** *** *** *** Superstep 97 Total Time : 18.592300 seconds
+--- --- Recver_Inter-Barrier Time (step = 97) : 23.791344 seconds
+Computation Time : 10.674685 seconds
+- Sender done (for step 98)
+- Recver done (for step 98)
+Comper_Wait Time : 12.199983 seconds
+*** *** *** *** *** *** Superstep 98 Total Time : 22.874809 seconds
+--- --- Recver_Inter-Barrier Time (step = 98) : 19.943291 seconds
+Computation Time : 10.764702 seconds
+- Sender done (for step 99)
+- Recver done (for step 99)
+Comper_Wait Time : 9.696629 seconds
+*** *** *** *** *** *** Superstep 99 Total Time : 20.461477 seconds
+Computation Time : 0.677823 seconds
+--- --- Recver_Inter-Barrier Time (step = 99) : 23.707849 seconds
+- Sender done (for step 100)
+- Recver done (for step 100)
+Comper_Wait Time : 7.221664 seconds
+*** *** *** *** *** *** Superstep 100 Total Time : 7.899542 seconds
+Computation Time : 0.002600 seconds
+--- --- Recver_Inter-Barrier Time (step = 100) : 0.364047 seconds
+HDFS Dump Time : 1.395911 seconds
 
