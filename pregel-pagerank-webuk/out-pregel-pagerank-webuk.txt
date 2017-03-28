@@ -1,81 +1,298 @@
-
-ad Time : 499.212251 seconds
-Superstep 1 done. Time elapsed: 10.0885 seconds
+Deleted hdfs://BDP-10:9000/pregel/out
+Load Time : 423.933238 seconds
+Superstep 1 done. Time elapsed: 12.085 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 2 done. Time elapsed: 9.6042 seconds
+Superstep 2 done. Time elapsed: 10.483 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 3 done. Time elapsed: 9.31113 seconds
+Superstep 3 done. Time elapsed: 10.3119 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 4 done. Time elapsed: 9.52176 seconds
+Superstep 4 done. Time elapsed: 9.91066 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 5 done. Time elapsed: 9.39236 seconds
+Superstep 5 done. Time elapsed: 10.1153 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 6 done. Time elapsed: 9.22279 seconds
+Superstep 6 done. Time elapsed: 10.0675 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 7 done. Time elapsed: 9.30794 seconds
+Superstep 7 done. Time elapsed: 9.83503 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 8 done. Time elapsed: 9.26629 seconds
+Superstep 8 done. Time elapsed: 10.2226 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 9 done. Time elapsed: 9.5229 seconds
+Superstep 9 done. Time elapsed: 9.86124 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 10 done. Time elapsed: 9.35994 seconds
+Superstep 10 done. Time elapsed: 10.224 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 11 done. Time elapsed: 9.32837 seconds
+Superstep 11 done. Time elapsed: 10.2346 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 12 done. Time elapsed: 9.2051 seconds
+Superstep 12 done. Time elapsed: 10.0227 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 13 done. Time elapsed: 9.18125 seconds
+Superstep 13 done. Time elapsed: 9.7432 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 14 done. Time elapsed: 9.0916 seconds
+Superstep 14 done. Time elapsed: 9.87265 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 15 done. Time elapsed: 9.15876 seconds
+Superstep 15 done. Time elapsed: 10.3406 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 16 done. Time elapsed: 9.10124 seconds
+Superstep 16 done. Time elapsed: 9.87402 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 17 done. Time elapsed: 8.87102 seconds
+Superstep 17 done. Time elapsed: 10.1583 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 18 done. Time elapsed: 9.03613 seconds
+Superstep 18 done. Time elapsed: 9.78375 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 19 done. Time elapsed: 8.94703 seconds
+Superstep 19 done. Time elapsed: 9.89436 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 20 done. Time elapsed: 8.72335 seconds
+Superstep 20 done. Time elapsed: 10.0373 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 21 done. Time elapsed: 8.85561 seconds
+Superstep 21 done. Time elapsed: 10.0465 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 22 done. Time elapsed: 8.76767 seconds
+Superstep 22 done. Time elapsed: 9.64493 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 23 done. Time elapsed: 8.97241 seconds
+Superstep 23 done. Time elapsed: 10.0174 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 24 done. Time elapsed: 8.93013 seconds
+Superstep 24 done. Time elapsed: 10.1382 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 25 done. Time elapsed: 8.67965 seconds
+Superstep 25 done. Time elapsed: 10.2578 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 26 done. Time elapsed: 8.75359 seconds
+Superstep 26 done. Time elapsed: 9.93381 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 27 done. Time elapsed: 8.94782 seconds
+Superstep 27 done. Time elapsed: 9.70633 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 28 done. Time elapsed: 8.77853 seconds
+Superstep 28 done. Time elapsed: 10.024 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 29 done. Time elapsed: 8.74074 seconds
+Superstep 29 done. Time elapsed: 9.92509 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 30 done. Time elapsed: 8.8778 seconds
+Superstep 30 done. Time elapsed: 9.99934 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 31 done. Time elapsed: 8.76463 seconds
+Superstep 31 done. Time elapsed: 9.79023 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 32 done. Time elapsed: 8.71616 seconds
+Superstep 32 done. Time elapsed: 10.057 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 33 done. Time elapsed: 8.7555 seconds
+Superstep 33 done. Time elapsed: 10.0457 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 34 done. Time elapsed: 8.82781 seconds
+Superstep 34 done. Time elapsed: 9.85586 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 35 done. Time elapsed: 8.7882 seconds
+Superstep 35 done. Time elapsed: 10.288 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 36 done. Time elapsed: 8.78422 seconds
+Superstep 36 done. Time elapsed: 9.86093 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 37 done. Time elapsed: 8.73335 seconds
+Superstep 37 done. Time elapsed: 9.95457 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 38 done. Time elapsed: 8.78512 seconds
+Superstep 38 done. Time elapsed: 10.0047 seconds
 #msgs: 1475657598, #vadd: 0
-Superstep 39 done. Time elapsed: 8.79102 seconds
+Superstep 39 done. Time elapsed: 9.73548 seconds
 #msgs: 1475657598, #vadd: 0
-
+Superstep 40 done. Time elapsed: 9.90884 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 41 done. Time elapsed: 9.91914 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 42 done. Time elapsed: 9.69362 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 43 done. Time elapsed: 9.64784 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 44 done. Time elapsed: 9.6987 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 45 done. Time elapsed: 9.65942 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 46 done. Time elapsed: 10.1167 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 47 done. Time elapsed: 10.193 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 48 done. Time elapsed: 9.89929 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 49 done. Time elapsed: 9.91354 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 50 done. Time elapsed: 10.0533 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 51 done. Time elapsed: 9.95868 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 52 done. Time elapsed: 9.87285 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 53 done. Time elapsed: 9.91502 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 54 done. Time elapsed: 9.86724 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 55 done. Time elapsed: 9.89511 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 56 done. Time elapsed: 10.0338 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 57 done. Time elapsed: 10.161 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 58 done. Time elapsed: 9.97689 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 59 done. Time elapsed: 9.63778 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 60 done. Time elapsed: 10.0653 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 61 done. Time elapsed: 9.8637 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 62 done. Time elapsed: 10.0713 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 63 done. Time elapsed: 9.62692 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 64 done. Time elapsed: 9.97957 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 65 done. Time elapsed: 9.91856 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 66 done. Time elapsed: 9.84511 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 67 done. Time elapsed: 9.93758 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 68 done. Time elapsed: 9.75685 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 69 done. Time elapsed: 9.59402 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 70 done. Time elapsed: 10.2809 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 71 done. Time elapsed: 9.66407 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 72 done. Time elapsed: 9.77467 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 73 done. Time elapsed: 10.0349 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 74 done. Time elapsed: 9.64861 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 75 done. Time elapsed: 10.1071 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 76 done. Time elapsed: 9.94083 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 77 done. Time elapsed: 9.83413 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 78 done. Time elapsed: 9.88114 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 79 done. Time elapsed: 10.0024 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 80 done. Time elapsed: 9.49478 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 81 done. Time elapsed: 9.77796 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 82 done. Time elapsed: 9.84291 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 83 done. Time elapsed: 9.90432 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 84 done. Time elapsed: 9.83911 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 85 done. Time elapsed: 9.84241 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 86 done. Time elapsed: 9.90258 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 87 done. Time elapsed: 10.0624 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 88 done. Time elapsed: 10.0063 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 89 done. Time elapsed: 9.87979 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 90 done. Time elapsed: 9.8487 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 91 done. Time elapsed: 9.89245 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 92 done. Time elapsed: 9.75835 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 93 done. Time elapsed: 10.2275 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 94 done. Time elapsed: 9.66114 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 95 done. Time elapsed: 10.025 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 96 done. Time elapsed: 9.7714 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 97 done. Time elapsed: 9.87987 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 98 done. Time elapsed: 9.90196 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 99 done. Time elapsed: 9.93402 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 100 done. Time elapsed: 9.68388 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 101 done. Time elapsed: 9.76974 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 102 done. Time elapsed: 9.88067 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 103 done. Time elapsed: 9.89388 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 104 done. Time elapsed: 10.0048 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 105 done. Time elapsed: 9.8817 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 106 done. Time elapsed: 9.94385 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 107 done. Time elapsed: 9.92451 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 108 done. Time elapsed: 10.0918 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 109 done. Time elapsed: 10.0065 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 110 done. Time elapsed: 9.86276 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 111 done. Time elapsed: 10.0251 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 112 done. Time elapsed: 9.92423 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 113 done. Time elapsed: 9.86397 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 114 done. Time elapsed: 9.58043 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 115 done. Time elapsed: 9.76995 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 116 done. Time elapsed: 9.56598 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 117 done. Time elapsed: 9.68336 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 118 done. Time elapsed: 9.78871 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 119 done. Time elapsed: 9.67416 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 120 done. Time elapsed: 9.75242 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 121 done. Time elapsed: 9.73756 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 122 done. Time elapsed: 9.72769 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 123 done. Time elapsed: 9.80405 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 124 done. Time elapsed: 9.73856 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 125 done. Time elapsed: 10.1078 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 126 done. Time elapsed: 9.72954 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 127 done. Time elapsed: 9.64113 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 128 done. Time elapsed: 9.75338 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 129 done. Time elapsed: 9.99803 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 130 done. Time elapsed: 9.90568 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 131 done. Time elapsed: 9.86701 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 132 done. Time elapsed: 9.87195 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 133 done. Time elapsed: 9.64039 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 134 done. Time elapsed: 9.86349 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 135 done. Time elapsed: 9.71809 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 136 done. Time elapsed: 9.67054 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 137 done. Time elapsed: 9.92442 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 138 done. Time elapsed: 9.70222 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 139 done. Time elapsed: 9.5726 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 140 done. Time elapsed: 9.7947 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 141 done. Time elapsed: 9.92572 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 142 done. Time elapsed: 9.7017 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 143 done. Time elapsed: 9.88634 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 144 done. Time elapsed: 9.79647 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 145 done. Time elapsed: 9.8684 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 146 done. Time elapsed: 10.0298 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 147 done. Time elapsed: 10.0337 seconds
+#msgs: 1475657598, #vadd: 0
+Superstep 148 done. Time elapsed: 10.0292 seconds
+#msgs: 1475657598, #vadd: 0
