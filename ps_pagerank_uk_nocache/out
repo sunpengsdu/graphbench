@@ -1,0 +1,159 @@
+I0329 11:22:48.234793  8818 Global.h:245] Processors: 9
+I0329 11:22:48.235013  8818 Global.h:247] Rank 0: bdp-10
+I0329 11:22:48.235030  8818 Global.h:247] Rank 1: bdp-01
+I0329 11:22:48.235040  8818 Global.h:247] Rank 2: bdp-02
+I0329 11:22:48.235050  8818 Global.h:247] Rank 3: bdp-03
+I0329 11:22:48.235059  8818 Global.h:247] Rank 4: bdp-04
+I0329 11:22:48.235074  8818 Global.h:247] Rank 5: bdp-05
+I0329 11:22:48.235082  8818 Global.h:247] Rank 6: bdp-06
+I0329 11:22:48.235096  8818 Global.h:247] Rank 7: bdp-08
+I0329 11:22:48.235106  8818 Global.h:247] Rank 8: bdp-09
+I0329 11:22:53.091614 28427 GraphPS.h:292] Rank 2  With Partitions From 68 To 102
+I0329 11:22:53.091794 28427 GraphPS.h:334] Rank 2 Loading Edge From HDFS
+I0329 11:22:52.657688 29669 GraphPS.h:292] Rank 5  With Partitions From 170 To 204
+I0329 11:22:52.657874 29669 GraphPS.h:334] Rank 5 Loading Edge From HDFS
+I0329 11:22:53.940733 28939 GraphPS.h:292] Rank 6  With Partitions From 204 To 238
+I0329 11:22:53.940915 28939 GraphPS.h:334] Rank 6 Loading Edge From HDFS
+I0329 11:22:52.697474 27445 GraphPS.h:292] Rank 1  With Partitions From 34 To 68
+I0329 11:22:52.697662 27445 GraphPS.h:334] Rank 1 Loading Edge From HDFS
+I0329 11:22:53.885452 28812 GraphPS.h:292] Rank 4  With Partitions From 136 To 170
+I0329 11:22:53.885642 28812 GraphPS.h:334] Rank 4 Loading Edge From HDFS
+I0329 11:22:54.478488 28941 GraphPS.h:292] Rank 7  With Partitions From 238 To 272
+I0329 11:22:54.478664 28941 GraphPS.h:334] Rank 7 Loading Edge From HDFS
+I0329 11:22:53.595685 29475 GraphPS.h:292] Rank 3  With Partitions From 102 To 136
+I0329 11:22:53.595875 29475 GraphPS.h:334] Rank 3 Loading Edge From HDFS
+I0329 11:22:48.596585 12887 GraphPS.h:292] Rank 8  With Partitions From 272 To 300
+I0329 11:22:48.596787 12887 GraphPS.h:334] Rank 8 Loading Edge From HDFS
+I0329 11:22:48.616658  8818 GraphPS.h:292] Rank 0  With Partitions From 0 To 34
+I0329 11:22:48.616750  8818 GraphPS.h:334] Rank 0 Loading Edge From HDFS
+I0329 11:23:48.750840 29475 GraphPS.h:351] Rank 3 Loading Vertex From HDFS
+I0329 11:23:47.039438  8818 GraphPS.h:351] Rank 0 Loading Vertex From HDFS
+I0329 11:23:52.787118 28939 GraphPS.h:351] Rank 6 Loading Vertex From HDFS
+I0329 11:23:53.891479 28941 GraphPS.h:351] Rank 7 Loading Vertex From HDFS
+I0329 11:23:52.132000 29669 GraphPS.h:351] Rank 5 Loading Vertex From HDFS
+I0329 11:23:48.806203 12887 GraphPS.h:351] Rank 8 Loading Vertex From HDFS
+I0329 11:23:54.819399 28812 GraphPS.h:351] Rank 4 Loading Vertex From HDFS
+I0329 11:23:55.245280 28427 GraphPS.h:351] Rank 2 Loading Vertex From HDFS
+I0329 11:24:01.708657 27445 GraphPS.h:351] Rank 1 Loading Vertex From HDFS
+I0329 11:24:13.084215  8818 GraphPS.h:365] HDFS  Load Time: 77843 ms
+I0329 11:24:14.617864 12887 GraphPS.h:414] Rank 8 use 22 comp threads
+I0329 11:24:14.630553  8818 GraphPS.h:413] Init Time: 86395 ms
+I0329 11:24:14.630611  8818 GraphPS.h:414] Rank 0 use 22 comp threads
+I0329 11:24:18.754513 27445 GraphPS.h:414] Rank 1 use 22 comp threads
+I0329 11:24:19.932212 28812 GraphPS.h:414] Rank 4 use 22 comp threads
+I0329 11:24:20.524133 28941 GraphPS.h:414] Rank 7 use 22 comp threads
+I0329 11:24:19.998791 28939 GraphPS.h:414] Rank 6 use 22 comp threads
+I0329 11:24:19.150919 28427 GraphPS.h:414] Rank 2 use 22 comp threads
+I0329 11:24:19.640945 29475 GraphPS.h:414] Rank 3 use 22 comp threads
+I0329 11:24:18.715526 29669 GraphPS.h:414] Rank 5 use 22 comp threads
+I0329 11:24:16.113093  8818 GraphPS.h:489] Iteration: 0, uses 1482 ms, Update 126454248, Ratio 0.94628, Skip 0
+I0329 11:24:17.757714  8818 GraphPS.h:489] Iteration: 1, uses 1644 ms, Update 125758336, Ratio 0.941072, Skip 0
+I0329 11:24:19.467000  8818 GraphPS.h:489] Iteration: 2, uses 1709 ms, Update 125612661, Ratio 0.939982, Skip 0
+I0329 11:24:21.117841  8818 GraphPS.h:489] Iteration: 3, uses 1650 ms, Update 125556867, Ratio 0.939565, Skip 0
+I0329 11:24:22.740279  8818 GraphPS.h:489] Iteration: 4, uses 1622 ms, Update 125526332, Ratio 0.939336, Skip 0
+I0329 11:24:24.500519  8818 GraphPS.h:489] Iteration: 5, uses 1760 ms, Update 125467721, Ratio 0.938897, Skip 0
+I0329 11:24:26.115238  8818 GraphPS.h:489] Iteration: 6, uses 1614 ms, Update 125373600, Ratio 0.938193, Skip 0
+I0329 11:24:27.826236  8818 GraphPS.h:489] Iteration: 7, uses 1710 ms, Update 125273522, Ratio 0.937444, Skip 0
+I0329 11:24:29.528460  8818 GraphPS.h:489] Iteration: 8, uses 1701 ms, Update 124993292, Ratio 0.935347, Skip 0
+I0329 11:24:31.155251  8818 GraphPS.h:489] Iteration: 9, uses 1626 ms, Update 124571958, Ratio 0.932194, Skip 0
+I0329 11:24:32.790863  8818 GraphPS.h:489] Iteration: 10, uses 1635 ms, Update 124092410, Ratio 0.928606, Skip 0
+I0329 11:24:34.399888  8818 GraphPS.h:489] Iteration: 11, uses 1608 ms, Update 123668194, Ratio 0.925431, Skip 0
+I0329 11:24:36.024080  8818 GraphPS.h:489] Iteration: 12, uses 1623 ms, Update 123294213, Ratio 0.922633, Skip 0
+I0329 11:24:37.717479  8818 GraphPS.h:489] Iteration: 13, uses 1693 ms, Update 122901259, Ratio 0.919692, Skip 0
+I0329 11:24:39.289216  8818 GraphPS.h:489] Iteration: 14, uses 1571 ms, Update 122621390, Ratio 0.917598, Skip 0
+I0329 11:24:40.897781  8818 GraphPS.h:489] Iteration: 15, uses 1608 ms, Update 122421108, Ratio 0.916099, Skip 0
+I0329 11:24:42.492404  8818 GraphPS.h:489] Iteration: 16, uses 1594 ms, Update 122252230, Ratio 0.914835, Skip 0
+I0329 11:24:44.190357  8818 GraphPS.h:489] Iteration: 17, uses 1697 ms, Update 122066351, Ratio 0.913444, Skip 0
+I0329 11:24:45.732731  8818 GraphPS.h:489] Iteration: 18, uses 1542 ms, Update 121944848, Ratio 0.912535, Skip 0
+I0329 11:24:47.381292  8818 GraphPS.h:489] Iteration: 19, uses 1648 ms, Update 121780825, Ratio 0.911308, Skip 0
+I0329 11:24:49.034863  8818 GraphPS.h:489] Iteration: 20, uses 1653 ms, Update 121625514, Ratio 0.910146, Skip 0
+I0329 11:24:50.600337  8818 GraphPS.h:489] Iteration: 21, uses 1565 ms, Update 121499681, Ratio 0.909204, Skip 0
+I0329 11:24:52.198173  8818 GraphPS.h:489] Iteration: 22, uses 1597 ms, Update 121390228, Ratio 0.908385, Skip 0
+I0329 11:24:53.774000  8818 GraphPS.h:489] Iteration: 23, uses 1575 ms, Update 121296610, Ratio 0.907684, Skip 0
+I0329 11:24:55.293663  8818 GraphPS.h:489] Iteration: 24, uses 1519 ms, Update 121174133, Ratio 0.906768, Skip 0
+I0329 11:24:56.899520  8818 GraphPS.h:489] Iteration: 25, uses 1605 ms, Update 121098626, Ratio 0.906203, Skip 0
+I0329 11:24:58.420542  8818 GraphPS.h:489] Iteration: 26, uses 1520 ms, Update 121015554, Ratio 0.905581, Skip 0
+I0329 11:24:59.977708  8818 GraphPS.h:489] Iteration: 27, uses 1557 ms, Update 120940233, Ratio 0.905017, Skip 0
+I0329 11:25:01.624658  8818 GraphPS.h:489] Iteration: 28, uses 1646 ms, Update 120827655, Ratio 0.904175, Skip 0
+I0329 11:25:03.196650  8818 GraphPS.h:489] Iteration: 29, uses 1571 ms, Update 120742022, Ratio 0.903534, Skip 0
+I0329 11:25:04.762627  8818 GraphPS.h:489] Iteration: 30, uses 1565 ms, Update 120656818, Ratio 0.902897, Skip 0
+I0329 11:25:06.302922  8818 GraphPS.h:489] Iteration: 31, uses 1540 ms, Update 120571645, Ratio 0.902259, Skip 0
+I0329 11:25:07.799463  8818 GraphPS.h:489] Iteration: 32, uses 1496 ms, Update 120489968, Ratio 0.901648, Skip 0
+I0329 11:25:09.468152  8818 GraphPS.h:489] Iteration: 33, uses 1668 ms, Update 120421104, Ratio 0.901133, Skip 0
+I0329 11:25:11.116952  8818 GraphPS.h:489] Iteration: 34, uses 1648 ms, Update 120336864, Ratio 0.900502, Skip 0
+I0329 11:25:12.636675  8818 GraphPS.h:489] Iteration: 35, uses 1519 ms, Update 120262792, Ratio 0.899948, Skip 0
+I0329 11:25:14.241631  8818 GraphPS.h:489] Iteration: 36, uses 1604 ms, Update 120188005, Ratio 0.899388, Skip 0
+I0329 11:25:15.801538  8818 GraphPS.h:489] Iteration: 37, uses 1559 ms, Update 120105578, Ratio 0.898772, Skip 0
+I0329 11:25:17.298460  8818 GraphPS.h:489] Iteration: 38, uses 1496 ms, Update 120043286, Ratio 0.898305, Skip 0
+I0329 11:25:18.867234  8818 GraphPS.h:489] Iteration: 39, uses 1568 ms, Update 119979099, Ratio 0.897825, Skip 0
+I0329 11:25:20.363914  8818 GraphPS.h:489] Iteration: 40, uses 1496 ms, Update 119910139, Ratio 0.897309, Skip 0
+I0329 11:25:21.857235  8818 GraphPS.h:489] Iteration: 41, uses 1493 ms, Update 119833071, Ratio 0.896732, Skip 0
+I0329 11:25:23.400614  8818 GraphPS.h:489] Iteration: 42, uses 1543 ms, Update 119772937, Ratio 0.896282, Skip 0
+I0329 11:25:24.969646  8818 GraphPS.h:489] Iteration: 43, uses 1568 ms, Update 119686092, Ratio 0.895633, Skip 0
+I0329 11:25:26.466949  8818 GraphPS.h:489] Iteration: 44, uses 1497 ms, Update 119601275, Ratio 0.894998, Skip 0
+I0329 11:25:28.059877  8818 GraphPS.h:489] Iteration: 45, uses 1592 ms, Update 119543905, Ratio 0.894569, Skip 0
+I0329 11:25:29.657264  8818 GraphPS.h:489] Iteration: 46, uses 1597 ms, Update 119484622, Ratio 0.894125, Skip 0
+I0329 11:25:31.239841  8818 GraphPS.h:489] Iteration: 47, uses 1582 ms, Update 119405803, Ratio 0.893535, Skip 0
+I0329 11:25:32.742616  8818 GraphPS.h:489] Iteration: 48, uses 1502 ms, Update 119309059, Ratio 0.892811, Skip 0
+I0329 11:25:34.255512  8818 GraphPS.h:489] Iteration: 49, uses 1512 ms, Update 119231813, Ratio 0.892233, Skip 0
+I0329 11:25:35.844698  8818 GraphPS.h:489] Iteration: 50, uses 1588 ms, Update 119171348, Ratio 0.891781, Skip 0
+I0329 11:25:37.298878  8818 GraphPS.h:489] Iteration: 51, uses 1453 ms, Update 119117736, Ratio 0.891379, Skip 0
+I0329 11:25:38.778919  8818 GraphPS.h:489] Iteration: 52, uses 1479 ms, Update 119047709, Ratio 0.890855, Skip 0
+I0329 11:25:40.300704  8818 GraphPS.h:489] Iteration: 53, uses 1521 ms, Update 118986698, Ratio 0.890399, Skip 0
+I0329 11:25:41.788658  8818 GraphPS.h:489] Iteration: 54, uses 1487 ms, Update 118926075, Ratio 0.889945, Skip 0
+I0329 11:25:43.339640  8818 GraphPS.h:489] Iteration: 55, uses 1550 ms, Update 118878989, Ratio 0.889593, Skip 0
+I0329 11:25:44.847996  8818 GraphPS.h:489] Iteration: 56, uses 1507 ms, Update 118810784, Ratio 0.889082, Skip 0
+I0329 11:25:46.274037  8818 GraphPS.h:489] Iteration: 57, uses 1425 ms, Update 118742409, Ratio 0.888571, Skip 0
+I0329 11:25:47.698716  8818 GraphPS.h:489] Iteration: 58, uses 1424 ms, Update 118674892, Ratio 0.888066, Skip 0
+I0329 11:25:49.151129  8818 GraphPS.h:489] Iteration: 59, uses 1452 ms, Update 118620374, Ratio 0.887658, Skip 0
+I0329 11:25:50.578047  8818 GraphPS.h:489] Iteration: 60, uses 1426 ms, Update 118553851, Ratio 0.88716, Skip 0
+I0329 11:25:52.070001  8818 GraphPS.h:489] Iteration: 61, uses 1491 ms, Update 118496412, Ratio 0.88673, Skip 0
+I0329 11:25:53.552315  8818 GraphPS.h:489] Iteration: 62, uses 1482 ms, Update 118420654, Ratio 0.886163, Skip 0
+I0329 11:25:54.957609  8818 GraphPS.h:489] Iteration: 63, uses 1405 ms, Update 118338703, Ratio 0.88555, Skip 0
+I0329 11:25:56.375308  8818 GraphPS.h:489] Iteration: 64, uses 1417 ms, Update 118286552, Ratio 0.885159, Skip 0
+I0329 11:25:57.786231  8818 GraphPS.h:489] Iteration: 65, uses 1410 ms, Update 118200460, Ratio 0.884515, Skip 0
+I0329 11:25:59.239169  8818 GraphPS.h:489] Iteration: 66, uses 1452 ms, Update 118126516, Ratio 0.883962, Skip 0
+I0329 11:26:00.677551  8818 GraphPS.h:489] Iteration: 67, uses 1438 ms, Update 118054904, Ratio 0.883426, Skip 0
+I0329 11:26:02.164806  8818 GraphPS.h:489] Iteration: 68, uses 1487 ms, Update 117978394, Ratio 0.882853, Skip 0
+I0329 11:26:03.571007  8818 GraphPS.h:489] Iteration: 69, uses 1406 ms, Update 117905754, Ratio 0.88231, Skip 0
+I0329 11:26:05.002032  8818 GraphPS.h:489] Iteration: 70, uses 1430 ms, Update 117813457, Ratio 0.881619, Skip 0
+I0329 11:26:06.499553  8818 GraphPS.h:489] Iteration: 71, uses 1497 ms, Update 117728043, Ratio 0.88098, Skip 0
+I0329 11:26:07.949432  8818 GraphPS.h:489] Iteration: 72, uses 1449 ms, Update 117627232, Ratio 0.880226, Skip 0
+I0329 11:26:09.341229  8818 GraphPS.h:489] Iteration: 73, uses 1391 ms, Update 117543064, Ratio 0.879596, Skip 0
+I0329 11:26:10.822355  8818 GraphPS.h:489] Iteration: 74, uses 1481 ms, Update 117418551, Ratio 0.878664, Skip 0
+I0329 11:26:12.242821  8818 GraphPS.h:489] Iteration: 75, uses 1420 ms, Update 117321638, Ratio 0.877939, Skip 0
+I0329 11:26:13.616096  8818 GraphPS.h:489] Iteration: 76, uses 1372 ms, Update 117204536, Ratio 0.877063, Skip 0
+I0329 11:26:14.990034  8818 GraphPS.h:489] Iteration: 77, uses 1373 ms, Update 117109367, Ratio 0.87635, Skip 0
+I0329 11:26:16.387284  8818 GraphPS.h:489] Iteration: 78, uses 1397 ms, Update 116995080, Ratio 0.875495, Skip 0
+I0329 11:26:17.799142  8818 GraphPS.h:489] Iteration: 79, uses 1411 ms, Update 116875362, Ratio 0.874599, Skip 0
+I0329 11:26:19.177681  8818 GraphPS.h:489] Iteration: 80, uses 1378 ms, Update 116742743, Ratio 0.873607, Skip 0
+I0329 11:26:20.584126  8818 GraphPS.h:489] Iteration: 81, uses 1406 ms, Update 116617606, Ratio 0.87267, Skip 0
+I0329 11:26:22.053949  8818 GraphPS.h:489] Iteration: 82, uses 1469 ms, Update 116505911, Ratio 0.871835, Skip 0
+I0329 11:26:23.371891  8818 GraphPS.h:489] Iteration: 83, uses 1317 ms, Update 116391149, Ratio 0.870976, Skip 0
+I0329 11:26:24.841943  8818 GraphPS.h:489] Iteration: 84, uses 1469 ms, Update 116258900, Ratio 0.869986, Skip 0
+I0329 11:26:26.258755  8818 GraphPS.h:489] Iteration: 85, uses 1416 ms, Update 116126177, Ratio 0.868993, Skip 0
+I0329 11:26:27.627856  8818 GraphPS.h:489] Iteration: 86, uses 1369 ms, Update 116001411, Ratio 0.868059, Skip 0
+I0329 11:26:29.032866  8818 GraphPS.h:489] Iteration: 87, uses 1404 ms, Update 115850224, Ratio 0.866928, Skip 0
+I0329 11:26:30.421589  8818 GraphPS.h:489] Iteration: 88, uses 1388 ms, Update 115729465, Ratio 0.866024, Skip 0
+I0329 11:26:31.760934  8818 GraphPS.h:489] Iteration: 89, uses 1339 ms, Update 115553017, Ratio 0.864704, Skip 0
+I0329 11:26:33.182667  8818 GraphPS.h:489] Iteration: 90, uses 1421 ms, Update 115436215, Ratio 0.86383, Skip 0
+I0329 11:26:34.550130  8818 GraphPS.h:489] Iteration: 91, uses 1367 ms, Update 115236495, Ratio 0.862335, Skip 0
+I0329 11:26:35.869608  8818 GraphPS.h:489] Iteration: 92, uses 1319 ms, Update 115106370, Ratio 0.861362, Skip 0
+I0329 11:26:37.169594  8818 GraphPS.h:489] Iteration: 93, uses 1299 ms, Update 114919421, Ratio 0.859963, Skip 0
+I0329 11:26:38.444806  8818 GraphPS.h:489] Iteration: 94, uses 1274 ms, Update 114763797, Ratio 0.858798, Skip 0
+I0329 11:26:39.820593  8818 GraphPS.h:489] Iteration: 95, uses 1375 ms, Update 114556034, Ratio 0.857243, Skip 0
+I0329 11:26:41.090474  8818 GraphPS.h:489] Iteration: 96, uses 1269 ms, Update 114358281, Ratio 0.855763, Skip 0
+I0329 11:26:42.690016  8818 GraphPS.h:489] Iteration: 97, uses 1599 ms, Update 114143115, Ratio 0.854153, Skip 0
+I0329 11:26:44.011373  8818 GraphPS.h:489] Iteration: 98, uses 1321 ms, Update 113963052, Ratio 0.852806, Skip 0
+I0329 11:26:45.303980  8818 GraphPS.h:489] Iteration: 99, uses 1292 ms, Update 113726257, Ratio 0.851034, Skip 0
+terminate called without an active exception
+terminate called without an active exception
+terminate called without an active exception
+terminate called without an active exception
+terminate called without an active exception
+terminate called without an active exception
+terminate called without an active exception
+terminate called without an active exception
+terminate called without an active exception
+
+
